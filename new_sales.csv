@@ -1,0 +1,2001 @@
+,Order Date,Country,Region,City,Segment,Category,Sub-Category,Sales,Quantity,Profit,AOV
+0,2024-01-13,United States,Central,Los Angeles,Consumer,Office Supplies,Binders,1154.89,2,950.39,577
+1,2024-10-29,United States,South,Houston,Consumer,Office Supplies,Binders,197.5,4,195.52,49
+2,2024-10-14,United States,West,San Diego,Home Office,Office Supplies,Binders,3266.93,9,513.18,362
+3,2024-05-22,United States,East,New York,Consumer,Technology,Laptops,3505.79,6,272.38,584
+4,2024-02-22,United States,East,San Diego,Corporate,Furniture,Tables,528.75,6,826.33,88
+5,2024-08-23,United States,East,Los Angeles,Corporate,Furniture,Bookcases,440.06,5,1209.99,88
+6,2024-10-22,United States,West,New York,Home Office,Office Supplies,Paper,394.3,4,1114.22,98
+7,2024-02-21,United States,South,Dallas,Corporate,Furniture,Chairs,2294.38,6,76.51,382
+8,2024-12-09,United States,Central,Chicago,Home Office,Technology,Phones,4686.44,2,835.52,2343
+9,2024-05-05,United States,West,Phoenix,Corporate,Furniture,Bookcases,1928.3,9,173.35,214
+10,2024-04-27,United States,East,San Diego,Corporate,Technology,Phones,2035.77,2,158.67,1017
+11,2024-06-10,United States,West,Philadelphia,Home Office,Office Supplies,Storage,2521.19,8,42.88,315
+12,2024-10-14,United States,Central,San Diego,Home Office,Furniture,Chairs,2943.7,10,478.98,294
+13,2024-09-17,United States,South,Philadelphia,Consumer,Furniture,Chairs,3791.12,2,59.83,1895
+14,2024-08-04,United States,East,Philadelphia,Corporate,Furniture,Bookcases,1939.02,8,699.49,242
+15,2024-12-14,United States,East,Los Angeles,Home Office,Office Supplies,Binders,4429.7,5,1106.62,885
+16,2024-05-30,United States,South,San Jose,Consumer,Technology,Phones,2295.93,5,1452.21,459
+17,2024-02-24,United States,Central,Phoenix,Home Office,Furniture,Bookcases,2562.93,4,59.83,640
+18,2024-09-28,United States,East,Los Angeles,Home Office,Furniture,Bookcases,1654.57,1,-9.82,1654
+19,2024-05-02,United States,East,Dallas,Consumer,Technology,Accessories,4396.15,2,-54.39,2198
+20,2024-09-29,United States,West,San Antonio,Consumer,Technology,Phones,3315.77,9,80.72,368
+21,2024-08-04,United States,West,Phoenix,Home Office,Office Supplies,Storage,3788.56,4,1012.01,947
+22,2024-11-28,United States,Central,Phoenix,Corporate,Technology,Laptops,4503.09,8,5.71,562
+23,2024-06-22,United States,East,Dallas,Home Office,Furniture,Chairs,2791.91,10,174.37,279
+24,2024-11-19,United States,East,Dallas,Consumer,Furniture,Bookcases,383.63,1,1261.38,383
+25,2024-05-01,United States,Central,Los Angeles,Home Office,Furniture,Bookcases,2452.8,9,24.93,272
+26,2024-08-30,United States,West,San Antonio,Corporate,Office Supplies,Storage,4047.11,4,-39.65,1011
+27,2024-06-30,United States,South,San Antonio,Corporate,Office Supplies,Paper,2361.77,1,944.72,2361
+28,2024-02-01,United States,South,San Jose,Home Office,Office Supplies,Binders,1729.55,2,222.72,864
+29,2024-08-17,United States,West,Houston,Corporate,Furniture,Bookcases,958.27,8,224.67,119
+30,2024-10-08,United States,East,San Jose,Consumer,Furniture,Tables,3278.12,9,1221.25,364
+31,2024-03-26,United States,South,Philadelphia,Corporate,Furniture,Chairs,2432.72,7,1334.15,347
+32,2024-01-02,United States,South,San Antonio,Corporate,Furniture,Tables,4636.26,8,284.92,579
+33,2024-10-11,United States,South,New York,Consumer,Office Supplies,Storage,989.99,4,1446.81,247
+34,2024-10-04,United States,East,Chicago,Home Office,Office Supplies,Storage,1602.34,1,793.1,1602
+35,2024-03-21,United States,East,Dallas,Home Office,Office Supplies,Storage,446.55,3,-83.51,148
+36,2024-04-30,United States,South,Philadelphia,Consumer,Furniture,Bookcases,4710.9,10,218.57,471
+37,2024-11-13,United States,East,New York,Corporate,Office Supplies,Binders,3304.0,10,688.73,330
+38,2024-12-08,United States,Central,Houston,Consumer,Technology,Phones,1364.79,3,941.87,454
+39,2024-06-10,United States,East,San Diego,Consumer,Technology,Accessories,2318.51,10,1493.36,231
+40,2024-04-19,United States,Central,New York,Consumer,Furniture,Bookcases,4669.63,2,1294.76,2334
+41,2024-03-21,United States,South,Houston,Home Office,Technology,Accessories,3532.52,10,1472.55,353
+42,2024-01-05,United States,Central,San Antonio,Home Office,Office Supplies,Storage,562.75,3,249.59,187
+43,2024-10-10,United States,West,Los Angeles,Corporate,Furniture,Bookcases,1444.69,4,1019.94,361
+44,2024-11-20,United States,Central,San Jose,Home Office,Furniture,Bookcases,2468.23,1,-43.09,2468
+45,2024-01-23,United States,East,Houston,Corporate,Technology,Accessories,3867.04,5,74.69,773
+46,2024-12-27,United States,South,San Antonio,Home Office,Technology,Laptops,97.87,2,1406.59,48
+47,2024-10-06,United States,East,Chicago,Corporate,Office Supplies,Binders,2933.42,3,530.64,977
+48,2024-07-05,United States,East,San Jose,Corporate,Furniture,Tables,1089.88,4,933.79,272
+49,2024-07-27,United States,West,Houston,Consumer,Technology,Laptops,4329.8,3,1298.41,1443
+50,2024-06-19,United States,South,Phoenix,Home Office,Furniture,Chairs,4327.12,4,253.57,1081
+51,2024-07-14,United States,East,San Antonio,Corporate,Office Supplies,Binders,1151.05,8,394.42,143
+52,2024-01-13,United States,West,San Diego,Corporate,Furniture,Chairs,1674.9,2,1443.71,837
+53,2024-11-24,United States,South,Dallas,Home Office,Technology,Accessories,4906.69,9,362.95,545
+54,2024-05-13,United States,West,San Diego,Home Office,Furniture,Chairs,4814.54,5,-134.96,962
+55,2024-06-25,United States,Central,San Jose,Corporate,Office Supplies,Paper,3050.73,9,-3.4,338
+56,2024-05-10,United States,East,Houston,Home Office,Office Supplies,Binders,2208.48,9,1373.48,245
+57,2024-12-09,United States,West,San Antonio,Corporate,Office Supplies,Storage,2184.92,6,859.36,364
+58,2024-06-02,United States,Central,San Diego,Home Office,Office Supplies,Binders,2071.54,7,985.25,295
+59,2024-04-08,United States,South,San Antonio,Home Office,Office Supplies,Binders,4704.8,3,846.38,1568
+60,2024-10-07,United States,East,Los Angeles,Corporate,Technology,Accessories,1470.22,7,1135.79,210
+61,2024-06-13,United States,South,New York,Corporate,Office Supplies,Storage,2238.69,4,669.0,559
+62,2024-12-03,United States,East,Philadelphia,Corporate,Office Supplies,Binders,2601.49,10,369.82,260
+63,2024-06-07,United States,West,San Jose,Consumer,Furniture,Bookcases,779.4,1,216.23,779
+64,2024-02-07,United States,South,San Jose,Corporate,Technology,Laptops,4436.38,10,130.54,443
+65,2024-09-10,United States,South,Philadelphia,Consumer,Office Supplies,Paper,780.48,1,1317.52,780
+66,2024-04-22,United States,West,Philadelphia,Home Office,Furniture,Tables,2613.89,1,747.59,2613
+67,2024-03-09,United States,South,Chicago,Home Office,Furniture,Tables,2679.1,9,812.27,297
+68,2024-09-15,United States,South,San Antonio,Home Office,Technology,Laptops,2257.27,3,1064.21,752
+69,2024-05-12,United States,West,Los Angeles,Home Office,Technology,Accessories,1422.69,9,623.81,158
+70,2024-08-13,United States,East,San Diego,Home Office,Furniture,Tables,1464.35,5,370.94,292
+71,2024-03-11,United States,West,San Antonio,Consumer,Office Supplies,Binders,1946.02,3,1000.91,648
+72,2024-07-27,United States,Central,San Diego,Home Office,Furniture,Tables,2356.33,1,151.62,2356
+73,2024-10-26,United States,East,Phoenix,Home Office,Technology,Accessories,1932.89,1,1402.66,1932
+74,2024-08-02,United States,West,San Antonio,Corporate,Technology,Accessories,1136.14,7,625.59,162
+75,2024-12-08,United States,South,San Diego,Home Office,Technology,Accessories,866.97,8,1363.22,108
+76,2024-01-14,United States,South,Philadelphia,Home Office,Office Supplies,Storage,2843.74,1,-57.29,2843
+77,2024-08-24,United States,West,San Jose,Consumer,Technology,Phones,1337.77,6,159.82,222
+78,2024-07-13,United States,Central,New York,Corporate,Technology,Accessories,1298.74,2,599.52,649
+79,2024-01-27,United States,Central,Chicago,Consumer,Office Supplies,Storage,3268.21,1,1082.2,3268
+80,2024-01-11,United States,West,Philadelphia,Consumer,Furniture,Chairs,674.79,2,758.75,337
+81,2024-12-24,United States,Central,San Jose,Corporate,Furniture,Tables,880.56,10,1438.35,88
+82,2024-03-24,United States,Central,Philadelphia,Consumer,Office Supplies,Binders,2914.49,5,778.85,582
+83,2024-04-11,United States,East,Chicago,Home Office,Technology,Accessories,3468.54,4,-26.77,867
+84,2024-11-03,United States,East,Dallas,Home Office,Technology,Laptops,3924.04,6,705.67,654
+85,2024-02-05,United States,Central,San Diego,Consumer,Office Supplies,Paper,4255.4,8,-20.58,531
+86,2024-08-23,United States,West,Phoenix,Corporate,Technology,Laptops,921.88,9,1441.31,102
+87,2024-10-02,United States,South,San Diego,Corporate,Technology,Laptops,2206.09,10,256.27,220
+88,2024-05-22,United States,South,New York,Consumer,Furniture,Chairs,3764.86,10,837.56,376
+89,2024-01-15,United States,South,San Diego,Corporate,Technology,Accessories,950.11,4,403.2,237
+90,2024-05-23,United States,Central,San Diego,Home Office,Technology,Accessories,100.25,4,-54.46,25
+91,2024-09-07,United States,West,Los Angeles,Home Office,Office Supplies,Paper,2406.66,8,561.9,300
+92,2024-05-30,United States,West,San Diego,Corporate,Furniture,Chairs,3474.35,5,928.73,694
+93,2024-10-10,United States,Central,New York,Corporate,Technology,Accessories,4983.33,9,362.35,553
+94,2024-05-18,United States,Central,Los Angeles,Corporate,Office Supplies,Paper,1191.16,4,336.43,297
+95,2024-12-19,United States,West,New York,Consumer,Office Supplies,Storage,1121.1,8,270.05,140
+96,2024-11-01,United States,Central,New York,Consumer,Office Supplies,Storage,4171.51,5,186.72,834
+97,2024-01-08,United States,West,Houston,Corporate,Furniture,Tables,275.3,1,740.71,275
+98,2024-11-22,United States,South,Los Angeles,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+99,2024-06-23,United States,West,New York,Consumer,Technology,Accessories,1299.77,8,-6.05,162
+100,2024-09-08,United States,East,Chicago,Home Office,Furniture,Tables,3165.76,1,57.94,3165
+101,2024-02-13,United States,West,Dallas,Consumer,Office Supplies,Paper,2812.46,7,830.74,401
+102,2024-09-24,United States,South,Phoenix,Corporate,Office Supplies,Binders,4547.1,5,1262.28,909
+103,2024-10-18,United States,East,Dallas,Home Office,Technology,Accessories,4802.54,2,1410.9,2401
+104,2024-04-18,United States,Central,Phoenix,Home Office,Furniture,Bookcases,451.88,4,95.48,112
+105,2024-01-02,United States,South,Los Angeles,Corporate,Furniture,Chairs,3462.39,8,295.14,432
+106,2024-12-27,United States,Central,Houston,Home Office,Furniture,Tables,4305.05,2,968.55,2152
+107,2024-10-28,United States,West,Chicago,Corporate,Technology,Laptops,618.14,4,900.98,154
+108,2024-02-06,United States,East,Philadelphia,Consumer,Technology,Phones,3973.51,10,1073.23,397
+109,2024-08-12,United States,East,Chicago,Corporate,Office Supplies,Paper,3458.96,7,1402.55,494
+110,2024-09-09,United States,South,Los Angeles,Consumer,Office Supplies,Storage,3010.28,7,1048.71,430
+111,2024-01-14,United States,East,Los Angeles,Consumer,Office Supplies,Paper,4811.46,10,798.11,481
+112,2024-05-17,United States,East,San Diego,Consumer,Furniture,Bookcases,2378.98,8,1357.32,297
+113,2024-08-11,United States,South,Los Angeles,Consumer,Furniture,Bookcases,2376.55,7,366.62,339
+114,2024-03-23,United States,Central,New York,Corporate,Office Supplies,Binders,3483.68,5,926.39,696
+115,2024-01-19,United States,South,Chicago,Consumer,Technology,Laptops,1606.86,6,-2.93,267
+116,2024-01-01,United States,South,Philadelphia,Corporate,Technology,Laptops,318.31,9,415.02,35
+117,2024-08-14,United States,East,Houston,Consumer,Technology,Laptops,1371.93,3,1377.04,457
+118,2024-09-05,United States,East,Houston,Consumer,Technology,Laptops,4867.08,10,1158.83,486
+119,2024-06-08,United States,East,San Diego,Home Office,Office Supplies,Binders,2069.55,4,1486.84,517
+120,2024-03-01,United States,West,San Diego,Corporate,Furniture,Tables,4666.63,5,665.08,933
+121,2024-09-04,United States,South,Dallas,Consumer,Technology,Accessories,2311.09,3,452.1,770
+122,2024-03-10,United States,East,San Jose,Corporate,Office Supplies,Storage,3874.74,7,377.79,553
+123,2024-01-02,United States,Central,Houston,Home Office,Office Supplies,Paper,1527.85,10,785.87,152
+124,2024-03-17,United States,South,San Antonio,Home Office,Office Supplies,Paper,2447.49,6,738.26,407
+125,2024-08-21,United States,Central,San Antonio,Consumer,Office Supplies,Paper,4904.83,4,772.06,1226
+126,2024-01-23,United States,Central,San Diego,Home Office,Furniture,Tables,2391.23,7,456.33,341
+127,2024-03-18,United States,South,San Antonio,Consumer,Office Supplies,Storage,674.92,10,364.39,67
+128,2024-02-21,United States,South,San Diego,Consumer,Furniture,Tables,3626.1,7,1280.59,518
+129,2024-08-28,United States,Central,Los Angeles,Corporate,Furniture,Chairs,3135.13,7,904.72,447
+130,2024-09-30,United States,South,Chicago,Corporate,Technology,Laptops,3152.66,8,1283.05,394
+131,2024-02-05,United States,West,Houston,Home Office,Furniture,Bookcases,3437.78,5,1495.62,687
+132,2024-08-10,United States,East,New York,Home Office,Office Supplies,Binders,3534.26,2,554.25,1767
+133,2024-01-15,United States,East,Chicago,Corporate,Office Supplies,Paper,3990.91,5,409.39,798
+134,2024-05-05,United States,South,Dallas,Home Office,Technology,Phones,3424.91,3,88.97,1141
+135,2024-07-14,United States,West,Los Angeles,Corporate,Furniture,Bookcases,4568.5,3,194.72,1522
+136,2024-08-23,United States,Central,Houston,Home Office,Office Supplies,Paper,96.52,8,1332.06,12
+137,2024-03-21,United States,East,San Jose,Corporate,Office Supplies,Storage,4728.92,10,308.56,472
+138,2024-05-08,United States,South,Los Angeles,Corporate,Technology,Laptops,1036.12,7,1250.67,148
+139,2024-07-14,United States,Central,Dallas,Home Office,Furniture,Chairs,1514.57,5,-162.7,302
+140,2024-05-20,United States,East,Phoenix,Home Office,Office Supplies,Paper,4332.08,1,1348.05,4332
+141,2024-05-26,United States,West,Chicago,Home Office,Office Supplies,Paper,4019.56,4,882.25,1004
+142,2024-12-13,United States,West,Dallas,Home Office,Office Supplies,Paper,530.96,1,325.19,530
+143,2024-10-23,United States,Central,San Antonio,Home Office,Technology,Phones,700.49,5,355.42,140
+144,2024-04-12,United States,West,Dallas,Home Office,Technology,Phones,4388.48,6,702.45,731
+145,2024-05-11,United States,South,San Diego,Corporate,Technology,Phones,3745.47,6,1167.2,624
+146,2024-03-13,United States,West,New York,Home Office,Technology,Phones,3634.87,7,1444.36,519
+147,2024-02-16,United States,South,Phoenix,Consumer,Office Supplies,Paper,1359.07,2,573.14,679
+148,2024-12-10,United States,Central,Los Angeles,Home Office,Office Supplies,Storage,1936.08,6,-15.81,322
+149,2024-01-13,United States,Central,San Jose,Home Office,Furniture,Tables,1145.77,2,880.19,572
+150,2024-06-03,United States,South,San Jose,Consumer,Technology,Laptops,741.9,1,317.42,741
+151,2024-02-19,United States,West,Houston,Home Office,Technology,Phones,721.54,8,430.72,90
+152,2024-10-03,United States,South,Philadelphia,Home Office,Office Supplies,Storage,3724.23,3,1305.2,1241
+153,2024-09-07,United States,South,Los Angeles,Corporate,Office Supplies,Binders,211.95,6,169.36,35
+154,2024-07-04,United States,East,Dallas,Home Office,Technology,Phones,1868.31,6,-97.06,311
+155,2024-03-03,United States,South,San Antonio,Consumer,Technology,Phones,3330.71,10,1450.86,333
+156,2024-05-04,United States,West,Chicago,Home Office,Furniture,Tables,1065.77,9,152.17,118
+157,2024-06-17,United States,West,Phoenix,Home Office,Furniture,Chairs,64.04,3,1478.8,21
+158,2024-03-30,United States,East,Houston,Home Office,Office Supplies,Paper,4338.92,3,-174.74,1446
+159,2024-06-14,United States,East,San Diego,Consumer,Furniture,Bookcases,1363.57,3,1060.92,454
+160,2024-02-02,United States,South,San Diego,Corporate,Office Supplies,Binders,3901.18,9,809.23,433
+161,2024-04-23,United States,East,San Antonio,Home Office,Technology,Laptops,3926.97,9,312.77,436
+162,2024-02-01,United States,South,Los Angeles,Corporate,Office Supplies,Binders,2160.05,2,633.46,1080
+163,2024-02-11,United States,Central,Los Angeles,Home Office,Technology,Phones,784.25,3,267.53,261
+164,2024-10-07,United States,Central,Philadelphia,Corporate,Office Supplies,Storage,4973.41,9,301.33,552
+165,2024-08-08,United States,East,Chicago,Home Office,Office Supplies,Storage,616.35,9,1025.43,68
+166,2024-08-19,United States,West,Dallas,Corporate,Furniture,Tables,1727.71,8,477.84,215
+167,2024-06-09,United States,South,Phoenix,Corporate,Office Supplies,Binders,3342.28,6,1421.11,557
+168,2024-02-04,United States,East,San Antonio,Consumer,Office Supplies,Paper,511.49,2,1065.8,255
+169,2024-10-11,United States,East,San Jose,Home Office,Technology,Phones,4785.29,9,360.4,531
+170,2024-06-30,United States,South,Dallas,Home Office,Furniture,Tables,304.66,5,820.7,60
+171,2024-10-22,United States,West,Chicago,Consumer,Technology,Phones,3300.84,4,1240.37,825
+172,2024-07-07,United States,East,New York,Corporate,Technology,Laptops,2891.8,7,1236.76,413
+173,2024-12-11,United States,East,Phoenix,Home Office,Office Supplies,Storage,4648.97,5,-150.78,929
+174,2024-06-07,United States,Central,Philadelphia,Corporate,Technology,Laptops,80.22,3,762.75,26
+175,2024-03-13,United States,East,San Diego,Consumer,Technology,Phones,3743.25,4,439.53,935
+176,2024-03-21,United States,Central,Phoenix,Corporate,Technology,Accessories,3621.9,10,813.58,362
+177,2024-03-21,United States,East,Dallas,Home Office,Furniture,Chairs,453.83,8,925.3,56
+178,2024-08-14,United States,South,New York,Corporate,Technology,Laptops,1117.07,9,-6.51,124
+179,2024-05-25,United States,South,Chicago,Home Office,Technology,Phones,3352.31,1,174.88,3352
+180,2024-01-04,United States,West,Houston,Corporate,Office Supplies,Binders,4729.35,3,1099.07,1576
+181,2024-03-02,United States,East,New York,Corporate,Technology,Accessories,3747.72,3,19.62,1249
+182,2024-04-27,United States,Central,Philadelphia,Consumer,Office Supplies,Storage,2015.5,1,541.57,2015
+183,2024-06-09,United States,South,Philadelphia,Home Office,Technology,Phones,2051.89,7,292.18,293
+184,2024-06-15,United States,West,Houston,Home Office,Technology,Phones,2327.48,6,-50.18,387
+185,2024-08-11,United States,South,Chicago,Home Office,Furniture,Chairs,439.3,5,1067.87,87
+186,2024-03-27,United States,East,San Antonio,Home Office,Furniture,Tables,3184.46,9,666.92,353
+187,2024-11-26,United States,West,Dallas,Consumer,Technology,Accessories,558.88,5,135.36,111
+188,2024-12-01,United States,East,San Diego,Consumer,Office Supplies,Binders,4758.9,8,588.72,594
+189,2024-08-17,United States,Central,Los Angeles,Home Office,Office Supplies,Storage,1614.89,8,-83.91,201
+190,2024-06-04,United States,Central,Philadelphia,Home Office,Technology,Laptops,328.05,9,-73.88,36
+191,2024-01-20,United States,East,New York,Corporate,Technology,Accessories,4166.9,2,895.93,2083
+192,2024-10-31,United States,South,Philadelphia,Corporate,Furniture,Bookcases,2922.63,1,564.55,2922
+193,2024-04-06,United States,Central,San Diego,Home Office,Office Supplies,Storage,2404.36,3,1428.13,801
+194,2024-06-24,United States,East,Houston,Home Office,Technology,Phones,3248.33,1,221.16,3248
+195,2024-09-25,United States,West,New York,Corporate,Technology,Accessories,1895.62,5,458.61,379
+196,2024-11-02,United States,East,Phoenix,Home Office,Technology,Laptops,3254.16,2,360.47,1627
+197,2024-07-16,United States,Central,San Diego,Corporate,Office Supplies,Storage,3632.48,10,1284.58,363
+198,2024-10-25,United States,West,San Diego,Corporate,Technology,Phones,1585.65,7,19.22,226
+199,2024-06-07,United States,South,New York,Home Office,Office Supplies,Binders,3968.73,3,939.2,1322
+200,2024-09-26,United States,East,Dallas,Home Office,Office Supplies,Storage,3368.76,9,415.11,374
+201,2024-04-02,United States,West,San Jose,Corporate,Technology,Accessories,4740.96,8,126.41,592
+202,2024-02-09,United States,Central,Chicago,Consumer,Furniture,Chairs,2563.06,9,1219.7,284
+203,2024-12-04,United States,Central,Dallas,Home Office,Office Supplies,Binders,698.69,7,62.23,99
+204,2024-11-15,United States,West,San Diego,Home Office,Furniture,Bookcases,2216.48,7,419.31,316
+205,2024-08-15,United States,Central,Philadelphia,Home Office,Office Supplies,Binders,3929.81,4,707.82,982
+206,2024-04-09,United States,Central,San Antonio,Home Office,Technology,Accessories,4738.29,8,584.86,592
+207,2024-09-14,United States,South,San Diego,Consumer,Technology,Accessories,4093.61,10,35.28,409
+208,2024-11-24,United States,South,San Antonio,Corporate,Technology,Phones,2794.98,2,1009.38,1397
+209,2024-05-25,United States,East,San Jose,Consumer,Office Supplies,Binders,1400.32,9,50.49,155
+210,2024-04-23,United States,South,San Jose,Corporate,Technology,Phones,4655.84,7,-109.46,665
+211,2024-04-30,United States,South,San Diego,Consumer,Office Supplies,Paper,1905.82,1,341.76,1905
+212,2024-11-28,United States,Central,San Antonio,Consumer,Furniture,Bookcases,731.12,5,1359.57,146
+213,2024-03-12,United States,South,Phoenix,Corporate,Technology,Laptops,3095.97,2,-167.69,1547
+214,2024-10-07,United States,South,Philadelphia,Consumer,Furniture,Chairs,3892.05,4,311.96,973
+215,2024-08-02,United States,South,Chicago,Consumer,Furniture,Chairs,598.75,8,814.46,74
+216,2024-09-20,United States,West,Houston,Home Office,Furniture,Bookcases,760.71,7,-197.34,108
+217,2024-10-19,United States,South,San Diego,Consumer,Technology,Phones,3338.64,2,689.92,1669
+218,2024-09-26,United States,East,New York,Corporate,Technology,Phones,4372.99,1,880.64,4372
+219,2024-01-09,United States,Central,Houston,Consumer,Technology,Accessories,1756.77,2,1111.55,878
+220,2024-03-09,United States,East,Philadelphia,Corporate,Office Supplies,Paper,2752.77,3,1211.65,917
+221,2024-12-22,United States,South,Chicago,Home Office,Office Supplies,Paper,952.28,3,-92.73,317
+222,2024-05-30,United States,West,Dallas,Consumer,Technology,Phones,3965.99,1,336.51,3965
+223,2024-07-22,United States,South,San Antonio,Corporate,Technology,Laptops,231.27,4,286.39,57
+224,2024-06-18,United States,Central,San Diego,Consumer,Furniture,Bookcases,4006.74,7,1312.13,572
+225,2024-07-16,United States,Central,Chicago,Consumer,Office Supplies,Paper,2506.21,8,424.49,313
+226,2024-02-12,United States,South,Houston,Consumer,Office Supplies,Paper,2181.51,3,727.31,727
+227,2024-02-10,United States,Central,San Antonio,Home Office,Technology,Phones,1513.42,8,824.46,189
+228,2024-12-19,United States,South,San Diego,Corporate,Technology,Phones,2263.29,6,845.25,377
+229,2024-11-23,United States,East,San Jose,Consumer,Technology,Accessories,3372.36,7,417.63,481
+230,2024-03-22,United States,East,San Jose,Consumer,Office Supplies,Storage,4250.91,8,-140.84,531
+231,2024-11-26,United States,Central,Dallas,Corporate,Furniture,Chairs,1945.13,10,-144.94,194
+232,2024-08-18,United States,Central,Houston,Corporate,Furniture,Bookcases,2247.5,2,775.67,1123
+233,2024-07-22,United States,Central,New York,Home Office,Office Supplies,Paper,1429.51,2,-155.95,714
+234,2024-09-22,United States,South,New York,Home Office,Furniture,Tables,632.92,5,996.86,126
+235,2024-05-26,United States,South,San Antonio,Consumer,Furniture,Bookcases,657.06,2,568.47,328
+236,2024-02-14,United States,Central,Phoenix,Home Office,Office Supplies,Paper,1769.76,2,735.0,884
+237,2024-03-21,United States,West,Houston,Corporate,Technology,Accessories,2568.34,2,1474.73,1284
+238,2024-09-09,United States,East,Phoenix,Corporate,Furniture,Chairs,2792.41,6,594.59,465
+239,2024-11-09,United States,East,Chicago,Consumer,Office Supplies,Binders,1580.99,8,693.68,197
+240,2024-02-07,United States,West,Philadelphia,Corporate,Technology,Laptops,3229.58,8,591.92,403
+241,2024-03-06,United States,West,Houston,Consumer,Office Supplies,Paper,2191.46,1,1213.36,2191
+242,2024-06-04,United States,West,San Diego,Consumer,Office Supplies,Binders,1647.17,4,388.24,411
+243,2024-02-10,United States,Central,Chicago,Consumer,Office Supplies,Paper,3193.53,9,266.57,354
+244,2024-11-10,United States,East,Los Angeles,Home Office,Office Supplies,Paper,3222.89,10,1400.73,322
+245,2024-12-03,United States,Central,Chicago,Home Office,Furniture,Chairs,253.91,1,-61.92,253
+246,2024-05-15,United States,West,Los Angeles,Home Office,Office Supplies,Storage,2112.1,1,646.66,2112
+247,2024-05-28,United States,Central,Los Angeles,Corporate,Office Supplies,Storage,1262.15,7,305.64,180
+248,2024-01-31,United States,West,San Jose,Corporate,Furniture,Bookcases,2107.33,8,146.84,263
+249,2024-06-09,United States,Central,Houston,Home Office,Office Supplies,Binders,4940.72,6,1458.14,823
+250,2024-09-20,United States,East,Phoenix,Corporate,Furniture,Tables,1246.6,2,254.7,623
+251,2024-02-19,United States,East,Dallas,Corporate,Furniture,Chairs,4729.66,10,510.83,472
+252,2024-10-22,United States,Central,Philadelphia,Consumer,Furniture,Tables,3827.45,8,1493.15,478
+253,2024-06-06,United States,South,Phoenix,Consumer,Technology,Accessories,495.74,7,659.26,70
+254,2024-10-25,United States,Central,Philadelphia,Consumer,Furniture,Chairs,300.18,8,815.78,37
+255,2024-08-28,United States,Central,Chicago,Home Office,Office Supplies,Storage,90.48,2,532.58,45
+256,2024-07-06,United States,South,San Antonio,Corporate,Technology,Laptops,273.95,1,769.48,273
+257,2024-10-10,United States,Central,San Antonio,Consumer,Furniture,Tables,1962.43,8,1099.49,245
+258,2024-12-14,United States,East,Philadelphia,Consumer,Technology,Laptops,4876.66,7,434.44,696
+259,2024-07-06,United States,West,Philadelphia,Consumer,Technology,Laptops,3032.19,7,650.13,433
+260,2024-03-11,United States,Central,New York,Corporate,Furniture,Chairs,2620.7,3,830.64,873
+261,2024-06-16,United States,Central,Dallas,Consumer,Office Supplies,Binders,1995.13,10,1056.84,199
+262,2024-06-21,United States,South,Chicago,Home Office,Technology,Laptops,2836.48,8,1186.77,354
+263,2024-12-10,United States,East,San Antonio,Corporate,Technology,Accessories,2939.33,1,814.75,2939
+264,2024-10-23,United States,West,New York,Home Office,Technology,Laptops,304.21,8,89.87,38
+265,2024-11-13,United States,South,Dallas,Consumer,Office Supplies,Storage,4117.22,4,-146.33,1029
+266,2024-04-07,United States,East,Phoenix,Corporate,Office Supplies,Binders,1602.78,3,502.03,534
+267,2024-09-13,United States,South,Los Angeles,Home Office,Furniture,Tables,3650.64,3,681.76,1216
+268,2024-12-05,United States,South,New York,Home Office,Office Supplies,Paper,1915.28,3,581.43,638
+269,2024-10-06,United States,Central,Houston,Home Office,Office Supplies,Paper,3871.35,5,837.13,774
+270,2024-05-22,United States,Central,San Diego,Consumer,Furniture,Chairs,4710.35,5,1111.0,942
+271,2024-12-19,United States,South,Philadelphia,Corporate,Office Supplies,Binders,2425.03,9,1387.29,269
+272,2024-05-27,United States,East,Los Angeles,Home Office,Office Supplies,Paper,3399.28,7,1322.79,485
+273,2024-03-15,United States,Central,New York,Consumer,Technology,Accessories,1473.77,2,388.82,736
+274,2024-05-11,United States,South,New York,Consumer,Technology,Laptops,1050.24,9,260.93,116
+275,2024-05-19,United States,West,Chicago,Consumer,Office Supplies,Storage,3097.6,10,206.78,309
+276,2024-09-28,United States,West,San Antonio,Home Office,Furniture,Bookcases,1202.54,2,502.61,601
+277,2024-02-21,United States,West,Los Angeles,Consumer,Office Supplies,Paper,4824.37,3,491.74,1608
+278,2024-11-29,United States,West,Philadelphia,Corporate,Technology,Accessories,1639.78,1,1343.49,1639
+279,2024-10-20,United States,West,New York,Home Office,Furniture,Bookcases,3706.5,1,1352.49,3706
+280,2024-03-31,United States,East,San Antonio,Corporate,Furniture,Tables,3950.41,3,1392.23,1316
+281,2024-01-05,United States,Central,Dallas,Home Office,Technology,Phones,3033.78,6,283.75,505
+282,2024-09-25,United States,South,Los Angeles,Consumer,Office Supplies,Storage,4262.75,8,263.82,532
+283,2024-03-24,United States,South,San Jose,Home Office,Furniture,Tables,1323.46,3,-176.06,441
+284,2024-10-17,United States,West,Philadelphia,Consumer,Technology,Accessories,3074.22,7,1205.88,439
+285,2024-02-14,United States,South,Chicago,Home Office,Office Supplies,Paper,522.16,3,611.67,174
+286,2024-05-13,United States,South,San Antonio,Consumer,Furniture,Chairs,2261.34,5,1421.86,452
+287,2024-10-20,United States,East,Houston,Corporate,Technology,Laptops,3285.73,4,-94.39,821
+288,2024-06-06,United States,West,San Jose,Corporate,Furniture,Tables,3446.06,5,973.49,689
+289,2024-07-07,United States,West,Phoenix,Consumer,Office Supplies,Paper,4788.93,8,60.42,598
+290,2024-07-10,United States,South,San Jose,Home Office,Office Supplies,Storage,2768.71,8,1087.5,346
+291,2024-05-06,United States,East,New York,Home Office,Office Supplies,Binders,2261.4,6,-67.23,376
+292,2024-02-01,United States,West,Los Angeles,Home Office,Office Supplies,Binders,2706.47,3,357.8,902
+293,2024-02-29,United States,West,San Diego,Home Office,Office Supplies,Paper,2936.58,2,1328.11,1468
+294,2024-08-20,United States,West,Los Angeles,Home Office,Technology,Phones,2106.35,10,-101.85,210
+295,2024-06-06,United States,East,Phoenix,Corporate,Technology,Laptops,1309.56,1,1067.87,1309
+296,2024-01-24,United States,South,Los Angeles,Corporate,Office Supplies,Binders,3516.91,9,1490.01,390
+297,2024-01-17,United States,Central,Los Angeles,Corporate,Furniture,Tables,940.91,3,1101.91,313
+298,2024-08-03,United States,Central,San Diego,Corporate,Office Supplies,Storage,2270.26,7,438.6,324
+299,2024-10-03,United States,West,Los Angeles,Home Office,Office Supplies,Storage,4308.42,2,103.41,2154
+300,2024-09-27,United States,West,San Antonio,Home Office,Office Supplies,Paper,4894.69,1,1085.51,4894
+301,2024-12-10,United States,South,Philadelphia,Home Office,Technology,Accessories,1927.42,4,220.77,481
+302,2024-05-21,United States,West,Houston,Home Office,Technology,Phones,3839.18,1,1176.11,3839
+303,2024-01-09,United States,West,San Jose,Consumer,Technology,Laptops,383.09,10,-142.92,38
+304,2024-12-26,United States,East,Philadelphia,Consumer,Office Supplies,Storage,3715.68,7,546.24,530
+305,2024-01-29,United States,West,San Diego,Home Office,Office Supplies,Binders,4967.74,4,1186.84,1241
+306,2024-06-12,United States,Central,Philadelphia,Consumer,Office Supplies,Storage,1543.73,3,1475.68,514
+307,2024-07-30,United States,Central,Philadelphia,Corporate,Office Supplies,Binders,351.74,10,1295.51,35
+308,2024-12-13,United States,South,Dallas,Home Office,Furniture,Bookcases,2503.32,6,1400.7,417
+309,2024-09-25,United States,Central,Houston,Home Office,Office Supplies,Paper,2110.81,3,309.81,703
+310,2024-08-30,United States,West,Philadelphia,Consumer,Furniture,Bookcases,1538.65,3,1169.82,512
+311,2024-07-30,United States,South,New York,Home Office,Furniture,Bookcases,2673.46,7,212.86,381
+312,2024-11-27,United States,East,Houston,Corporate,Furniture,Tables,4243.31,2,710.58,2121
+313,2024-05-17,United States,South,Chicago,Home Office,Furniture,Chairs,3044.6,1,1285.15,3044
+314,2024-12-09,United States,West,San Diego,Corporate,Furniture,Bookcases,1084.0,6,315.42,180
+315,2024-04-07,United States,East,San Jose,Home Office,Furniture,Chairs,4997.88,8,1354.55,624
+316,2024-12-26,United States,West,San Diego,Corporate,Office Supplies,Storage,4579.88,9,346.75,508
+317,2024-08-26,United States,Central,Chicago,Corporate,Technology,Accessories,1344.73,9,1300.78,149
+318,2024-08-28,United States,Central,New York,Consumer,Technology,Phones,1884.99,7,-122.28,269
+319,2024-03-15,United States,East,Phoenix,Corporate,Furniture,Bookcases,2788.89,10,784.54,278
+320,2024-03-19,United States,West,Philadelphia,Corporate,Technology,Accessories,1188.59,10,1216.72,118
+321,2024-12-01,United States,Central,Houston,Corporate,Technology,Laptops,3828.64,8,1443.06,478
+322,2024-09-08,United States,South,New York,Consumer,Office Supplies,Storage,3677.22,6,87.75,612
+323,2024-09-07,United States,West,Los Angeles,Home Office,Office Supplies,Storage,4952.1,1,690.71,4952
+324,2024-01-25,United States,East,Philadelphia,Corporate,Furniture,Bookcases,730.58,4,-84.45,182
+325,2024-04-21,United States,South,San Antonio,Corporate,Furniture,Chairs,349.23,10,1351.68,34
+326,2024-01-09,United States,East,Houston,Home Office,Office Supplies,Paper,2780.64,1,-171.57,2780
+327,2024-10-01,United States,Central,Phoenix,Consumer,Office Supplies,Paper,2535.97,7,1170.49,362
+328,2024-02-19,United States,West,Phoenix,Consumer,Furniture,Chairs,1000.06,9,229.11,111
+329,2024-07-22,United States,East,Chicago,Corporate,Technology,Accessories,4798.52,8,760.5,599
+330,2024-06-02,United States,East,Dallas,Home Office,Office Supplies,Binders,4958.79,1,-41.05,4958
+331,2024-10-09,United States,South,Los Angeles,Consumer,Technology,Accessories,3201.9,3,-59.43,1067
+332,2024-06-18,United States,East,New York,Home Office,Technology,Laptops,4599.8,4,159.41,1149
+333,2024-08-31,United States,Central,Chicago,Consumer,Office Supplies,Storage,4624.59,5,1328.83,924
+334,2024-01-17,United States,West,Houston,Corporate,Office Supplies,Storage,127.51,4,797.96,31
+335,2024-02-09,United States,Central,Chicago,Consumer,Office Supplies,Paper,2841.59,10,1218.91,284
+336,2024-10-03,United States,Central,San Diego,Corporate,Technology,Laptops,3790.27,3,1143.85,1263
+337,2024-02-10,United States,Central,Philadelphia,Consumer,Office Supplies,Storage,533.54,4,1225.75,133
+338,2024-11-10,United States,South,New York,Corporate,Technology,Laptops,196.65,5,1132.03,39
+339,2024-04-26,United States,Central,Chicago,Home Office,Technology,Accessories,4708.66,7,115.75,672
+340,2024-07-13,United States,East,Phoenix,Home Office,Office Supplies,Storage,1512.13,4,1012.28,378
+341,2024-03-19,United States,South,Houston,Home Office,Furniture,Tables,3930.26,3,1057.41,1310
+342,2024-02-24,United States,East,Phoenix,Consumer,Technology,Accessories,4717.65,8,411.86,589
+343,2024-03-08,United States,East,New York,Consumer,Technology,Phones,2183.35,9,743.06,242
+344,2024-01-14,United States,East,San Antonio,Corporate,Technology,Phones,2793.39,10,816.67,279
+345,2024-01-07,United States,Central,Houston,Corporate,Technology,Accessories,1969.61,2,1032.23,984
+346,2024-10-19,United States,West,San Jose,Home Office,Office Supplies,Binders,1934.62,3,257.16,644
+347,2024-03-15,United States,East,San Diego,Consumer,Technology,Accessories,2201.65,7,309.58,314
+348,2024-05-08,United States,West,Phoenix,Home Office,Furniture,Tables,3143.92,10,848.34,314
+349,2024-03-10,United States,Central,Chicago,Consumer,Technology,Phones,4746.68,6,1230.74,791
+350,2024-08-13,United States,Central,Phoenix,Corporate,Technology,Accessories,4086.6,10,31.41,408
+351,2024-12-21,United States,West,Dallas,Corporate,Technology,Laptops,1605.21,7,1446.83,229
+352,2024-12-21,United States,South,San Diego,Home Office,Technology,Laptops,3920.77,6,439.29,653
+353,2024-02-28,United States,West,Los Angeles,Home Office,Technology,Accessories,4986.46,3,958.91,1662
+354,2024-08-24,United States,West,San Antonio,Corporate,Office Supplies,Binders,3998.54,2,1192.24,1999
+355,2024-09-12,United States,West,San Diego,Home Office,Technology,Laptops,1549.02,5,919.73,309
+356,2024-07-12,United States,East,New York,Corporate,Office Supplies,Paper,4953.97,8,789.81,619
+357,2024-12-20,United States,South,Houston,Home Office,Office Supplies,Storage,231.99,6,992.78,38
+358,2024-11-22,United States,East,Houston,Consumer,Office Supplies,Storage,3856.32,6,82.78,642
+359,2024-10-15,United States,South,Los Angeles,Corporate,Office Supplies,Binders,4830.3,7,-19.89,690
+360,2024-04-23,United States,West,New York,Corporate,Furniture,Tables,1901.89,8,1112.98,237
+361,2024-09-13,United States,West,Dallas,Corporate,Office Supplies,Storage,4988.63,8,-22.27,623
+362,2024-02-29,United States,West,San Diego,Corporate,Technology,Phones,1593.86,8,1133.26,199
+363,2024-06-27,United States,South,Philadelphia,Consumer,Office Supplies,Paper,2218.92,8,342.15,277
+364,2024-12-29,United States,East,San Diego,Consumer,Technology,Phones,4253.44,2,951.14,2126
+365,2024-05-04,United States,West,San Diego,Home Office,Furniture,Bookcases,842.67,9,524.83,93
+366,2024-07-26,United States,West,Houston,Consumer,Technology,Phones,3220.37,7,472.49,460
+367,2024-04-11,United States,South,Chicago,Home Office,Office Supplies,Storage,2176.29,1,998.05,2176
+368,2024-12-26,United States,East,Los Angeles,Home Office,Furniture,Tables,553.67,9,117.83,61
+369,2024-08-22,United States,East,San Antonio,Corporate,Technology,Phones,3369.97,8,697.12,421
+370,2024-11-01,United States,South,Phoenix,Home Office,Office Supplies,Paper,1993.09,2,391.47,996
+371,2024-03-29,United States,Central,Houston,Home Office,Technology,Laptops,2971.33,3,332.42,990
+372,2024-02-29,United States,West,Houston,Corporate,Furniture,Tables,3482.51,9,460.39,386
+373,2024-10-21,United States,South,Phoenix,Corporate,Office Supplies,Binders,969.48,9,978.84,107
+374,2024-10-11,United States,West,Houston,Corporate,Office Supplies,Binders,1479.73,3,334.79,493
+375,2024-01-28,United States,Central,Philadelphia,Consumer,Technology,Laptops,2448.81,4,1185.87,612
+376,2024-11-30,United States,South,San Diego,Corporate,Office Supplies,Storage,3439.25,7,1007.24,491
+377,2024-03-26,United States,East,San Antonio,Home Office,Technology,Accessories,202.76,4,296.55,50
+378,2024-10-02,United States,Central,San Jose,Consumer,Technology,Phones,3914.66,10,1062.28,391
+379,2024-09-18,United States,East,Dallas,Home Office,Technology,Laptops,615.32,9,1199.58,68
+380,2024-01-22,United States,South,Phoenix,Home Office,Technology,Laptops,1131.78,7,-25.89,161
+381,2024-06-01,United States,East,Dallas,Corporate,Office Supplies,Binders,1350.94,2,546.42,675
+382,2024-04-17,United States,Central,Phoenix,Home Office,Furniture,Chairs,3070.8,7,82.17,438
+383,2024-04-15,United States,East,Dallas,Home Office,Furniture,Chairs,1786.54,5,814.66,357
+384,2024-12-26,United States,Central,Dallas,Corporate,Furniture,Tables,2885.04,9,1475.33,320
+385,2024-03-10,United States,South,Houston,Consumer,Office Supplies,Binders,4962.81,3,992.43,1654
+386,2024-03-15,United States,Central,New York,Consumer,Furniture,Chairs,3819.29,7,632.08,545
+387,2024-05-17,United States,South,Dallas,Corporate,Office Supplies,Storage,2287.36,2,484.85,1143
+388,2024-12-21,United States,Central,Dallas,Corporate,Office Supplies,Paper,4753.76,6,789.32,792
+389,2024-08-22,United States,Central,New York,Consumer,Office Supplies,Binders,3988.61,7,170.31,569
+390,2024-09-10,United States,Central,Houston,Corporate,Technology,Phones,4150.3,6,730.43,691
+391,2024-09-05,United States,Central,San Jose,Home Office,Furniture,Bookcases,3823.16,1,-30.72,3823
+392,2024-03-04,United States,West,Los Angeles,Corporate,Technology,Phones,2309.76,7,143.94,329
+393,2024-11-28,United States,Central,New York,Consumer,Office Supplies,Binders,4378.4,5,-41.32,875
+394,2024-02-12,United States,Central,San Antonio,Home Office,Technology,Accessories,4523.81,3,-111.96,1507
+395,2024-12-24,United States,West,Philadelphia,Corporate,Office Supplies,Paper,3294.65,2,-198.15,1647
+396,2024-03-08,United States,West,Chicago,Home Office,Technology,Phones,3415.91,1,-186.29,3415
+397,2024-08-04,United States,West,Los Angeles,Corporate,Technology,Phones,400.6,7,-48.14,57
+398,2024-06-09,United States,Central,Houston,Corporate,Furniture,Chairs,728.79,3,890.68,242
+399,2024-02-05,United States,East,Los Angeles,Home Office,Office Supplies,Binders,3267.6,8,397.02,408
+400,2024-03-18,United States,South,Philadelphia,Home Office,Furniture,Bookcases,3448.5,4,-52.63,862
+401,2024-03-04,United States,South,Dallas,Corporate,Furniture,Chairs,4818.08,6,1144.83,803
+402,2024-11-26,United States,East,Chicago,Consumer,Furniture,Tables,2789.31,10,1026.01,278
+403,2024-01-14,United States,Central,San Antonio,Consumer,Technology,Laptops,2612.86,9,120.7,290
+404,2024-11-26,United States,East,Dallas,Consumer,Technology,Accessories,2499.69,2,209.84,1249
+405,2024-02-06,United States,East,Dallas,Corporate,Office Supplies,Storage,4672.93,3,457.63,1557
+406,2024-07-06,United States,West,San Jose,Corporate,Office Supplies,Paper,4774.54,2,-171.63,2387
+407,2024-05-14,United States,West,San Antonio,Consumer,Furniture,Chairs,4616.77,7,661.24,659
+408,2024-09-13,United States,South,Houston,Corporate,Office Supplies,Storage,3523.96,2,888.91,1761
+409,2024-03-19,United States,Central,San Antonio,Consumer,Office Supplies,Storage,1584.04,9,1365.57,176
+410,2024-06-16,United States,South,Philadelphia,Home Office,Furniture,Bookcases,3189.76,2,327.29,1594
+411,2024-05-02,United States,East,Phoenix,Consumer,Technology,Laptops,476.75,7,-2.82,68
+412,2024-01-29,United States,Central,Houston,Home Office,Office Supplies,Storage,3721.38,3,3.05,1240
+413,2024-12-25,United States,East,Philadelphia,Consumer,Office Supplies,Binders,2507.24,6,689.11,417
+414,2024-03-26,United States,Central,San Diego,Consumer,Office Supplies,Paper,3761.39,5,1045.99,752
+415,2024-06-20,United States,South,Chicago,Corporate,Furniture,Chairs,2643.08,5,1010.95,528
+416,2024-02-09,United States,South,Phoenix,Corporate,Office Supplies,Storage,2578.37,1,649.34,2578
+417,2024-07-07,United States,West,Houston,Corporate,Office Supplies,Binders,3877.98,10,946.0,387
+418,2024-09-17,United States,East,New York,Consumer,Furniture,Chairs,4300.51,1,215.74,4300
+419,2024-07-15,United States,West,San Diego,Consumer,Technology,Accessories,4659.24,1,739.87,4659
+420,2024-12-01,United States,South,Philadelphia,Consumer,Office Supplies,Storage,1642.92,7,1356.95,234
+421,2024-02-09,United States,Central,Dallas,Consumer,Technology,Accessories,2535.1,1,104.89,2535
+422,2024-07-24,United States,East,Houston,Corporate,Office Supplies,Binders,4336.86,5,356.41,867
+423,2024-01-05,United States,Central,Philadelphia,Consumer,Office Supplies,Paper,1493.4,5,1057.28,298
+424,2024-07-07,United States,South,Dallas,Consumer,Furniture,Tables,3675.69,9,1092.82,408
+425,2024-01-04,United States,South,San Jose,Consumer,Furniture,Chairs,1203.34,6,881.1,200
+426,2024-06-20,United States,East,Los Angeles,Home Office,Office Supplies,Binders,1912.56,5,-23.29,382
+427,2024-08-02,United States,South,Chicago,Consumer,Office Supplies,Binders,4864.17,3,1009.81,1621
+428,2024-04-28,United States,South,Chicago,Home Office,Furniture,Chairs,4483.11,8,1456.74,560
+429,2024-02-18,United States,West,Los Angeles,Home Office,Furniture,Bookcases,4108.82,2,806.22,2054
+430,2024-12-05,United States,West,Dallas,Consumer,Furniture,Tables,1493.8,6,1374.27,248
+431,2024-06-16,United States,Central,San Diego,Corporate,Technology,Laptops,1396.18,2,1404.04,698
+432,2024-02-25,United States,West,New York,Consumer,Furniture,Bookcases,863.66,8,333.86,107
+433,2024-07-02,United States,West,Houston,Corporate,Furniture,Bookcases,1576.12,5,1249.22,315
+434,2024-12-17,United States,Central,Phoenix,Home Office,Furniture,Chairs,3499.55,1,165.54,3499
+435,2024-02-16,United States,West,San Diego,Corporate,Technology,Phones,2011.41,1,951.21,2011
+436,2024-01-16,United States,South,San Antonio,Corporate,Technology,Phones,2801.97,9,224.75,311
+437,2024-03-12,United States,East,Dallas,Consumer,Technology,Phones,355.26,4,22.22,88
+438,2024-12-17,United States,East,Chicago,Home Office,Technology,Accessories,2951.29,2,-162.94,1475
+439,2024-11-26,United States,South,Los Angeles,Consumer,Furniture,Chairs,505.29,6,8.3,84
+440,2024-03-27,United States,South,Phoenix,Home Office,Technology,Phones,2005.24,1,450.64,2005
+441,2024-06-30,United States,West,Chicago,Consumer,Technology,Phones,1411.16,8,1301.82,176
+442,2024-11-13,United States,West,Philadelphia,Home Office,Furniture,Bookcases,1510.77,7,1300.72,215
+443,2024-02-14,United States,Central,Dallas,Corporate,Technology,Phones,729.32,4,892.51,182
+444,2024-11-18,United States,East,Chicago,Corporate,Office Supplies,Binders,3920.48,6,615.46,653
+445,2024-10-16,United States,Central,Phoenix,Corporate,Technology,Accessories,1388.66,1,342.09,1388
+446,2024-05-23,United States,East,San Jose,Corporate,Furniture,Chairs,2670.69,10,1499.33,267
+447,2024-05-06,United States,West,San Jose,Corporate,Furniture,Chairs,2691.76,1,1098.88,2691
+448,2024-07-17,United States,Central,Los Angeles,Consumer,Furniture,Bookcases,921.7,10,340.61,92
+449,2024-07-02,United States,East,Phoenix,Home Office,Office Supplies,Storage,3517.78,10,758.13,351
+450,2024-09-09,United States,Central,Houston,Consumer,Office Supplies,Binders,2477.66,2,-104.51,1238
+451,2024-01-11,United States,South,San Jose,Consumer,Office Supplies,Binders,1692.08,10,142.49,169
+452,2024-03-31,United States,Central,San Diego,Consumer,Furniture,Tables,158.47,10,997.98,15
+453,2024-09-26,United States,Central,Los Angeles,Consumer,Furniture,Chairs,1899.27,7,796.23,271
+454,2024-06-14,United States,West,Philadelphia,Consumer,Technology,Accessories,3675.14,7,1146.13,525
+455,2024-06-11,United States,West,Phoenix,Home Office,Technology,Laptops,4845.28,10,1137.89,484
+456,2024-10-28,United States,West,Los Angeles,Corporate,Furniture,Bookcases,1568.77,5,16.49,313
+457,2024-12-25,United States,South,Phoenix,Home Office,Office Supplies,Binders,210.29,10,340.97,21
+458,2024-11-23,United States,East,Chicago,Corporate,Office Supplies,Binders,746.18,2,204.59,373
+459,2024-11-21,United States,East,Phoenix,Home Office,Technology,Phones,3366.62,6,559.27,561
+460,2024-05-07,United States,East,Philadelphia,Corporate,Technology,Phones,1320.46,2,1024.7,660
+461,2024-08-12,United States,South,Chicago,Consumer,Furniture,Tables,4428.53,8,1299.01,553
+462,2024-07-11,United States,East,San Antonio,Corporate,Technology,Laptops,3954.21,10,906.65,395
+463,2024-03-24,United States,South,Houston,Consumer,Office Supplies,Binders,4006.01,1,301.34,4006
+464,2024-02-23,United States,East,Dallas,Corporate,Technology,Accessories,892.02,7,73.54,127
+465,2024-02-17,United States,Central,San Diego,Home Office,Furniture,Bookcases,4927.12,8,997.66,615
+466,2024-03-25,United States,South,San Diego,Consumer,Technology,Laptops,315.1,6,149.44,52
+467,2024-12-22,United States,Central,Chicago,Home Office,Furniture,Tables,1443.54,4,-36.94,360
+468,2024-10-08,United States,South,San Antonio,Consumer,Technology,Laptops,319.8,1,526.93,319
+469,2024-11-16,United States,South,Phoenix,Consumer,Technology,Laptops,530.09,4,90.41,132
+470,2024-08-30,United States,East,Los Angeles,Corporate,Technology,Phones,3935.14,8,631.46,491
+471,2024-02-16,United States,South,Phoenix,Consumer,Office Supplies,Paper,1886.55,7,427.98,269
+472,2024-05-14,United States,South,San Diego,Corporate,Technology,Phones,1353.83,5,759.22,270
+473,2024-12-07,United States,East,San Diego,Consumer,Furniture,Bookcases,3357.3,9,503.78,373
+474,2024-10-10,United States,East,Chicago,Corporate,Office Supplies,Binders,4101.11,7,1441.57,585
+475,2024-10-20,United States,West,Chicago,Corporate,Office Supplies,Paper,1529.32,7,1334.72,218
+476,2024-09-14,United States,West,San Antonio,Consumer,Office Supplies,Binders,4748.81,8,93.89,593
+477,2024-04-08,United States,West,New York,Consumer,Furniture,Chairs,2145.71,7,143.26,306
+478,2024-10-31,United States,Central,Philadelphia,Corporate,Office Supplies,Binders,4558.48,2,-52.05,2279
+479,2024-10-09,United States,Central,Houston,Corporate,Office Supplies,Paper,2622.46,1,1137.14,2622
+480,2024-09-24,United States,South,New York,Consumer,Office Supplies,Storage,2101.49,3,763.21,700
+481,2024-02-24,United States,East,Houston,Corporate,Office Supplies,Binders,4344.0,6,1292.42,724
+482,2024-12-01,United States,South,San Diego,Home Office,Technology,Accessories,3064.36,1,92.74,3064
+483,2024-11-12,United States,South,San Jose,Consumer,Technology,Phones,2009.17,6,973.87,334
+484,2024-08-31,United States,Central,Dallas,Corporate,Furniture,Bookcases,150.15,5,328.61,30
+485,2024-12-16,United States,East,New York,Consumer,Technology,Laptops,715.21,8,1115.85,89
+486,2024-08-01,United States,East,Chicago,Consumer,Technology,Accessories,2236.5,7,1059.61,319
+487,2024-01-29,United States,West,Houston,Consumer,Office Supplies,Paper,1590.06,9,485.75,176
+488,2024-01-15,United States,West,San Jose,Consumer,Office Supplies,Storage,4382.14,4,1222.86,1095
+489,2024-08-21,United States,East,Houston,Corporate,Furniture,Chairs,3537.94,5,426.2,707
+490,2024-07-22,United States,East,San Jose,Home Office,Technology,Laptops,201.29,6,630.94,33
+491,2024-08-30,United States,Central,Los Angeles,Corporate,Technology,Phones,859.39,5,1073.23,171
+492,2024-05-25,United States,East,San Antonio,Corporate,Office Supplies,Binders,295.77,10,1125.71,29
+493,2024-11-27,United States,West,New York,Home Office,Furniture,Chairs,1073.32,7,672.58,153
+494,2024-08-30,United States,West,San Antonio,Home Office,Office Supplies,Binders,907.34,1,180.41,907
+495,2024-12-30,United States,Central,San Diego,Corporate,Office Supplies,Paper,4482.64,6,580.3,747
+496,2024-06-03,United States,South,San Antonio,Home Office,Furniture,Tables,556.44,9,1499.03,61
+497,2024-11-27,United States,Central,Houston,Corporate,Technology,Laptops,3437.85,8,-91.48,429
+498,2024-06-15,United States,Central,Phoenix,Corporate,Technology,Laptops,3297.79,5,120.21,659
+499,2024-01-30,United States,South,Dallas,Home Office,Office Supplies,Binders,1631.95,3,1026.18,543
+500,2024-05-31,United States,Central,Dallas,Corporate,Office Supplies,Paper,2052.76,1,791.14,2052
+501,2024-06-24,United States,West,Dallas,Home Office,Office Supplies,Binders,2696.44,8,1341.1,337
+502,2024-09-16,United States,Central,Los Angeles,Consumer,Office Supplies,Paper,4211.16,9,107.93,467
+503,2024-03-06,United States,Central,Los Angeles,Home Office,Furniture,Tables,4051.3,3,1409.77,1350
+504,2024-02-15,United States,West,Philadelphia,Corporate,Technology,Laptops,1155.47,5,514.8,231
+505,2024-05-13,United States,Central,Dallas,Corporate,Technology,Accessories,4263.51,8,-108.75,532
+506,2024-10-24,United States,East,New York,Corporate,Office Supplies,Storage,4452.66,9,3.69,494
+507,2024-09-28,United States,Central,San Jose,Corporate,Office Supplies,Paper,317.61,3,33.52,105
+508,2024-07-28,United States,South,San Antonio,Consumer,Furniture,Tables,1616.1,3,1124.2,538
+509,2024-11-19,United States,West,New York,Corporate,Technology,Accessories,3190.77,1,568.49,3190
+510,2024-10-22,United States,West,San Jose,Corporate,Furniture,Chairs,3936.79,2,19.99,1968
+511,2024-08-07,United States,South,Los Angeles,Corporate,Technology,Laptops,4828.37,7,-192.06,689
+512,2024-07-10,United States,East,Chicago,Corporate,Office Supplies,Binders,3796.4,9,123.98,421
+513,2024-11-16,United States,West,New York,Consumer,Office Supplies,Binders,3482.95,6,330.56,580
+514,2024-09-14,United States,Central,Houston,Consumer,Furniture,Tables,373.17,1,306.94,373
+515,2024-09-23,United States,Central,Chicago,Corporate,Technology,Accessories,4445.47,3,382.65,1481
+516,2024-04-06,United States,West,Los Angeles,Corporate,Technology,Accessories,144.67,4,1036.19,36
+517,2024-01-12,United States,West,San Diego,Consumer,Furniture,Chairs,1864.63,1,437.83,1864
+518,2024-09-30,United States,East,Phoenix,Home Office,Office Supplies,Paper,4973.67,2,911.06,2486
+519,2024-12-19,United States,East,Los Angeles,Corporate,Furniture,Chairs,2249.36,2,730.38,1124
+520,2024-03-19,United States,West,San Diego,Home Office,Technology,Laptops,3444.41,1,311.9,3444
+521,2024-12-05,United States,Central,Houston,Home Office,Office Supplies,Binders,3047.89,3,512.0,1015
+522,2024-11-12,United States,East,Houston,Corporate,Furniture,Bookcases,614.36,2,646.16,307
+523,2024-05-14,United States,West,San Diego,Corporate,Office Supplies,Binders,3532.01,5,72.64,706
+524,2024-04-16,United States,South,Chicago,Corporate,Office Supplies,Paper,1210.8,1,941.78,1210
+525,2024-12-08,United States,South,San Antonio,Consumer,Furniture,Bookcases,4749.76,9,-72.42,527
+526,2024-05-11,United States,West,Houston,Corporate,Office Supplies,Binders,4943.9,5,249.01,988
+527,2024-03-30,United States,East,San Jose,Corporate,Furniture,Chairs,1833.06,6,524.19,305
+528,2024-01-24,United States,East,Houston,Consumer,Furniture,Chairs,3333.61,3,358.72,1111
+529,2024-05-17,United States,East,San Antonio,Corporate,Technology,Laptops,4084.07,3,-6.49,1361
+530,2024-05-19,United States,South,San Diego,Home Office,Technology,Accessories,4260.82,7,903.04,608
+531,2024-03-08,United States,East,Philadelphia,Consumer,Furniture,Chairs,563.38,10,620.55,56
+532,2024-08-12,United States,West,Houston,Home Office,Office Supplies,Storage,1929.77,6,839.31,321
+533,2024-03-07,United States,South,New York,Corporate,Office Supplies,Storage,609.04,7,549.17,87
+534,2024-12-01,United States,Central,San Jose,Consumer,Furniture,Tables,3537.61,9,1104.8,393
+535,2024-10-16,United States,West,Chicago,Home Office,Office Supplies,Storage,4372.06,9,689.28,485
+536,2024-02-18,United States,South,Philadelphia,Home Office,Office Supplies,Storage,3646.93,8,387.77,455
+537,2024-07-16,United States,West,Dallas,Home Office,Office Supplies,Storage,4465.71,10,-107.24,446
+538,2024-09-15,United States,South,Los Angeles,Corporate,Office Supplies,Binders,4353.61,2,1077.43,2176
+539,2024-06-18,United States,Central,San Antonio,Consumer,Technology,Phones,2559.3,9,893.64,284
+540,2024-02-10,United States,South,Philadelphia,Corporate,Technology,Phones,4016.24,8,-50.37,502
+541,2024-06-10,United States,East,Chicago,Corporate,Technology,Accessories,3738.93,1,-25.51,3738
+542,2024-10-12,United States,East,Houston,Consumer,Technology,Phones,3969.33,10,883.81,396
+543,2024-04-15,United States,South,Dallas,Corporate,Office Supplies,Storage,1848.55,1,1188.2,1848
+544,2024-10-13,United States,South,Phoenix,Home Office,Technology,Accessories,3302.98,8,-6.16,412
+545,2024-01-02,United States,Central,San Antonio,Corporate,Office Supplies,Binders,4157.93,5,731.07,831
+546,2024-02-24,United States,East,Philadelphia,Consumer,Technology,Laptops,2487.49,7,-18.17,355
+547,2024-04-06,United States,East,Philadelphia,Corporate,Office Supplies,Binders,1117.17,4,1018.54,279
+548,2024-01-24,United States,East,Houston,Corporate,Furniture,Tables,2314.07,10,1425.52,231
+549,2024-01-03,United States,East,New York,Home Office,Furniture,Tables,4679.78,10,620.98,467
+550,2024-12-20,United States,West,Chicago,Home Office,Office Supplies,Binders,4085.46,2,458.59,2042
+551,2024-06-13,United States,South,San Antonio,Corporate,Office Supplies,Storage,4898.53,4,265.11,1224
+552,2024-08-19,United States,West,New York,Consumer,Technology,Accessories,2093.09,9,308.15,232
+553,2024-06-09,United States,West,Phoenix,Consumer,Office Supplies,Storage,1088.08,5,967.24,217
+554,2024-12-29,United States,West,Phoenix,Home Office,Office Supplies,Binders,2735.33,6,1007.6,455
+555,2024-09-02,United States,South,San Jose,Home Office,Technology,Laptops,3751.95,9,286.08,416
+556,2024-09-24,United States,East,New York,Consumer,Technology,Phones,1935.31,1,939.43,1935
+557,2024-03-23,United States,Central,Dallas,Home Office,Furniture,Tables,1290.28,1,974.01,1290
+558,2024-10-04,United States,East,San Jose,Corporate,Technology,Phones,4079.43,2,847.39,2039
+559,2024-10-14,United States,West,Philadelphia,Home Office,Office Supplies,Storage,3253.24,7,203.91,464
+560,2024-12-20,United States,East,Phoenix,Corporate,Office Supplies,Paper,1968.4,6,1441.92,328
+561,2024-05-08,United States,West,Los Angeles,Home Office,Furniture,Chairs,4350.81,8,1210.97,543
+562,2024-12-29,United States,Central,Philadelphia,Home Office,Office Supplies,Storage,2755.74,10,134.0,275
+563,2024-05-30,United States,South,Philadelphia,Consumer,Office Supplies,Binders,4918.09,2,117.86,2459
+564,2024-09-20,United States,East,San Antonio,Corporate,Furniture,Bookcases,251.14,5,746.22,50
+565,2024-10-26,United States,Central,Philadelphia,Consumer,Furniture,Chairs,1686.29,3,-132.1,562
+566,2024-01-27,United States,Central,Philadelphia,Corporate,Technology,Laptops,3960.05,9,408.75,440
+567,2024-09-26,United States,West,San Jose,Consumer,Office Supplies,Paper,2627.0,9,70.93,291
+568,2024-07-25,United States,East,Phoenix,Corporate,Office Supplies,Storage,1144.93,4,927.67,286
+569,2024-05-30,United States,West,Phoenix,Home Office,Technology,Accessories,2675.97,9,1200.27,297
+570,2024-02-28,United States,Central,Dallas,Corporate,Office Supplies,Binders,1239.72,10,1361.63,123
+571,2024-12-15,United States,Central,San Antonio,Corporate,Furniture,Chairs,4583.87,2,455.99,2291
+572,2024-05-24,United States,East,San Diego,Home Office,Office Supplies,Storage,4119.44,6,674.33,686
+573,2024-09-06,United States,East,Philadelphia,Corporate,Office Supplies,Paper,4496.49,4,344.53,1124
+574,2024-03-26,United States,East,Phoenix,Home Office,Furniture,Chairs,374.09,4,1270.42,93
+575,2024-04-15,United States,South,San Jose,Home Office,Technology,Phones,4092.93,2,1069.71,2046
+576,2024-08-23,United States,Central,San Antonio,Consumer,Furniture,Chairs,483.23,1,102.59,483
+577,2024-02-06,United States,West,New York,Corporate,Technology,Laptops,2067.78,8,871.37,258
+578,2024-01-09,United States,South,Los Angeles,Home Office,Technology,Accessories,635.61,1,890.42,635
+579,2024-10-26,United States,East,San Jose,Home Office,Office Supplies,Binders,4248.84,6,1377.68,708
+580,2024-12-17,United States,Central,Houston,Home Office,Furniture,Tables,478.2,8,448.4,59
+581,2024-08-30,United States,West,San Diego,Home Office,Office Supplies,Binders,1138.34,7,1154.51,162
+582,2024-11-20,United States,West,Dallas,Corporate,Office Supplies,Paper,3402.58,6,1427.57,567
+583,2024-10-11,United States,West,Los Angeles,Consumer,Furniture,Bookcases,256.78,10,814.31,25
+584,2024-02-13,United States,Central,New York,Consumer,Office Supplies,Storage,3754.07,6,159.95,625
+585,2024-03-13,United States,West,Phoenix,Consumer,Office Supplies,Storage,1142.9,5,130.35,228
+586,2024-10-17,United States,East,Dallas,Home Office,Furniture,Bookcases,2333.26,9,-75.65,259
+587,2024-05-08,United States,East,Chicago,Consumer,Office Supplies,Binders,3641.67,8,1417.62,455
+588,2024-12-09,United States,West,Los Angeles,Consumer,Technology,Phones,1461.43,2,1330.2,730
+589,2024-08-18,United States,Central,San Antonio,Home Office,Technology,Accessories,3314.14,10,59.07,331
+590,2024-06-10,United States,South,Chicago,Consumer,Office Supplies,Paper,73.92,4,1135.62,18
+591,2024-11-24,United States,South,Dallas,Corporate,Office Supplies,Storage,4208.54,3,955.29,1402
+592,2024-08-24,United States,South,New York,Corporate,Technology,Accessories,3885.1,8,737.84,485
+593,2024-11-06,United States,East,Houston,Corporate,Furniture,Bookcases,4300.63,3,1315.2,1433
+594,2024-11-16,United States,East,Philadelphia,Home Office,Furniture,Tables,423.23,1,1244.3,423
+595,2024-10-24,United States,South,Philadelphia,Home Office,Office Supplies,Binders,1103.17,1,737.71,1103
+596,2024-08-29,United States,West,Dallas,Corporate,Office Supplies,Storage,1992.87,10,1046.49,199
+597,2024-08-25,United States,East,New York,Corporate,Technology,Phones,1851.13,1,926.55,1851
+598,2024-03-25,United States,West,Philadelphia,Corporate,Office Supplies,Storage,838.15,10,1412.81,83
+599,2024-09-04,United States,Central,Dallas,Consumer,Office Supplies,Binders,1133.15,8,193.97,141
+600,2024-04-29,United States,East,Chicago,Home Office,Technology,Accessories,1073.53,6,459.76,178
+601,2024-01-21,United States,Central,Houston,Consumer,Technology,Phones,3533.49,9,877.06,392
+602,2024-05-14,United States,West,San Jose,Corporate,Technology,Laptops,3285.69,6,799.05,547
+603,2024-05-08,United States,South,Los Angeles,Consumer,Furniture,Bookcases,2606.04,6,1189.3,434
+604,2024-09-03,United States,East,Chicago,Home Office,Technology,Accessories,4416.07,8,81.53,552
+605,2024-11-25,United States,Central,New York,Consumer,Furniture,Bookcases,793.69,3,415.78,264
+606,2024-12-04,United States,West,San Antonio,Corporate,Office Supplies,Binders,4065.3,2,618.58,2032
+607,2024-04-17,United States,West,New York,Home Office,Technology,Accessories,4175.16,1,214.24,4175
+608,2024-10-30,United States,West,Chicago,Consumer,Furniture,Bookcases,3166.23,1,1314.36,3166
+609,2024-03-26,United States,Central,Phoenix,Consumer,Furniture,Chairs,2607.37,7,818.91,372
+610,2024-01-10,United States,Central,New York,Consumer,Office Supplies,Storage,1122.14,10,1487.72,112
+611,2024-04-22,United States,South,Dallas,Home Office,Technology,Phones,756.43,10,1194.77,75
+612,2024-12-03,United States,Central,Chicago,Consumer,Furniture,Bookcases,3634.72,6,1368.0,605
+613,2024-02-05,United States,West,Chicago,Corporate,Office Supplies,Storage,1958.04,2,-171.84,979
+614,2024-12-16,United States,South,Phoenix,Consumer,Office Supplies,Storage,3047.28,3,608.98,1015
+615,2024-01-20,United States,East,Chicago,Consumer,Office Supplies,Storage,2437.09,3,1333.37,812
+616,2024-12-13,United States,South,San Diego,Home Office,Office Supplies,Binders,2132.39,1,985.99,2132
+617,2024-09-03,United States,South,San Antonio,Corporate,Technology,Phones,2965.79,10,-33.88,296
+618,2024-09-01,United States,West,Philadelphia,Consumer,Furniture,Tables,1452.17,9,494.7,161
+619,2024-12-29,United States,East,San Jose,Home Office,Furniture,Chairs,2636.58,9,-187.77,292
+620,2024-12-18,United States,Central,San Antonio,Corporate,Office Supplies,Binders,1843.24,3,524.32,614
+621,2024-05-13,United States,South,Chicago,Home Office,Office Supplies,Paper,1859.94,5,1486.06,371
+622,2024-07-30,United States,South,Los Angeles,Consumer,Technology,Phones,1882.55,9,622.39,209
+623,2024-06-25,United States,South,Dallas,Home Office,Technology,Laptops,733.44,2,1071.28,366
+624,2024-03-23,United States,East,Philadelphia,Consumer,Technology,Laptops,2566.3,6,1161.45,427
+625,2024-12-16,United States,East,Los Angeles,Consumer,Office Supplies,Storage,1976.06,1,1167.43,1976
+626,2024-11-03,United States,South,San Antonio,Consumer,Furniture,Tables,367.2,4,430.42,91
+627,2024-07-15,United States,South,Philadelphia,Home Office,Office Supplies,Binders,3298.07,5,1009.73,659
+628,2024-03-30,United States,South,New York,Corporate,Office Supplies,Binders,103.02,9,286.21,11
+629,2024-09-18,United States,West,Los Angeles,Home Office,Furniture,Bookcases,888.94,1,411.56,888
+630,2024-03-21,United States,East,Houston,Corporate,Office Supplies,Binders,3909.38,6,938.43,651
+631,2024-04-12,United States,East,Dallas,Home Office,Technology,Laptops,3532.93,2,734.31,1766
+632,2024-10-25,United States,Central,Houston,Corporate,Office Supplies,Storage,4818.27,5,184.7,963
+633,2024-07-25,United States,East,Dallas,Corporate,Furniture,Tables,916.42,9,-19.01,101
+634,2024-05-30,United States,Central,Houston,Consumer,Furniture,Bookcases,4024.56,5,1289.39,804
+635,2024-12-21,United States,South,Phoenix,Corporate,Office Supplies,Paper,2837.68,4,1087.7,709
+636,2024-08-23,United States,East,Los Angeles,Corporate,Technology,Laptops,625.53,2,450.54,312
+637,2024-12-25,United States,West,San Jose,Corporate,Furniture,Bookcases,2091.51,6,678.06,348
+638,2024-05-14,United States,West,Phoenix,Corporate,Furniture,Bookcases,510.4,6,-70.75,85
+639,2024-06-09,United States,Central,Philadelphia,Consumer,Furniture,Tables,4476.87,5,110.73,895
+640,2024-04-07,United States,South,Philadelphia,Home Office,Office Supplies,Storage,1038.35,4,1283.66,259
+641,2024-04-13,United States,West,Philadelphia,Home Office,Furniture,Chairs,1812.34,2,3.79,906
+642,2024-12-05,United States,South,San Jose,Home Office,Furniture,Bookcases,82.79,9,1428.59,9
+643,2024-11-13,United States,Central,New York,Corporate,Technology,Accessories,4495.7,10,1276.91,449
+644,2024-09-18,United States,Central,Philadelphia,Corporate,Technology,Phones,1149.36,10,18.02,114
+645,2024-09-01,United States,East,Los Angeles,Home Office,Office Supplies,Paper,1769.08,3,577.23,589
+646,2024-09-22,United States,South,Dallas,Corporate,Furniture,Bookcases,3461.59,1,945.98,3461
+647,2024-02-21,United States,Central,Philadelphia,Corporate,Technology,Laptops,3083.25,5,118.16,616
+648,2024-05-17,United States,South,San Jose,Home Office,Technology,Phones,1748.33,3,647.91,582
+649,2024-12-24,United States,Central,New York,Corporate,Furniture,Tables,4278.91,5,566.24,855
+650,2024-10-21,United States,West,Phoenix,Consumer,Office Supplies,Binders,3618.04,4,744.08,904
+651,2024-03-15,United States,West,Los Angeles,Corporate,Technology,Phones,4038.06,3,516.59,1346
+652,2024-09-21,United States,Central,San Antonio,Corporate,Furniture,Bookcases,1535.17,9,1259.45,170
+653,2024-02-20,United States,West,Dallas,Consumer,Furniture,Tables,1116.56,5,610.12,223
+654,2024-08-18,United States,Central,San Diego,Corporate,Office Supplies,Binders,1836.76,9,747.74,204
+655,2024-01-11,United States,South,Chicago,Consumer,Technology,Accessories,1787.9,10,138.23,178
+656,2024-11-28,United States,West,Los Angeles,Corporate,Office Supplies,Storage,1807.79,9,628.74,200
+657,2024-02-10,United States,South,Chicago,Home Office,Office Supplies,Paper,1468.29,3,1276.04,489
+658,2024-08-03,United States,South,Chicago,Consumer,Office Supplies,Paper,441.6,6,187.97,73
+659,2024-05-29,United States,Central,Chicago,Home Office,Technology,Laptops,3240.99,5,1309.08,648
+660,2024-10-27,United States,South,Los Angeles,Corporate,Technology,Laptops,878.22,1,12.57,878
+661,2024-05-08,United States,East,Houston,Consumer,Furniture,Bookcases,876.21,2,-37.56,438
+662,2024-01-28,United States,East,Philadelphia,Corporate,Technology,Laptops,2643.71,2,-23.32,1321
+663,2024-02-13,United States,South,San Jose,Corporate,Office Supplies,Binders,1185.31,5,553.37,237
+664,2024-09-26,United States,West,New York,Consumer,Furniture,Chairs,224.02,6,1262.63,37
+665,2024-08-27,United States,Central,San Diego,Home Office,Technology,Accessories,2251.98,9,100.96,250
+666,2024-11-19,United States,South,Philadelphia,Home Office,Office Supplies,Paper,3216.94,9,326.42,357
+667,2024-10-03,United States,West,Phoenix,Consumer,Technology,Accessories,2237.21,6,500.75,372
+668,2024-01-06,United States,East,Dallas,Home Office,Furniture,Tables,4086.13,3,384.6,1362
+669,2024-01-05,United States,South,Philadelphia,Corporate,Technology,Laptops,1533.07,7,1156.54,219
+670,2024-01-04,United States,Central,Chicago,Consumer,Office Supplies,Binders,2088.09,9,543.08,232
+671,2024-11-26,United States,South,Chicago,Corporate,Furniture,Chairs,1141.93,2,517.81,570
+672,2024-11-09,United States,Central,New York,Corporate,Furniture,Bookcases,3259.86,9,1174.97,362
+673,2024-02-05,United States,West,Los Angeles,Consumer,Technology,Phones,1483.5,8,850.14,185
+674,2024-11-14,United States,South,San Jose,Consumer,Technology,Laptops,1637.19,3,-115.63,545
+675,2024-04-05,United States,East,San Antonio,Corporate,Office Supplies,Binders,1382.52,8,1036.08,172
+676,2024-03-18,United States,East,Phoenix,Corporate,Furniture,Chairs,1125.08,7,329.68,160
+677,2024-08-25,United States,East,San Antonio,Corporate,Technology,Accessories,447.1,3,-104.73,149
+678,2024-10-05,United States,South,Chicago,Consumer,Technology,Phones,1001.35,5,1189.33,200
+679,2024-12-31,United States,West,Philadelphia,Corporate,Furniture,Chairs,3867.57,8,220.18,483
+680,2024-08-23,United States,East,Houston,Home Office,Furniture,Chairs,3346.74,4,603.8,836
+681,2024-06-14,United States,West,Philadelphia,Home Office,Office Supplies,Paper,3654.77,9,685.57,406
+682,2024-11-22,United States,Central,New York,Consumer,Technology,Accessories,1834.11,1,1268.22,1834
+683,2024-04-30,United States,South,Phoenix,Corporate,Furniture,Chairs,124.59,5,793.98,24
+684,2024-01-05,United States,East,Phoenix,Home Office,Technology,Phones,3928.2,8,970.29,491
+685,2024-02-15,United States,West,San Antonio,Consumer,Furniture,Tables,2524.6,10,375.32,252
+686,2024-01-31,United States,Central,Los Angeles,Home Office,Office Supplies,Binders,811.9,9,1145.49,90
+687,2024-04-29,United States,Central,Philadelphia,Home Office,Furniture,Tables,3953.38,6,1169.39,658
+688,2024-04-08,United States,East,San Diego,Home Office,Technology,Laptops,1919.96,3,226.18,639
+689,2024-12-27,United States,South,Philadelphia,Home Office,Furniture,Tables,1508.84,8,122.62,188
+690,2024-06-27,United States,Central,Dallas,Home Office,Furniture,Bookcases,2368.55,10,1354.61,236
+691,2024-02-05,United States,West,San Diego,Corporate,Office Supplies,Binders,1513.58,5,720.73,302
+692,2024-11-22,United States,South,Houston,Home Office,Technology,Phones,968.39,1,853.55,968
+693,2024-05-02,United States,Central,San Diego,Home Office,Technology,Laptops,363.54,9,1192.38,40
+694,2024-12-15,United States,South,Los Angeles,Home Office,Furniture,Bookcases,812.95,5,348.42,162
+695,2024-02-26,United States,East,San Jose,Home Office,Office Supplies,Paper,3311.51,1,1219.83,3311
+696,2024-01-17,United States,West,San Jose,Consumer,Furniture,Chairs,2452.58,2,-145.91,1226
+697,2024-12-02,United States,South,San Diego,Home Office,Office Supplies,Paper,3138.65,10,235.1,313
+698,2024-11-06,United States,East,Dallas,Consumer,Technology,Phones,4654.54,4,914.77,1163
+699,2024-11-23,United States,East,Phoenix,Corporate,Furniture,Tables,2812.2,7,1197.45,401
+700,2024-11-11,United States,Central,Houston,Home Office,Office Supplies,Binders,251.23,2,1218.58,125
+701,2024-09-22,United States,East,Houston,Consumer,Furniture,Chairs,3639.6,9,455.06,404
+702,2024-12-02,United States,West,Philadelphia,Home Office,Furniture,Bookcases,3145.36,3,749.32,1048
+703,2024-02-24,United States,Central,Chicago,Home Office,Office Supplies,Paper,2320.67,7,1300.8,331
+704,2024-10-08,United States,South,Chicago,Home Office,Furniture,Chairs,1720.69,3,707.63,573
+705,2024-06-29,United States,Central,Phoenix,Home Office,Office Supplies,Paper,4957.74,6,1236.25,826
+706,2024-08-08,United States,Central,Chicago,Home Office,Technology,Laptops,1241.58,9,163.68,137
+707,2024-05-10,United States,Central,Chicago,Corporate,Office Supplies,Storage,2265.12,7,-199.67,323
+708,2024-11-01,United States,East,San Jose,Home Office,Furniture,Tables,718.67,5,-188.83,143
+709,2024-06-10,United States,East,New York,Home Office,Furniture,Chairs,4120.57,9,669.16,457
+710,2024-03-20,United States,East,San Jose,Consumer,Office Supplies,Storage,2328.83,3,35.29,776
+711,2024-05-07,United States,West,San Antonio,Corporate,Technology,Laptops,4064.82,2,769.83,2032
+712,2024-02-09,United States,Central,Chicago,Corporate,Office Supplies,Binders,905.87,10,1193.18,90
+713,2024-11-24,United States,Central,New York,Consumer,Furniture,Bookcases,3667.41,10,448.63,366
+714,2024-06-27,United States,South,Dallas,Corporate,Furniture,Tables,4654.72,2,1278.64,2327
+715,2024-11-30,United States,East,Los Angeles,Home Office,Furniture,Bookcases,3898.22,7,-107.98,556
+716,2024-06-12,United States,West,Philadelphia,Corporate,Office Supplies,Binders,2536.89,4,60.44,634
+717,2024-07-20,United States,South,Los Angeles,Home Office,Office Supplies,Storage,2897.51,2,177.55,1448
+718,2024-03-16,United States,West,Chicago,Corporate,Technology,Accessories,458.6,10,1067.04,45
+719,2024-05-14,United States,East,Philadelphia,Corporate,Office Supplies,Paper,2534.02,3,1095.46,844
+720,2024-04-11,United States,South,Los Angeles,Corporate,Technology,Laptops,3278.63,4,753.98,819
+721,2024-05-06,United States,West,San Diego,Consumer,Office Supplies,Storage,1367.97,7,349.8,195
+722,2024-02-27,United States,South,New York,Corporate,Office Supplies,Binders,1858.07,4,345.26,464
+723,2024-01-13,United States,Central,New York,Consumer,Office Supplies,Storage,4938.88,10,1196.69,493
+724,2024-03-15,United States,South,San Diego,Consumer,Technology,Laptops,4624.86,4,139.46,1156
+725,2024-02-13,United States,East,Chicago,Home Office,Technology,Phones,319.96,10,1375.44,31
+726,2024-06-24,United States,East,San Antonio,Corporate,Technology,Phones,2277.8,1,364.19,2277
+727,2024-04-18,United States,West,Philadelphia,Home Office,Office Supplies,Storage,2640.17,5,732.96,528
+728,2024-03-13,United States,East,Houston,Corporate,Office Supplies,Storage,2935.87,9,-126.08,326
+729,2024-05-25,United States,West,Los Angeles,Home Office,Furniture,Chairs,3108.93,1,590.43,3108
+730,2024-07-17,United States,Central,Dallas,Home Office,Furniture,Chairs,4267.81,6,1269.28,711
+731,2024-11-28,United States,South,San Jose,Consumer,Furniture,Tables,4899.97,9,1460.24,544
+732,2024-09-05,United States,East,New York,Consumer,Furniture,Tables,1034.43,8,753.17,129
+733,2024-01-21,United States,West,Dallas,Home Office,Office Supplies,Binders,1559.39,8,468.78,194
+734,2024-06-26,United States,Central,San Antonio,Corporate,Furniture,Chairs,3144.89,4,1493.19,786
+735,2024-02-01,United States,Central,Phoenix,Corporate,Office Supplies,Paper,4457.49,1,1405.03,4457
+736,2024-03-18,United States,Central,New York,Corporate,Technology,Phones,3301.81,2,1040.81,1650
+737,2024-11-09,United States,West,San Diego,Corporate,Office Supplies,Storage,1239.79,3,524.99,413
+738,2024-06-17,United States,South,San Diego,Home Office,Technology,Laptops,702.27,3,787.75,234
+739,2024-03-11,United States,Central,San Jose,Home Office,Office Supplies,Binders,3540.43,9,1346.26,393
+740,2024-12-01,United States,West,Chicago,Corporate,Technology,Phones,385.68,9,1412.62,42
+741,2024-06-11,United States,West,Houston,Home Office,Furniture,Chairs,195.94,6,1296.22,32
+742,2024-06-04,United States,South,Philadelphia,Home Office,Technology,Accessories,4672.15,5,58.33,934
+743,2024-03-08,United States,West,Los Angeles,Consumer,Furniture,Chairs,3824.12,10,848.81,382
+744,2024-11-09,United States,West,Phoenix,Home Office,Office Supplies,Storage,1199.3,1,410.74,1199
+745,2024-03-09,United States,South,Dallas,Home Office,Office Supplies,Paper,3265.36,3,1248.62,1088
+746,2024-03-11,United States,West,Phoenix,Consumer,Technology,Accessories,1170.05,7,1099.72,167
+747,2024-07-30,United States,West,Chicago,Home Office,Furniture,Tables,3373.13,4,1088.22,843
+748,2024-08-12,United States,South,San Diego,Home Office,Furniture,Chairs,1658.23,8,1308.9,207
+749,2024-01-22,United States,South,Philadelphia,Home Office,Technology,Accessories,1598.84,10,1396.54,159
+750,2024-10-01,United States,East,Philadelphia,Home Office,Office Supplies,Storage,591.12,8,1205.92,73
+751,2024-09-22,United States,South,Philadelphia,Home Office,Furniture,Chairs,244.3,7,677.42,34
+752,2024-04-07,United States,Central,Houston,Corporate,Office Supplies,Binders,2020.3,5,1115.25,404
+753,2024-03-26,United States,South,Dallas,Corporate,Technology,Accessories,3085.01,1,972.92,3085
+754,2024-11-26,United States,South,Phoenix,Consumer,Furniture,Tables,3627.1,2,105.61,1813
+755,2024-10-06,United States,West,Philadelphia,Corporate,Office Supplies,Storage,2097.12,8,-157.65,262
+756,2024-12-30,United States,West,Los Angeles,Corporate,Technology,Laptops,496.39,6,975.92,82
+757,2024-03-04,United States,East,Phoenix,Consumer,Office Supplies,Binders,3545.82,6,-54.98,590
+758,2024-09-18,United States,West,Chicago,Corporate,Office Supplies,Paper,2774.21,1,1106.04,2774
+759,2024-12-03,United States,West,New York,Consumer,Technology,Laptops,4350.65,3,1107.57,1450
+760,2024-06-06,United States,Central,Los Angeles,Home Office,Furniture,Tables,3854.72,8,290.93,481
+761,2024-03-08,United States,West,Philadelphia,Consumer,Furniture,Chairs,3131.67,5,-179.25,626
+762,2024-10-05,United States,East,New York,Home Office,Technology,Accessories,4419.38,4,168.69,1104
+763,2024-08-20,United States,South,San Diego,Corporate,Office Supplies,Paper,443.05,10,-188.83,44
+764,2024-11-13,United States,West,San Antonio,Consumer,Office Supplies,Paper,964.96,1,910.57,964
+765,2024-01-17,United States,Central,Chicago,Corporate,Furniture,Chairs,4605.9,1,-14.89,4605
+766,2024-12-10,United States,Central,Philadelphia,Home Office,Furniture,Chairs,3321.58,10,772.88,332
+767,2024-08-21,United States,Central,Houston,Consumer,Office Supplies,Binders,510.98,5,348.8,102
+768,2024-08-06,United States,East,Los Angeles,Corporate,Technology,Phones,2380.54,2,980.85,1190
+769,2024-09-26,United States,South,Philadelphia,Home Office,Technology,Accessories,1088.73,4,840.49,272
+770,2024-11-18,United States,East,Chicago,Corporate,Furniture,Bookcases,3634.17,10,1387.62,363
+771,2024-08-06,United States,Central,San Jose,Corporate,Office Supplies,Paper,2650.69,10,401.55,265
+772,2024-10-15,United States,South,San Jose,Home Office,Furniture,Bookcases,3659.46,8,637.26,457
+773,2024-04-29,United States,Central,Houston,Consumer,Furniture,Bookcases,57.83,1,590.31,57
+774,2024-04-16,United States,South,Dallas,Corporate,Furniture,Bookcases,275.19,6,752.71,45
+775,2024-01-06,United States,West,Houston,Home Office,Office Supplies,Binders,1444.05,2,323.21,722
+776,2024-06-14,United States,East,New York,Consumer,Office Supplies,Storage,3444.89,6,473.28,574
+777,2024-01-15,United States,West,Houston,Consumer,Office Supplies,Storage,1686.05,6,1367.88,281
+778,2024-01-19,United States,West,Houston,Corporate,Technology,Accessories,819.16,8,1316.5,102
+779,2024-08-24,United States,South,San Antonio,Home Office,Office Supplies,Paper,327.31,9,308.88,36
+780,2024-06-10,United States,East,Philadelphia,Consumer,Office Supplies,Storage,2908.12,6,1159.21,484
+781,2024-03-17,United States,Central,Phoenix,Consumer,Technology,Phones,1728.8,7,865.07,246
+782,2024-11-06,United States,South,San Antonio,Consumer,Furniture,Bookcases,2996.2,5,998.95,599
+783,2024-01-17,United States,Central,Chicago,Corporate,Technology,Laptops,479.65,4,431.69,119
+784,2024-09-25,United States,Central,Los Angeles,Consumer,Technology,Phones,605.54,1,1122.24,605
+785,2024-09-16,United States,East,Philadelphia,Corporate,Furniture,Tables,4529.53,3,123.36,1509
+786,2024-09-25,United States,Central,Dallas,Corporate,Technology,Laptops,759.31,2,1197.64,379
+787,2024-03-08,United States,West,Los Angeles,Home Office,Office Supplies,Storage,230.94,7,1013.25,32
+788,2024-01-03,United States,Central,New York,Consumer,Office Supplies,Binders,3450.91,10,1282.19,345
+789,2024-01-24,United States,East,San Diego,Home Office,Technology,Accessories,3842.59,5,-161.78,768
+790,2024-04-17,United States,Central,Chicago,Consumer,Technology,Laptops,1003.1,5,704.87,200
+791,2024-03-01,United States,Central,San Jose,Consumer,Technology,Laptops,829.61,2,-174.06,414
+792,2024-09-20,United States,East,San Diego,Consumer,Office Supplies,Storage,2735.52,9,341.42,303
+793,2024-05-25,United States,West,New York,Consumer,Furniture,Bookcases,402.65,10,1316.81,40
+794,2024-01-26,United States,West,Phoenix,Consumer,Office Supplies,Paper,2380.14,1,-19.92,2380
+795,2024-08-06,United States,South,Dallas,Consumer,Furniture,Chairs,3538.15,10,870.1,353
+796,2024-08-16,United States,Central,San Jose,Corporate,Office Supplies,Storage,1695.04,4,1011.93,423
+797,2024-02-10,United States,South,New York,Home Office,Office Supplies,Storage,702.39,8,-34.65,87
+798,2024-11-25,United States,South,San Diego,Corporate,Technology,Laptops,1196.89,4,44.33,299
+799,2024-07-05,United States,South,San Diego,Consumer,Office Supplies,Paper,3513.09,6,1140.92,585
+800,2024-09-24,United States,South,Houston,Corporate,Office Supplies,Binders,4547.1,5,1262.28,909
+801,2024-02-16,United States,West,Chicago,Corporate,Technology,Phones,2011.41,1,951.21,2011
+802,2024-05-22,United States,Central,Houston,Consumer,Furniture,Chairs,4710.35,5,1111.0,942
+803,2024-12-27,United States,Central,New York,Home Office,Furniture,Tables,4305.05,2,968.55,2152
+804,2024-03-11,United States,West,Houston,Consumer,Office Supplies,Binders,1946.02,3,1000.91,648
+805,2024-11-11,United States,Central,Philadelphia,Home Office,Office Supplies,Binders,251.23,2,1218.58,125
+806,2024-09-29,United States,West,Houston,Consumer,Technology,Phones,3315.77,9,80.72,368
+807,2024-12-16,United States,South,Los Angeles,Consumer,Office Supplies,Storage,3047.28,3,608.98,1015
+808,2024-09-04,United States,South,Los Angeles,Consumer,Technology,Accessories,2311.09,3,452.1,770
+809,2024-03-25,United States,South,San Diego,Consumer,Technology,Laptops,315.1,6,149.44,52
+810,2024-10-07,United States,South,Dallas,Consumer,Furniture,Chairs,3892.05,4,311.96,973
+811,2024-06-02,United States,East,Philadelphia,Home Office,Office Supplies,Binders,4958.79,1,-41.05,4958
+812,2024-11-23,United States,East,New York,Corporate,Office Supplies,Binders,746.18,2,204.59,373
+813,2024-10-02,United States,South,San Antonio,Corporate,Technology,Laptops,2206.09,10,256.27,220
+814,2024-02-29,United States,West,San Jose,Corporate,Furniture,Tables,3482.51,9,460.39,386
+815,2024-06-23,United States,West,Chicago,Consumer,Technology,Accessories,1299.77,8,-6.05,162
+816,2024-02-13,United States,South,San Diego,Corporate,Office Supplies,Binders,1185.31,5,553.37,237
+817,2024-09-30,United States,South,Los Angeles,Corporate,Technology,Laptops,3152.66,8,1283.05,394
+818,2024-05-08,United States,East,Dallas,Consumer,Furniture,Bookcases,876.21,2,-37.56,438
+819,2024-12-13,United States,South,Philadelphia,Home Office,Furniture,Bookcases,2503.32,6,1400.7,417
+820,2024-09-26,United States,South,Dallas,Home Office,Technology,Accessories,1088.73,4,840.49,272
+821,2024-03-08,United States,East,San Diego,Consumer,Technology,Phones,2183.35,9,743.06,242
+822,2024-08-30,United States,Central,San Jose,Corporate,Technology,Phones,859.39,5,1073.23,171
+823,2024-12-25,United States,East,Houston,Consumer,Office Supplies,Binders,2507.24,6,689.11,417
+824,2024-03-10,United States,South,Houston,Consumer,Office Supplies,Binders,4962.81,3,992.43,1654
+825,2024-01-20,United States,East,Los Angeles,Corporate,Technology,Accessories,4166.9,2,895.93,2083
+826,2024-09-28,United States,West,San Antonio,Home Office,Furniture,Bookcases,1202.54,2,502.61,601
+827,2024-02-02,United States,South,Chicago,Corporate,Office Supplies,Binders,3901.18,9,809.23,433
+828,2024-11-21,United States,East,Philadelphia,Home Office,Technology,Phones,3366.62,6,559.27,561
+829,2024-05-17,United States,South,San Diego,Home Office,Furniture,Chairs,3044.6,1,1285.15,3044
+830,2024-08-04,United States,West,Houston,Home Office,Office Supplies,Storage,3788.56,4,1012.01,947
+831,2024-10-22,United States,Central,San Jose,Consumer,Furniture,Tables,3827.45,8,1493.15,478
+832,2024-07-30,United States,West,Dallas,Home Office,Furniture,Tables,3373.13,4,1088.22,843
+833,2024-12-20,United States,East,San Diego,Corporate,Office Supplies,Paper,1968.4,6,1441.92,328
+834,2024-10-10,United States,East,Houston,Corporate,Office Supplies,Binders,4101.11,7,1441.57,585
+835,2024-06-02,United States,Central,Houston,Home Office,Office Supplies,Binders,2071.54,7,985.25,295
+836,2024-10-22,United States,West,Houston,Corporate,Furniture,Chairs,3936.79,2,19.99,1968
+837,2024-06-14,United States,West,Chicago,Home Office,Office Supplies,Paper,3654.77,9,685.57,406
+838,2024-10-20,United States,West,Philadelphia,Corporate,Office Supplies,Paper,1529.32,7,1334.72,218
+839,2024-11-23,United States,East,Dallas,Corporate,Furniture,Tables,2812.2,7,1197.45,401
+840,2024-11-06,United States,South,Philadelphia,Consumer,Furniture,Bookcases,2996.2,5,998.95,599
+841,2024-08-17,United States,Central,San Diego,Home Office,Office Supplies,Storage,1614.89,8,-83.91,201
+842,2024-01-31,United States,Central,New York,Home Office,Office Supplies,Binders,811.9,9,1145.49,90
+843,2024-12-29,United States,Central,Phoenix,Home Office,Office Supplies,Storage,2755.74,10,134.0,275
+844,2024-01-27,United States,Central,New York,Corporate,Technology,Laptops,3960.05,9,408.75,440
+845,2024-02-10,United States,Central,San Diego,Consumer,Office Supplies,Paper,3193.53,9,266.57,354
+846,2024-02-15,United States,West,Dallas,Corporate,Technology,Laptops,1155.47,5,514.8,231
+847,2024-09-30,United States,South,Phoenix,Corporate,Technology,Laptops,3152.66,8,1283.05,394
+848,2024-08-31,United States,Central,San Diego,Corporate,Furniture,Bookcases,150.15,5,328.61,30
+849,2024-09-22,United States,South,Los Angeles,Corporate,Furniture,Bookcases,3461.59,1,945.98,3461
+850,2024-09-29,United States,West,Philadelphia,Consumer,Technology,Phones,3315.77,9,80.72,368
+851,2024-08-19,United States,West,New York,Corporate,Furniture,Tables,1727.71,8,477.84,215
+852,2024-03-15,United States,Central,Los Angeles,Consumer,Technology,Accessories,1473.77,2,388.82,736
+853,2024-05-17,United States,South,San Jose,Corporate,Office Supplies,Storage,2287.36,2,484.85,1143
+854,2024-04-29,United States,East,New York,Home Office,Technology,Accessories,1073.53,6,459.76,178
+855,2024-04-07,United States,East,Los Angeles,Home Office,Furniture,Chairs,4997.88,8,1354.55,624
+856,2024-09-17,United States,South,Chicago,Consumer,Furniture,Chairs,3791.12,2,59.83,1895
+857,2024-03-06,United States,West,San Antonio,Consumer,Office Supplies,Paper,2191.46,1,1213.36,2191
+858,2024-06-14,United States,East,Phoenix,Consumer,Office Supplies,Storage,3444.89,6,473.28,574
+859,2024-01-07,United States,Central,Philadelphia,Corporate,Technology,Accessories,1969.61,2,1032.23,984
+860,2024-09-20,United States,East,San Jose,Corporate,Furniture,Bookcases,251.14,5,746.22,50
+861,2024-04-26,United States,Central,San Jose,Home Office,Technology,Accessories,4708.66,7,115.75,672
+862,2024-09-07,United States,West,Houston,Home Office,Office Supplies,Paper,2406.66,8,561.9,300
+863,2024-07-26,United States,West,San Diego,Consumer,Technology,Phones,3220.37,7,472.49,460
+864,2024-06-14,United States,West,Chicago,Consumer,Technology,Accessories,3675.14,7,1146.13,525
+865,2024-08-02,United States,South,San Antonio,Consumer,Office Supplies,Binders,4864.17,3,1009.81,1621
+866,2024-07-28,United States,South,San Diego,Consumer,Furniture,Tables,1616.1,3,1124.2,538
+867,2024-01-06,United States,West,Chicago,Home Office,Office Supplies,Binders,1444.05,2,323.21,722
+868,2024-10-04,United States,East,San Jose,Home Office,Office Supplies,Storage,1602.34,1,793.1,1602
+869,2024-08-15,United States,Central,Phoenix,Home Office,Office Supplies,Binders,3929.81,4,707.82,982
+870,2024-01-11,United States,West,New York,Consumer,Furniture,Chairs,674.79,2,758.75,337
+871,2024-05-08,United States,West,Chicago,Home Office,Furniture,Chairs,4350.81,8,1210.97,543
+872,2024-05-17,United States,South,Phoenix,Corporate,Office Supplies,Storage,2287.36,2,484.85,1143
+873,2024-10-29,United States,South,Dallas,Consumer,Office Supplies,Binders,197.5,4,195.52,49
+874,2024-08-22,United States,Central,San Jose,Consumer,Office Supplies,Binders,3988.61,7,170.31,569
+875,2024-10-26,United States,Central,San Jose,Consumer,Furniture,Chairs,1686.29,3,-132.1,562
+876,2024-01-02,United States,South,Phoenix,Corporate,Furniture,Chairs,3462.39,8,295.14,432
+877,2024-08-06,United States,Central,New York,Corporate,Office Supplies,Paper,2650.69,10,401.55,265
+878,2024-09-14,United States,West,New York,Consumer,Office Supplies,Binders,4748.81,8,93.89,593
+879,2024-12-02,United States,West,San Jose,Home Office,Furniture,Bookcases,3145.36,3,749.32,1048
+880,2024-03-04,United States,South,Philadelphia,Corporate,Furniture,Chairs,4818.08,6,1144.83,803
+881,2024-05-25,United States,West,New York,Home Office,Furniture,Chairs,3108.93,1,590.43,3108
+882,2024-09-02,United States,South,Dallas,Home Office,Technology,Laptops,3751.95,9,286.08,416
+883,2024-04-23,United States,East,Dallas,Home Office,Technology,Laptops,3926.97,9,312.77,436
+884,2024-04-02,United States,West,Dallas,Corporate,Technology,Accessories,4740.96,8,126.41,592
+885,2024-10-06,United States,Central,San Jose,Home Office,Office Supplies,Paper,3871.35,5,837.13,774
+886,2024-05-22,United States,Central,Houston,Consumer,Furniture,Chairs,4710.35,5,1111.0,942
+887,2024-06-11,United States,West,San Diego,Home Office,Technology,Laptops,4845.28,10,1137.89,484
+888,2024-08-12,United States,South,San Diego,Consumer,Furniture,Tables,4428.53,8,1299.01,553
+889,2024-06-24,United States,East,San Antonio,Corporate,Technology,Phones,2277.8,1,364.19,2277
+890,2024-02-19,United States,East,Los Angeles,Corporate,Furniture,Chairs,4729.66,10,510.83,472
+891,2024-09-22,United States,East,Philadelphia,Consumer,Furniture,Chairs,3639.6,9,455.06,404
+892,2024-06-06,United States,East,Dallas,Corporate,Technology,Laptops,1309.56,1,1067.87,1309
+893,2024-03-15,United States,South,Philadelphia,Consumer,Technology,Laptops,4624.86,4,139.46,1156
+894,2024-05-14,United States,East,Los Angeles,Corporate,Office Supplies,Paper,2534.02,3,1095.46,844
+895,2024-08-12,United States,South,Los Angeles,Home Office,Furniture,Chairs,1658.23,8,1308.9,207
+896,2024-02-10,United States,Central,Los Angeles,Consumer,Office Supplies,Storage,533.54,4,1225.75,133
+897,2024-01-13,United States,West,San Diego,Corporate,Furniture,Chairs,1674.9,2,1443.71,837
+898,2024-03-01,United States,Central,Houston,Consumer,Technology,Laptops,829.61,2,-174.06,414
+899,2024-09-20,United States,West,New York,Home Office,Furniture,Bookcases,760.71,7,-197.34,108
+900,2024-08-20,United States,South,San Diego,Corporate,Office Supplies,Paper,443.05,10,-188.83,44
+901,2024-11-26,United States,West,San Jose,Consumer,Technology,Accessories,558.88,5,135.36,111
+902,2024-09-18,United States,East,Houston,Home Office,Technology,Laptops,615.32,9,1199.58,68
+903,2024-05-25,United States,East,New York,Corporate,Office Supplies,Binders,295.77,10,1125.71,29
+904,2024-04-19,United States,Central,San Antonio,Consumer,Furniture,Bookcases,4669.63,2,1294.76,2334
+905,2024-05-04,United States,West,New York,Home Office,Furniture,Tables,1065.77,9,152.17,118
+906,2024-08-04,United States,East,San Antonio,Corporate,Furniture,Bookcases,1939.02,8,699.49,242
+907,2024-02-07,United States,South,Chicago,Corporate,Technology,Laptops,4436.38,10,130.54,443
+908,2024-03-19,United States,West,Los Angeles,Home Office,Technology,Laptops,3444.41,1,311.9,3444
+909,2024-03-08,United States,East,Phoenix,Consumer,Technology,Phones,2183.35,9,743.06,242
+910,2024-02-21,United States,South,Chicago,Consumer,Furniture,Tables,3626.1,7,1280.59,518
+911,2024-02-21,United States,Central,New York,Corporate,Technology,Laptops,3083.25,5,118.16,616
+912,2024-02-16,United States,South,New York,Consumer,Office Supplies,Paper,1886.55,7,427.98,269
+913,2024-12-03,United States,East,Phoenix,Corporate,Office Supplies,Binders,2601.49,10,369.82,260
+914,2024-05-08,United States,South,Chicago,Corporate,Technology,Laptops,1036.12,7,1250.67,148
+915,2024-06-15,United States,Central,Houston,Corporate,Technology,Laptops,3297.79,5,120.21,659
+916,2024-08-24,United States,South,Chicago,Corporate,Technology,Accessories,3885.1,8,737.84,485
+917,2024-09-05,United States,Central,Phoenix,Home Office,Furniture,Bookcases,3823.16,1,-30.72,3823
+918,2024-11-14,United States,South,Philadelphia,Consumer,Technology,Laptops,1637.19,3,-115.63,545
+919,2024-09-17,United States,East,Phoenix,Consumer,Furniture,Chairs,4300.51,1,215.74,4300
+920,2024-06-06,United States,West,Houston,Corporate,Furniture,Tables,3446.06,5,973.49,689
+921,2024-10-02,United States,Central,San Antonio,Consumer,Technology,Phones,3914.66,10,1062.28,391
+922,2024-10-15,United States,South,Houston,Home Office,Furniture,Bookcases,3659.46,8,637.26,457
+923,2024-08-21,United States,East,Los Angeles,Corporate,Furniture,Chairs,3537.94,5,426.2,707
+924,2024-03-22,United States,East,New York,Consumer,Office Supplies,Storage,4250.91,8,-140.84,531
+925,2024-04-19,United States,Central,Phoenix,Consumer,Furniture,Bookcases,4669.63,2,1294.76,2334
+926,2024-06-30,United States,South,San Jose,Corporate,Office Supplies,Paper,2361.77,1,944.72,2361
+927,2024-05-05,United States,South,Chicago,Home Office,Technology,Phones,3424.91,3,88.97,1141
+928,2024-09-26,United States,East,Dallas,Home Office,Office Supplies,Storage,3368.76,9,415.11,374
+929,2024-08-24,United States,South,San Jose,Home Office,Office Supplies,Paper,327.31,9,308.88,36
+930,2024-01-02,United States,South,Philadelphia,Corporate,Furniture,Tables,4636.26,8,284.92,579
+931,2024-10-06,United States,East,San Jose,Corporate,Office Supplies,Binders,2933.42,3,530.64,977
+932,2024-09-16,United States,Central,Dallas,Consumer,Office Supplies,Paper,4211.16,9,107.93,467
+933,2024-07-06,United States,West,Houston,Corporate,Office Supplies,Paper,4774.54,2,-171.63,2387
+934,2024-09-06,United States,East,San Jose,Corporate,Office Supplies,Paper,4496.49,4,344.53,1124
+935,2024-04-18,United States,West,Phoenix,Home Office,Office Supplies,Storage,2640.17,5,732.96,528
+936,2024-11-22,United States,South,Philadelphia,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+937,2024-04-30,United States,South,Philadelphia,Corporate,Furniture,Chairs,124.59,5,793.98,24
+938,2024-02-13,United States,East,San Diego,Home Office,Technology,Phones,319.96,10,1375.44,31
+939,2024-02-24,United States,East,Dallas,Consumer,Technology,Laptops,2487.49,7,-18.17,355
+940,2024-06-17,United States,South,New York,Home Office,Technology,Laptops,702.27,3,787.75,234
+941,2024-12-03,United States,Central,Phoenix,Consumer,Furniture,Bookcases,3634.72,6,1368.0,605
+942,2024-08-12,United States,South,Los Angeles,Consumer,Furniture,Tables,4428.53,8,1299.01,553
+943,2024-12-05,United States,South,Houston,Home Office,Furniture,Bookcases,82.79,9,1428.59,9
+944,2024-08-06,United States,East,Phoenix,Corporate,Technology,Phones,2380.54,2,980.85,1190
+945,2024-02-22,United States,East,Chicago,Corporate,Furniture,Tables,528.75,6,826.33,88
+946,2024-10-19,United States,South,Philadelphia,Consumer,Technology,Phones,3338.64,2,689.92,1669
+947,2024-09-16,United States,Central,New York,Consumer,Office Supplies,Paper,4211.16,9,107.93,467
+948,2024-12-10,United States,Central,Chicago,Home Office,Furniture,Chairs,3321.58,10,772.88,332
+949,2024-08-04,United States,West,San Antonio,Corporate,Technology,Phones,400.6,7,-48.14,57
+950,2024-01-26,United States,West,Los Angeles,Consumer,Office Supplies,Paper,2380.14,1,-19.92,2380
+951,2024-03-04,United States,West,Houston,Corporate,Technology,Phones,2309.76,7,143.94,329
+952,2024-04-09,United States,Central,Dallas,Home Office,Technology,Accessories,4738.29,8,584.86,592
+953,2024-08-04,United States,East,Houston,Corporate,Furniture,Bookcases,1939.02,8,699.49,242
+954,2024-06-09,United States,West,San Antonio,Consumer,Office Supplies,Storage,1088.08,5,967.24,217
+955,2024-05-07,United States,East,Houston,Corporate,Technology,Phones,1320.46,2,1024.7,660
+956,2024-06-27,United States,Central,San Diego,Home Office,Furniture,Bookcases,2368.55,10,1354.61,236
+957,2024-03-26,United States,East,Chicago,Home Office,Furniture,Chairs,374.09,4,1270.42,93
+958,2024-06-04,United States,South,Philadelphia,Home Office,Technology,Accessories,4672.15,5,58.33,934
+959,2024-02-07,United States,West,Los Angeles,Corporate,Technology,Laptops,3229.58,8,591.92,403
+960,2024-05-30,United States,South,San Antonio,Consumer,Office Supplies,Binders,4918.09,2,117.86,2459
+961,2024-12-19,United States,West,Los Angeles,Consumer,Office Supplies,Storage,1121.1,8,270.05,140
+962,2024-01-21,United States,West,Houston,Home Office,Office Supplies,Binders,1559.39,8,468.78,194
+963,2024-08-31,United States,Central,Dallas,Corporate,Furniture,Bookcases,150.15,5,328.61,30
+964,2024-07-06,United States,West,Chicago,Corporate,Office Supplies,Paper,4774.54,2,-171.63,2387
+965,2024-03-22,United States,East,Houston,Consumer,Office Supplies,Storage,4250.91,8,-140.84,531
+966,2024-08-12,United States,South,San Antonio,Home Office,Furniture,Chairs,1658.23,8,1308.9,207
+967,2024-08-18,United States,Central,Phoenix,Corporate,Office Supplies,Binders,1836.76,9,747.74,204
+968,2024-06-30,United States,South,San Antonio,Home Office,Furniture,Tables,304.66,5,820.7,60
+969,2024-02-10,United States,South,San Jose,Corporate,Technology,Phones,4016.24,8,-50.37,502
+970,2024-03-21,United States,East,Philadelphia,Home Office,Office Supplies,Storage,446.55,3,-83.51,148
+971,2024-04-16,United States,South,Phoenix,Corporate,Office Supplies,Paper,1210.8,1,941.78,1210
+972,2024-06-14,United States,East,Phoenix,Consumer,Furniture,Bookcases,1363.57,3,1060.92,454
+973,2024-11-06,United States,East,San Antonio,Consumer,Technology,Phones,4654.54,4,914.77,1163
+974,2024-06-04,United States,West,Houston,Consumer,Office Supplies,Binders,1647.17,4,388.24,411
+975,2024-02-05,United States,Central,San Antonio,Consumer,Office Supplies,Paper,4255.4,8,-20.58,531
+976,2024-08-06,United States,South,Dallas,Consumer,Furniture,Chairs,3538.15,10,870.1,353
+977,2024-02-06,United States,West,San Antonio,Corporate,Technology,Laptops,2067.78,8,871.37,258
+978,2024-06-14,United States,West,Houston,Home Office,Office Supplies,Paper,3654.77,9,685.57,406
+979,2024-09-24,United States,East,San Antonio,Consumer,Technology,Phones,1935.31,1,939.43,1935
+980,2024-09-06,United States,East,Philadelphia,Corporate,Office Supplies,Paper,4496.49,4,344.53,1124
+981,2024-09-01,United States,East,Philadelphia,Home Office,Office Supplies,Paper,1769.08,3,577.23,589
+982,2024-08-06,United States,South,Chicago,Consumer,Furniture,Chairs,3538.15,10,870.1,353
+983,2024-06-30,United States,South,San Diego,Corporate,Office Supplies,Paper,2361.77,1,944.72,2361
+984,2024-12-29,United States,East,New York,Home Office,Furniture,Chairs,2636.58,9,-187.77,292
+985,2024-09-02,United States,South,Los Angeles,Home Office,Technology,Laptops,3751.95,9,286.08,416
+986,2024-04-26,United States,Central,San Antonio,Home Office,Technology,Accessories,4708.66,7,115.75,672
+987,2024-02-10,United States,South,Phoenix,Home Office,Office Supplies,Storage,702.39,8,-34.65,87
+988,2024-06-02,United States,East,Phoenix,Home Office,Office Supplies,Binders,4958.79,1,-41.05,4958
+989,2024-06-09,United States,Central,Philadelphia,Consumer,Furniture,Tables,4476.87,5,110.73,895
+990,2024-05-13,United States,Central,Houston,Corporate,Technology,Accessories,4263.51,8,-108.75,532
+991,2024-03-15,United States,East,San Jose,Consumer,Technology,Accessories,2201.65,7,309.58,314
+992,2024-05-14,United States,South,Philadelphia,Corporate,Technology,Phones,1353.83,5,759.22,270
+993,2024-03-22,United States,East,Dallas,Consumer,Office Supplies,Storage,4250.91,8,-140.84,531
+994,2024-08-17,United States,Central,Houston,Home Office,Office Supplies,Storage,1614.89,8,-83.91,201
+995,2024-06-18,United States,Central,Dallas,Consumer,Furniture,Bookcases,4006.74,7,1312.13,572
+996,2024-12-26,United States,Central,San Antonio,Corporate,Furniture,Tables,2885.04,9,1475.33,320
+997,2024-11-30,United States,South,Philadelphia,Corporate,Office Supplies,Storage,3439.25,7,1007.24,491
+998,2024-09-25,United States,South,San Diego,Consumer,Office Supplies,Storage,4262.75,8,263.82,532
+999,2024-10-25,United States,Central,Philadelphia,Corporate,Office Supplies,Storage,4818.27,5,184.7,963
+1000,2024-07-15,United States,South,San Antonio,Home Office,Office Supplies,Binders,3298.07,5,1009.73,659
+1001,2024-11-09,United States,West,Houston,Home Office,Office Supplies,Storage,1199.3,1,410.74,1199
+1002,2024-12-14,United States,East,San Jose,Consumer,Technology,Laptops,4876.66,7,434.44,696
+1003,2024-11-22,United States,East,Phoenix,Consumer,Office Supplies,Storage,3856.32,6,82.78,642
+1004,2024-06-10,United States,East,Los Angeles,Home Office,Furniture,Chairs,4120.57,9,669.16,457
+1005,2024-06-11,United States,West,Phoenix,Home Office,Technology,Laptops,4845.28,10,1137.89,484
+1006,2024-06-16,United States,South,Los Angeles,Home Office,Furniture,Bookcases,3189.76,2,327.29,1594
+1007,2024-05-17,United States,South,San Jose,Home Office,Technology,Phones,1748.33,3,647.91,582
+1008,2024-08-26,United States,Central,Phoenix,Corporate,Technology,Accessories,1344.73,9,1300.78,149
+1009,2024-03-18,United States,East,New York,Corporate,Furniture,Chairs,1125.08,7,329.68,160
+1010,2024-06-18,United States,Central,Phoenix,Consumer,Furniture,Bookcases,4006.74,7,1312.13,572
+1011,2024-07-22,United States,Central,Dallas,Home Office,Office Supplies,Paper,1429.51,2,-155.95,714
+1012,2024-04-30,United States,South,Philadelphia,Corporate,Furniture,Chairs,124.59,5,793.98,24
+1013,2024-02-13,United States,South,San Antonio,Corporate,Office Supplies,Binders,1185.31,5,553.37,237
+1014,2024-10-21,United States,South,Houston,Corporate,Office Supplies,Binders,969.48,9,978.84,107
+1015,2024-11-26,United States,South,Philadelphia,Corporate,Furniture,Chairs,1141.93,2,517.81,570
+1016,2024-04-17,United States,West,New York,Home Office,Technology,Accessories,4175.16,1,214.24,4175
+1017,2024-02-16,United States,South,San Jose,Consumer,Office Supplies,Paper,1886.55,7,427.98,269
+1018,2024-08-18,United States,Central,Philadelphia,Corporate,Furniture,Bookcases,2247.5,2,775.67,1123
+1019,2024-02-05,United States,West,Dallas,Corporate,Office Supplies,Binders,1513.58,5,720.73,302
+1020,2024-05-17,United States,East,Chicago,Consumer,Furniture,Bookcases,2378.98,8,1357.32,297
+1021,2024-06-03,United States,South,Chicago,Home Office,Furniture,Tables,556.44,9,1499.03,61
+1022,2024-06-30,United States,West,Los Angeles,Consumer,Technology,Phones,1411.16,8,1301.82,176
+1023,2024-05-30,United States,South,New York,Consumer,Office Supplies,Binders,4918.09,2,117.86,2459
+1024,2024-09-13,United States,South,Philadelphia,Home Office,Furniture,Tables,3650.64,3,681.76,1216
+1025,2024-11-19,United States,West,San Antonio,Corporate,Technology,Accessories,3190.77,1,568.49,3190
+1026,2024-03-10,United States,South,San Antonio,Consumer,Office Supplies,Binders,4962.81,3,992.43,1654
+1027,2024-03-15,United States,Central,Los Angeles,Consumer,Furniture,Chairs,3819.29,7,632.08,545
+1028,2024-05-17,United States,East,San Diego,Consumer,Furniture,Bookcases,2378.98,8,1357.32,297
+1029,2024-12-03,United States,Central,Philadelphia,Consumer,Furniture,Bookcases,3634.72,6,1368.0,605
+1030,2024-03-23,United States,East,Phoenix,Consumer,Technology,Laptops,2566.3,6,1161.45,427
+1031,2024-01-11,United States,West,Philadelphia,Consumer,Furniture,Chairs,674.79,2,758.75,337
+1032,2024-11-06,United States,East,Philadelphia,Consumer,Technology,Phones,4654.54,4,914.77,1163
+1033,2024-05-17,United States,East,San Jose,Consumer,Furniture,Bookcases,2378.98,8,1357.32,297
+1034,2024-10-29,United States,South,Dallas,Consumer,Office Supplies,Binders,197.5,4,195.52,49
+1035,2024-04-13,United States,West,San Antonio,Home Office,Furniture,Chairs,1812.34,2,3.79,906
+1036,2024-01-09,United States,Central,Phoenix,Consumer,Technology,Accessories,1756.77,2,1111.55,878
+1037,2024-10-26,United States,Central,San Diego,Consumer,Furniture,Chairs,1686.29,3,-132.1,562
+1038,2024-02-01,United States,Central,New York,Corporate,Office Supplies,Paper,4457.49,1,1405.03,4457
+1039,2024-06-18,United States,Central,Houston,Consumer,Furniture,Bookcases,4006.74,7,1312.13,572
+1040,2024-12-26,United States,Central,San Diego,Corporate,Furniture,Tables,2885.04,9,1475.33,320
+1041,2024-11-26,United States,East,Houston,Consumer,Furniture,Tables,2789.31,10,1026.01,278
+1042,2024-12-25,United States,West,Chicago,Corporate,Furniture,Bookcases,2091.51,6,678.06,348
+1043,2024-08-28,United States,Central,Phoenix,Corporate,Furniture,Chairs,3135.13,7,904.72,447
+1044,2024-01-13,United States,West,Philadelphia,Corporate,Furniture,Chairs,1674.9,2,1443.71,837
+1045,2024-04-30,United States,South,New York,Corporate,Furniture,Chairs,124.59,5,793.98,24
+1046,2024-05-25,United States,West,Los Angeles,Home Office,Furniture,Chairs,3108.93,1,590.43,3108
+1047,2024-11-26,United States,South,San Antonio,Corporate,Furniture,Chairs,1141.93,2,517.81,570
+1048,2024-06-10,United States,East,Los Angeles,Home Office,Furniture,Chairs,4120.57,9,669.16,457
+1049,2024-06-20,United States,South,Philadelphia,Corporate,Furniture,Chairs,2643.08,5,1010.95,528
+1050,2024-05-15,United States,West,Los Angeles,Home Office,Office Supplies,Storage,2112.1,1,646.66,2112
+1051,2024-12-17,United States,East,San Jose,Home Office,Technology,Accessories,2951.29,2,-162.94,1475
+1052,2024-02-09,United States,Central,Houston,Consumer,Furniture,Chairs,2563.06,9,1219.7,284
+1053,2024-06-09,United States,South,San Jose,Home Office,Technology,Phones,2051.89,7,292.18,293
+1054,2024-03-10,United States,East,Phoenix,Corporate,Office Supplies,Storage,3874.74,7,377.79,553
+1055,2024-03-18,United States,South,Chicago,Home Office,Furniture,Bookcases,3448.5,4,-52.63,862
+1056,2024-12-10,United States,Central,Dallas,Home Office,Furniture,Chairs,3321.58,10,772.88,332
+1057,2024-02-29,United States,West,Houston,Home Office,Office Supplies,Paper,2936.58,2,1328.11,1468
+1058,2024-10-20,United States,West,Dallas,Home Office,Furniture,Bookcases,3706.5,1,1352.49,3706
+1059,2024-03-26,United States,Central,Houston,Consumer,Furniture,Chairs,2607.37,7,818.91,372
+1060,2024-07-16,United States,Central,Phoenix,Corporate,Office Supplies,Storage,3632.48,10,1284.58,363
+1061,2024-10-22,United States,West,Philadelphia,Corporate,Furniture,Chairs,3936.79,2,19.99,1968
+1062,2024-09-22,United States,South,San Antonio,Home Office,Furniture,Chairs,244.3,7,677.42,34
+1063,2024-10-23,United States,Central,Philadelphia,Home Office,Technology,Phones,700.49,5,355.42,140
+1064,2024-10-30,United States,West,Los Angeles,Consumer,Furniture,Bookcases,3166.23,1,1314.36,3166
+1065,2024-09-26,United States,East,San Antonio,Home Office,Office Supplies,Storage,3368.76,9,415.11,374
+1066,2024-01-02,United States,Central,Philadelphia,Home Office,Office Supplies,Paper,1527.85,10,785.87,152
+1067,2024-03-27,United States,East,New York,Home Office,Furniture,Tables,3184.46,9,666.92,353
+1068,2024-04-21,United States,South,Chicago,Corporate,Furniture,Chairs,349.23,10,1351.68,34
+1069,2024-03-24,United States,South,Philadelphia,Consumer,Office Supplies,Binders,4006.01,1,301.34,4006
+1070,2024-05-08,United States,West,Los Angeles,Home Office,Furniture,Tables,3143.92,10,848.34,314
+1071,2024-11-18,United States,East,Houston,Corporate,Furniture,Bookcases,3634.17,10,1387.62,363
+1072,2024-05-29,United States,Central,San Jose,Home Office,Technology,Laptops,3240.99,5,1309.08,648
+1073,2024-08-20,United States,South,Dallas,Corporate,Office Supplies,Paper,443.05,10,-188.83,44
+1074,2024-11-26,United States,East,San Antonio,Consumer,Furniture,Tables,2789.31,10,1026.01,278
+1075,2024-01-07,United States,Central,Los Angeles,Corporate,Technology,Accessories,1969.61,2,1032.23,984
+1076,2024-10-22,United States,West,San Jose,Corporate,Furniture,Chairs,3936.79,2,19.99,1968
+1077,2024-03-13,United States,West,New York,Home Office,Technology,Phones,3634.87,7,1444.36,519
+1078,2024-02-16,United States,South,San Antonio,Consumer,Office Supplies,Paper,1359.07,2,573.14,679
+1079,2024-03-20,United States,East,Los Angeles,Consumer,Office Supplies,Storage,2328.83,3,35.29,776
+1080,2024-01-15,United States,West,San Jose,Consumer,Office Supplies,Storage,4382.14,4,1222.86,1095
+1081,2024-06-09,United States,Central,San Antonio,Consumer,Furniture,Tables,4476.87,5,110.73,895
+1082,2024-12-20,United States,West,Philadelphia,Home Office,Office Supplies,Binders,4085.46,2,458.59,2042
+1083,2024-02-10,United States,Central,Philadelphia,Consumer,Office Supplies,Storage,533.54,4,1225.75,133
+1084,2024-04-07,United States,South,San Diego,Home Office,Office Supplies,Storage,1038.35,4,1283.66,259
+1085,2024-01-19,United States,West,Dallas,Corporate,Technology,Accessories,819.16,8,1316.5,102
+1086,2024-05-14,United States,South,New York,Corporate,Technology,Phones,1353.83,5,759.22,270
+1087,2024-06-03,United States,South,Los Angeles,Consumer,Technology,Laptops,741.9,1,317.42,741
+1088,2024-03-26,United States,Central,New York,Consumer,Office Supplies,Paper,3761.39,5,1045.99,752
+1089,2024-01-17,United States,Central,San Diego,Corporate,Furniture,Tables,940.91,3,1101.91,313
+1090,2024-01-10,United States,Central,San Antonio,Consumer,Office Supplies,Storage,1122.14,10,1487.72,112
+1091,2024-06-21,United States,South,Los Angeles,Home Office,Technology,Laptops,2836.48,8,1186.77,354
+1092,2024-08-20,United States,South,Phoenix,Corporate,Office Supplies,Paper,443.05,10,-188.83,44
+1093,2024-10-23,United States,Central,New York,Home Office,Technology,Phones,700.49,5,355.42,140
+1094,2024-01-07,United States,Central,San Diego,Corporate,Technology,Accessories,1969.61,2,1032.23,984
+1095,2024-06-25,United States,South,San Antonio,Home Office,Technology,Laptops,733.44,2,1071.28,366
+1096,2024-12-15,United States,Central,New York,Corporate,Furniture,Chairs,4583.87,2,455.99,2291
+1097,2024-10-29,United States,South,San Jose,Consumer,Office Supplies,Binders,197.5,4,195.52,49
+1098,2024-01-09,United States,West,San Antonio,Consumer,Technology,Laptops,383.09,10,-142.92,38
+1099,2024-06-06,United States,South,Los Angeles,Consumer,Technology,Accessories,495.74,7,659.26,70
+1100,2024-03-15,United States,West,Los Angeles,Corporate,Technology,Phones,4038.06,3,516.59,1346
+1101,2024-03-31,United States,Central,San Jose,Consumer,Furniture,Tables,158.47,10,997.98,15
+1102,2024-04-30,United States,South,Houston,Consumer,Furniture,Bookcases,4710.9,10,218.57,471
+1103,2024-06-14,United States,East,Los Angeles,Consumer,Furniture,Bookcases,1363.57,3,1060.92,454
+1104,2024-12-09,United States,Central,San Jose,Home Office,Technology,Phones,4686.44,2,835.52,2343
+1105,2024-08-18,United States,Central,Phoenix,Corporate,Furniture,Bookcases,2247.5,2,775.67,1123
+1106,2024-11-22,United States,South,Phoenix,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+1107,2024-08-03,United States,South,San Antonio,Consumer,Office Supplies,Paper,441.6,6,187.97,73
+1108,2024-09-14,United States,South,Chicago,Consumer,Technology,Accessories,4093.61,10,35.28,409
+1109,2024-09-30,United States,South,Philadelphia,Corporate,Technology,Laptops,3152.66,8,1283.05,394
+1110,2024-01-14,United States,Central,New York,Consumer,Technology,Laptops,2612.86,9,120.7,290
+1111,2024-02-19,United States,West,San Diego,Home Office,Technology,Phones,721.54,8,430.72,90
+1112,2024-11-24,United States,South,Dallas,Home Office,Technology,Accessories,4906.69,9,362.95,545
+1113,2024-06-08,United States,East,San Diego,Home Office,Office Supplies,Binders,2069.55,4,1486.84,517
+1114,2024-11-09,United States,Central,Philadelphia,Corporate,Furniture,Bookcases,3259.86,9,1174.97,362
+1115,2024-07-15,United States,South,Philadelphia,Home Office,Office Supplies,Binders,3298.07,5,1009.73,659
+1116,2024-10-17,United States,East,Chicago,Home Office,Furniture,Bookcases,2333.26,9,-75.65,259
+1117,2024-03-23,United States,East,Los Angeles,Consumer,Technology,Laptops,2566.3,6,1161.45,427
+1118,2024-07-15,United States,West,San Antonio,Consumer,Technology,Accessories,4659.24,1,739.87,4659
+1119,2024-02-09,United States,Central,San Diego,Consumer,Technology,Accessories,2535.1,1,104.89,2535
+1120,2024-10-18,United States,East,Los Angeles,Home Office,Technology,Accessories,4802.54,2,1410.9,2401
+1121,2024-06-06,United States,South,New York,Consumer,Technology,Accessories,495.74,7,659.26,70
+1122,2024-02-12,United States,South,San Diego,Consumer,Office Supplies,Paper,2181.51,3,727.31,727
+1123,2024-01-14,United States,East,San Antonio,Consumer,Office Supplies,Paper,4811.46,10,798.11,481
+1124,2024-11-19,United States,West,New York,Corporate,Technology,Accessories,3190.77,1,568.49,3190
+1125,2024-05-14,United States,South,San Antonio,Corporate,Technology,Phones,1353.83,5,759.22,270
+1126,2024-11-22,United States,South,San Diego,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+1127,2024-10-03,United States,South,San Diego,Home Office,Office Supplies,Storage,3724.23,3,1305.2,1241
+1128,2024-02-10,United States,Central,Chicago,Consumer,Office Supplies,Storage,533.54,4,1225.75,133
+1129,2024-06-29,United States,Central,Philadelphia,Home Office,Office Supplies,Paper,4957.74,6,1236.25,826
+1130,2024-02-01,United States,South,New York,Corporate,Office Supplies,Binders,2160.05,2,633.46,1080
+1131,2024-05-14,United States,East,San Diego,Corporate,Office Supplies,Paper,2534.02,3,1095.46,844
+1132,2024-08-23,United States,East,Houston,Home Office,Furniture,Chairs,3346.74,4,603.8,836
+1133,2024-02-02,United States,South,San Antonio,Corporate,Office Supplies,Binders,3901.18,9,809.23,433
+1134,2024-10-26,United States,East,Chicago,Home Office,Office Supplies,Binders,4248.84,6,1377.68,708
+1135,2024-08-04,United States,West,Chicago,Corporate,Technology,Phones,400.6,7,-48.14,57
+1136,2024-09-28,United States,West,San Diego,Home Office,Furniture,Bookcases,1202.54,2,502.61,601
+1137,2024-03-06,United States,Central,San Jose,Home Office,Furniture,Tables,4051.3,3,1409.77,1350
+1138,2024-09-05,United States,Central,Dallas,Home Office,Furniture,Bookcases,3823.16,1,-30.72,3823
+1139,2024-05-05,United States,South,Los Angeles,Home Office,Technology,Phones,3424.91,3,88.97,1141
+1140,2024-06-24,United States,East,Houston,Home Office,Technology,Phones,3248.33,1,221.16,3248
+1141,2024-03-18,United States,South,Los Angeles,Home Office,Furniture,Bookcases,3448.5,4,-52.63,862
+1142,2024-06-09,United States,Central,New York,Consumer,Furniture,Tables,4476.87,5,110.73,895
+1143,2024-01-02,United States,South,Chicago,Corporate,Furniture,Tables,4636.26,8,284.92,579
+1144,2024-04-29,United States,Central,San Antonio,Home Office,Furniture,Tables,3953.38,6,1169.39,658
+1145,2024-11-21,United States,East,Philadelphia,Home Office,Technology,Phones,3366.62,6,559.27,561
+1146,2024-11-16,United States,South,San Diego,Consumer,Technology,Laptops,530.09,4,90.41,132
+1147,2024-10-11,United States,West,Phoenix,Corporate,Office Supplies,Binders,1479.73,3,334.79,493
+1148,2024-08-04,United States,West,San Jose,Home Office,Office Supplies,Storage,3788.56,4,1012.01,947
+1149,2024-01-22,United States,South,Phoenix,Home Office,Technology,Accessories,1598.84,10,1396.54,159
+1150,2024-01-05,United States,South,Dallas,Corporate,Technology,Laptops,1533.07,7,1156.54,219
+1151,2024-11-13,United States,East,Dallas,Corporate,Office Supplies,Binders,3304.0,10,688.73,330
+1152,2024-11-23,United States,East,Philadelphia,Consumer,Technology,Accessories,3372.36,7,417.63,481
+1153,2024-12-29,United States,East,San Antonio,Consumer,Technology,Phones,4253.44,2,951.14,2126
+1154,2024-12-29,United States,Central,Los Angeles,Home Office,Office Supplies,Storage,2755.74,10,134.0,275
+1155,2024-03-12,United States,East,San Diego,Consumer,Technology,Phones,355.26,4,22.22,88
+1156,2024-01-06,United States,West,Houston,Home Office,Office Supplies,Binders,1444.05,2,323.21,722
+1157,2024-09-25,United States,South,Houston,Consumer,Office Supplies,Storage,4262.75,8,263.82,532
+1158,2024-08-30,United States,West,Dallas,Corporate,Office Supplies,Storage,4047.11,4,-39.65,1011
+1159,2024-07-16,United States,Central,Chicago,Consumer,Office Supplies,Paper,2506.21,8,424.49,313
+1160,2024-09-28,United States,West,Houston,Home Office,Furniture,Bookcases,1202.54,2,502.61,601
+1161,2024-02-10,United States,South,New York,Home Office,Office Supplies,Storage,702.39,8,-34.65,87
+1162,2024-10-30,United States,West,Houston,Consumer,Furniture,Bookcases,3166.23,1,1314.36,3166
+1163,2024-03-24,United States,South,New York,Home Office,Furniture,Tables,1323.46,3,-176.06,441
+1164,2024-09-24,United States,South,Philadelphia,Consumer,Office Supplies,Storage,2101.49,3,763.21,700
+1165,2024-03-31,United States,Central,Chicago,Consumer,Furniture,Tables,158.47,10,997.98,15
+1166,2024-08-03,United States,South,Phoenix,Consumer,Office Supplies,Paper,441.6,6,187.97,73
+1167,2024-09-23,United States,Central,Houston,Corporate,Technology,Accessories,4445.47,3,382.65,1481
+1168,2024-02-24,United States,East,San Antonio,Consumer,Technology,Laptops,2487.49,7,-18.17,355
+1169,2024-01-20,United States,East,Philadelphia,Corporate,Technology,Accessories,4166.9,2,895.93,2083
+1170,2024-07-05,United States,East,San Jose,Corporate,Furniture,Tables,1089.88,4,933.79,272
+1171,2024-08-07,United States,South,New York,Corporate,Technology,Laptops,4828.37,7,-192.06,689
+1172,2024-05-30,United States,South,New York,Consumer,Technology,Phones,2295.93,5,1452.21,459
+1173,2024-10-22,United States,West,Dallas,Consumer,Technology,Phones,3300.84,4,1240.37,825
+1174,2024-01-09,United States,Central,Los Angeles,Consumer,Technology,Accessories,1756.77,2,1111.55,878
+1175,2024-06-17,United States,West,New York,Home Office,Furniture,Chairs,64.04,3,1478.8,21
+1176,2024-09-14,United States,West,Philadelphia,Consumer,Office Supplies,Binders,4748.81,8,93.89,593
+1177,2024-01-23,United States,East,Houston,Corporate,Technology,Accessories,3867.04,5,74.69,773
+1178,2024-02-29,United States,West,New York,Corporate,Furniture,Tables,3482.51,9,460.39,386
+1179,2024-01-12,United States,West,New York,Consumer,Furniture,Chairs,1864.63,1,437.83,1864
+1180,2024-11-22,United States,South,New York,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+1181,2024-11-09,United States,West,Dallas,Home Office,Office Supplies,Storage,1199.3,1,410.74,1199
+1182,2024-04-30,United States,South,San Jose,Consumer,Furniture,Bookcases,4710.9,10,218.57,471
+1183,2024-10-20,United States,West,New York,Home Office,Furniture,Bookcases,3706.5,1,1352.49,3706
+1184,2024-05-08,United States,West,Philadelphia,Home Office,Furniture,Tables,3143.92,10,848.34,314
+1185,2024-06-03,United States,South,Dallas,Home Office,Furniture,Tables,556.44,9,1499.03,61
+1186,2024-12-10,United States,South,Dallas,Home Office,Technology,Accessories,1927.42,4,220.77,481
+1187,2024-01-04,United States,West,New York,Corporate,Office Supplies,Binders,4729.35,3,1099.07,1576
+1188,2024-12-04,United States,West,San Antonio,Corporate,Office Supplies,Binders,4065.3,2,618.58,2032
+1189,2024-11-22,United States,South,San Antonio,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+1190,2024-11-23,United States,East,San Antonio,Corporate,Furniture,Tables,2812.2,7,1197.45,401
+1191,2024-01-19,United States,South,Houston,Consumer,Technology,Laptops,1606.86,6,-2.93,267
+1192,2024-06-04,United States,Central,Los Angeles,Home Office,Technology,Laptops,328.05,9,-73.88,36
+1193,2024-10-22,United States,Central,Los Angeles,Consumer,Furniture,Tables,3827.45,8,1493.15,478
+1194,2024-02-02,United States,South,Los Angeles,Corporate,Office Supplies,Binders,3901.18,9,809.23,433
+1195,2024-08-28,United States,Central,Los Angeles,Home Office,Office Supplies,Storage,90.48,2,532.58,45
+1196,2024-09-08,United States,South,Los Angeles,Consumer,Office Supplies,Storage,3677.22,6,87.75,612
+1197,2024-03-18,United States,South,Los Angeles,Consumer,Office Supplies,Storage,674.92,10,364.39,67
+1198,2024-02-24,United States,Central,Dallas,Home Office,Furniture,Bookcases,2562.93,4,59.83,640
+1199,2024-09-20,United States,East,New York,Consumer,Office Supplies,Storage,2735.52,9,341.42,303
+1200,2024-06-26,United States,Central,San Diego,Corporate,Furniture,Chairs,3144.89,4,1493.19,786
+1201,2024-10-26,United States,Central,Philadelphia,Consumer,Furniture,Chairs,1686.29,3,-132.1,562
+1202,2024-05-30,United States,West,Philadelphia,Home Office,Technology,Accessories,2675.97,9,1200.27,297
+1203,2024-09-08,United States,South,Phoenix,Consumer,Office Supplies,Storage,3677.22,6,87.75,612
+1204,2024-02-15,United States,West,Dallas,Consumer,Furniture,Tables,2524.6,10,375.32,252
+1205,2024-03-01,United States,Central,Los Angeles,Consumer,Technology,Laptops,829.61,2,-174.06,414
+1206,2024-12-16,United States,East,Phoenix,Consumer,Office Supplies,Storage,1976.06,1,1167.43,1976
+1207,2024-10-20,United States,East,New York,Corporate,Technology,Laptops,3285.73,4,-94.39,821
+1208,2024-01-28,United States,East,Chicago,Corporate,Technology,Laptops,2643.71,2,-23.32,1321
+1209,2024-05-14,United States,West,Philadelphia,Corporate,Furniture,Bookcases,510.4,6,-70.75,85
+1210,2024-07-04,United States,East,Phoenix,Home Office,Technology,Phones,1868.31,6,-97.06,311
+1211,2024-08-21,United States,East,San Jose,Corporate,Furniture,Chairs,3537.94,5,426.2,707
+1212,2024-03-10,United States,South,Dallas,Consumer,Office Supplies,Binders,4962.81,3,992.43,1654
+1213,2024-09-25,United States,Central,San Jose,Consumer,Technology,Phones,605.54,1,1122.24,605
+1214,2024-10-18,United States,East,San Diego,Home Office,Technology,Accessories,4802.54,2,1410.9,2401
+1215,2024-03-04,United States,West,San Antonio,Corporate,Technology,Phones,2309.76,7,143.94,329
+1216,2024-12-03,United States,Central,San Jose,Home Office,Furniture,Chairs,253.91,1,-61.92,253
+1217,2024-03-13,United States,East,Houston,Consumer,Technology,Phones,3743.25,4,439.53,935
+1218,2024-12-08,United States,Central,Houston,Consumer,Technology,Phones,1364.79,3,941.87,454
+1219,2024-09-14,United States,West,Houston,Consumer,Office Supplies,Binders,4748.81,8,93.89,593
+1220,2024-06-14,United States,West,Los Angeles,Home Office,Office Supplies,Paper,3654.77,9,685.57,406
+1221,2024-09-18,United States,West,Philadelphia,Corporate,Office Supplies,Paper,2774.21,1,1106.04,2774
+1222,2024-07-16,United States,West,Dallas,Home Office,Office Supplies,Storage,4465.71,10,-107.24,446
+1223,2024-05-14,United States,West,Chicago,Consumer,Furniture,Chairs,4616.77,7,661.24,659
+1224,2024-04-16,United States,South,San Diego,Corporate,Office Supplies,Paper,1210.8,1,941.78,1210
+1225,2024-05-13,United States,Central,Dallas,Corporate,Technology,Accessories,4263.51,8,-108.75,532
+1226,2024-03-21,United States,East,Chicago,Home Office,Office Supplies,Storage,446.55,3,-83.51,148
+1227,2024-01-05,United States,East,Houston,Home Office,Technology,Phones,3928.2,8,970.29,491
+1228,2024-05-02,United States,East,Phoenix,Consumer,Technology,Accessories,4396.15,2,-54.39,2198
+1229,2024-03-19,United States,West,San Antonio,Corporate,Technology,Accessories,1188.59,10,1216.72,118
+1230,2024-01-06,United States,West,New York,Home Office,Office Supplies,Binders,1444.05,2,323.21,722
+1231,2024-08-07,United States,South,San Antonio,Corporate,Technology,Laptops,4828.37,7,-192.06,689
+1232,2024-02-05,United States,East,Los Angeles,Home Office,Office Supplies,Binders,3267.6,8,397.02,408
+1233,2024-02-20,United States,West,San Diego,Consumer,Furniture,Tables,1116.56,5,610.12,223
+1234,2024-08-30,United States,East,San Jose,Corporate,Technology,Phones,3935.14,8,631.46,491
+1235,2024-12-13,United States,West,Phoenix,Home Office,Office Supplies,Paper,530.96,1,325.19,530
+1236,2024-09-07,United States,West,San Diego,Home Office,Office Supplies,Paper,2406.66,8,561.9,300
+1237,2024-02-28,United States,West,Phoenix,Home Office,Technology,Accessories,4986.46,3,958.91,1662
+1238,2024-07-05,United States,South,San Diego,Consumer,Office Supplies,Paper,3513.09,6,1140.92,585
+1239,2024-06-24,United States,East,Philadelphia,Corporate,Technology,Phones,2277.8,1,364.19,2277
+1240,2024-06-19,United States,South,San Jose,Home Office,Furniture,Chairs,4327.12,4,253.57,1081
+1241,2024-09-26,United States,West,Chicago,Consumer,Furniture,Chairs,224.02,6,1262.63,37
+1242,2024-12-02,United States,South,Chicago,Home Office,Office Supplies,Paper,3138.65,10,235.1,313
+1243,2024-03-26,United States,East,Chicago,Home Office,Furniture,Chairs,374.09,4,1270.42,93
+1244,2024-08-17,United States,Central,Los Angeles,Home Office,Office Supplies,Storage,1614.89,8,-83.91,201
+1245,2024-03-17,United States,South,San Jose,Home Office,Office Supplies,Paper,2447.49,6,738.26,407
+1246,2024-01-13,United States,Central,Philadelphia,Home Office,Furniture,Tables,1145.77,2,880.19,572
+1247,2024-05-17,United States,South,San Jose,Home Office,Furniture,Chairs,3044.6,1,1285.15,3044
+1248,2024-05-30,United States,West,San Diego,Home Office,Technology,Accessories,2675.97,9,1200.27,297
+1249,2024-03-19,United States,South,New York,Home Office,Furniture,Tables,3930.26,3,1057.41,1310
+1250,2024-12-26,United States,East,Philadelphia,Consumer,Office Supplies,Storage,3715.68,7,546.24,530
+1251,2024-02-05,United States,West,Los Angeles,Corporate,Office Supplies,Binders,1513.58,5,720.73,302
+1252,2024-06-14,United States,West,New York,Home Office,Office Supplies,Paper,3654.77,9,685.57,406
+1253,2024-11-06,United States,South,Philadelphia,Consumer,Furniture,Bookcases,2996.2,5,998.95,599
+1254,2024-11-24,United States,South,Los Angeles,Home Office,Technology,Accessories,4906.69,9,362.95,545
+1255,2024-02-14,United States,Central,San Diego,Corporate,Technology,Phones,729.32,4,892.51,182
+1256,2024-12-03,United States,Central,New York,Consumer,Furniture,Bookcases,3634.72,6,1368.0,605
+1257,2024-12-10,United States,East,San Jose,Corporate,Technology,Accessories,2939.33,1,814.75,2939
+1258,2024-01-13,United States,West,Dallas,Corporate,Furniture,Chairs,1674.9,2,1443.71,837
+1259,2024-12-15,United States,Central,Los Angeles,Corporate,Furniture,Chairs,4583.87,2,455.99,2291
+1260,2024-12-29,United States,East,New York,Home Office,Furniture,Chairs,2636.58,9,-187.77,292
+1261,2024-02-22,United States,East,Philadelphia,Corporate,Furniture,Tables,528.75,6,826.33,88
+1262,2024-09-24,United States,South,Philadelphia,Corporate,Office Supplies,Binders,4547.1,5,1262.28,909
+1263,2024-09-25,United States,West,Houston,Corporate,Technology,Accessories,1895.62,5,458.61,379
+1264,2024-04-29,United States,Central,Dallas,Consumer,Furniture,Bookcases,57.83,1,590.31,57
+1265,2024-03-10,United States,Central,New York,Consumer,Technology,Phones,4746.68,6,1230.74,791
+1266,2024-12-27,United States,South,Philadelphia,Home Office,Technology,Laptops,97.87,2,1406.59,48
+1267,2024-01-11,United States,South,New York,Consumer,Technology,Accessories,1787.9,10,138.23,178
+1268,2024-12-05,United States,South,Philadelphia,Home Office,Office Supplies,Paper,1915.28,3,581.43,638
+1269,2024-08-22,United States,East,Philadelphia,Corporate,Technology,Phones,3369.97,8,697.12,421
+1270,2024-12-21,United States,South,Philadelphia,Corporate,Office Supplies,Paper,2837.68,4,1087.7,709
+1271,2024-01-02,United States,South,Dallas,Corporate,Furniture,Chairs,3462.39,8,295.14,432
+1272,2024-01-05,United States,South,San Jose,Corporate,Technology,Laptops,1533.07,7,1156.54,219
+1273,2024-08-03,United States,South,Dallas,Consumer,Office Supplies,Paper,441.6,6,187.97,73
+1274,2024-11-28,United States,West,San Diego,Corporate,Office Supplies,Storage,1807.79,9,628.74,200
+1275,2024-06-08,United States,East,San Antonio,Home Office,Office Supplies,Binders,2069.55,4,1486.84,517
+1276,2024-09-25,United States,Central,Phoenix,Corporate,Technology,Laptops,759.31,2,1197.64,379
+1277,2024-05-08,United States,South,Houston,Consumer,Furniture,Bookcases,2606.04,6,1189.3,434
+1278,2024-12-09,United States,West,Chicago,Corporate,Office Supplies,Storage,2184.92,6,859.36,364
+1279,2024-01-07,United States,Central,Los Angeles,Corporate,Technology,Accessories,1969.61,2,1032.23,984
+1280,2024-12-01,United States,West,Philadelphia,Corporate,Technology,Phones,385.68,9,1412.62,42
+1281,2024-12-07,United States,East,Philadelphia,Consumer,Furniture,Bookcases,3357.3,9,503.78,373
+1282,2024-01-01,United States,South,Philadelphia,Corporate,Technology,Laptops,318.31,9,415.02,35
+1283,2024-04-17,United States,Central,San Antonio,Consumer,Technology,Laptops,1003.1,5,704.87,200
+1284,2024-01-23,United States,Central,Houston,Home Office,Furniture,Tables,2391.23,7,456.33,341
+1285,2024-03-04,United States,West,Dallas,Corporate,Technology,Phones,2309.76,7,143.94,329
+1286,2024-04-07,United States,South,Dallas,Home Office,Office Supplies,Storage,1038.35,4,1283.66,259
+1287,2024-12-09,United States,West,Phoenix,Corporate,Office Supplies,Storage,2184.92,6,859.36,364
+1288,2024-07-25,United States,East,Los Angeles,Corporate,Furniture,Tables,916.42,9,-19.01,101
+1289,2024-07-10,United States,East,San Jose,Corporate,Office Supplies,Binders,3796.4,9,123.98,421
+1290,2024-10-01,United States,East,Philadelphia,Home Office,Office Supplies,Storage,591.12,8,1205.92,73
+1291,2024-12-19,United States,West,Phoenix,Consumer,Office Supplies,Storage,1121.1,8,270.05,140
+1292,2024-12-25,United States,West,Houston,Corporate,Furniture,Bookcases,2091.51,6,678.06,348
+1293,2024-08-14,United States,East,San Antonio,Consumer,Technology,Laptops,1371.93,3,1377.04,457
+1294,2024-10-14,United States,West,San Diego,Home Office,Office Supplies,Storage,3253.24,7,203.91,464
+1295,2024-04-29,United States,East,Phoenix,Home Office,Technology,Accessories,1073.53,6,459.76,178
+1296,2024-01-29,United States,West,Houston,Consumer,Office Supplies,Paper,1590.06,9,485.75,176
+1297,2024-02-14,United States,Central,San Antonio,Home Office,Office Supplies,Paper,1769.76,2,735.0,884
+1298,2024-12-19,United States,South,Dallas,Corporate,Office Supplies,Binders,2425.03,9,1387.29,269
+1299,2024-12-01,United States,East,San Antonio,Consumer,Office Supplies,Binders,4758.9,8,588.72,594
+1300,2024-02-24,United States,Central,Chicago,Home Office,Office Supplies,Paper,2320.67,7,1300.8,331
+1301,2024-05-23,United States,East,San Diego,Corporate,Furniture,Chairs,2670.69,10,1499.33,267
+1302,2024-12-17,United States,Central,San Antonio,Home Office,Furniture,Tables,478.2,8,448.4,59
+1303,2024-01-24,United States,East,San Diego,Home Office,Technology,Accessories,3842.59,5,-161.78,768
+1304,2024-05-15,United States,West,Philadelphia,Home Office,Office Supplies,Storage,2112.1,1,646.66,2112
+1305,2024-12-08,United States,South,San Jose,Home Office,Technology,Accessories,866.97,8,1363.22,108
+1306,2024-09-07,United States,South,Chicago,Corporate,Office Supplies,Binders,211.95,6,169.36,35
+1307,2024-01-11,United States,South,New York,Consumer,Technology,Accessories,1787.9,10,138.23,178
+1308,2024-12-17,United States,Central,Houston,Home Office,Furniture,Chairs,3499.55,1,165.54,3499
+1309,2024-02-05,United States,Central,Philadelphia,Consumer,Office Supplies,Paper,4255.4,8,-20.58,531
+1310,2024-01-17,United States,West,Philadelphia,Consumer,Furniture,Chairs,2452.58,2,-145.91,1226
+1311,2024-10-17,United States,West,Los Angeles,Consumer,Technology,Accessories,3074.22,7,1205.88,439
+1312,2024-01-09,United States,Central,San Antonio,Consumer,Technology,Accessories,1756.77,2,1111.55,878
+1313,2024-09-15,United States,South,San Jose,Home Office,Technology,Laptops,2257.27,3,1064.21,752
+1314,2024-12-27,United States,South,Dallas,Home Office,Technology,Laptops,97.87,2,1406.59,48
+1315,2024-10-10,United States,Central,Los Angeles,Corporate,Technology,Accessories,4983.33,9,362.35,553
+1316,2024-01-22,United States,South,Dallas,Home Office,Technology,Accessories,1598.84,10,1396.54,159
+1317,2024-03-31,United States,Central,San Jose,Consumer,Furniture,Tables,158.47,10,997.98,15
+1318,2024-12-04,United States,Central,San Antonio,Home Office,Office Supplies,Binders,698.69,7,62.23,99
+1319,2024-10-19,United States,South,San Diego,Consumer,Technology,Phones,3338.64,2,689.92,1669
+1320,2024-12-07,United States,East,Dallas,Consumer,Furniture,Bookcases,3357.3,9,503.78,373
+1321,2024-06-16,United States,Central,Dallas,Corporate,Technology,Laptops,1396.18,2,1404.04,698
+1322,2024-07-13,United States,East,New York,Home Office,Office Supplies,Storage,1512.13,4,1012.28,378
+1323,2024-12-20,United States,West,San Diego,Home Office,Office Supplies,Binders,4085.46,2,458.59,2042
+1324,2024-04-22,United States,South,Los Angeles,Home Office,Technology,Phones,756.43,10,1194.77,75
+1325,2024-06-06,United States,West,Los Angeles,Corporate,Furniture,Tables,3446.06,5,973.49,689
+1326,2024-06-06,United States,South,Dallas,Consumer,Technology,Accessories,495.74,7,659.26,70
+1327,2024-01-21,United States,West,Houston,Home Office,Office Supplies,Binders,1559.39,8,468.78,194
+1328,2024-07-12,United States,East,Houston,Corporate,Office Supplies,Paper,4953.97,8,789.81,619
+1329,2024-11-28,United States,Central,San Antonio,Corporate,Technology,Laptops,4503.09,8,5.71,562
+1330,2024-03-08,United States,West,San Diego,Consumer,Furniture,Chairs,3131.67,5,-179.25,626
+1331,2024-12-05,United States,Central,Los Angeles,Home Office,Office Supplies,Binders,3047.89,3,512.0,1015
+1332,2024-03-04,United States,East,Dallas,Consumer,Office Supplies,Binders,3545.82,6,-54.98,590
+1333,2024-06-23,United States,West,Philadelphia,Consumer,Technology,Accessories,1299.77,8,-6.05,162
+1334,2024-05-25,United States,South,Chicago,Home Office,Technology,Phones,3352.31,1,174.88,3352
+1335,2024-05-30,United States,West,Dallas,Consumer,Technology,Phones,3965.99,1,336.51,3965
+1336,2024-03-08,United States,West,San Diego,Consumer,Furniture,Chairs,3131.67,5,-179.25,626
+1337,2024-08-03,United States,South,Phoenix,Consumer,Office Supplies,Paper,441.6,6,187.97,73
+1338,2024-06-30,United States,West,Houston,Consumer,Technology,Phones,1411.16,8,1301.82,176
+1339,2024-04-17,United States,West,Phoenix,Home Office,Technology,Accessories,4175.16,1,214.24,4175
+1340,2024-08-06,United States,East,Philadelphia,Corporate,Technology,Phones,2380.54,2,980.85,1190
+1341,2024-01-25,United States,East,Philadelphia,Corporate,Furniture,Bookcases,730.58,4,-84.45,182
+1342,2024-09-23,United States,Central,Dallas,Corporate,Technology,Accessories,4445.47,3,382.65,1481
+1343,2024-12-14,United States,East,San Diego,Home Office,Office Supplies,Binders,4429.7,5,1106.62,885
+1344,2024-03-01,United States,Central,San Antonio,Consumer,Technology,Laptops,829.61,2,-174.06,414
+1345,2024-02-09,United States,Central,Philadelphia,Consumer,Office Supplies,Paper,2841.59,10,1218.91,284
+1346,2024-09-18,United States,West,San Diego,Corporate,Office Supplies,Paper,2774.21,1,1106.04,2774
+1347,2024-10-10,United States,Central,Phoenix,Consumer,Furniture,Tables,1962.43,8,1099.49,245
+1348,2024-06-03,United States,South,San Diego,Home Office,Furniture,Tables,556.44,9,1499.03,61
+1349,2024-06-14,United States,East,San Antonio,Consumer,Furniture,Bookcases,1363.57,3,1060.92,454
+1350,2024-10-10,United States,East,Dallas,Corporate,Office Supplies,Binders,4101.11,7,1441.57,585
+1351,2024-02-13,United States,South,Los Angeles,Corporate,Office Supplies,Binders,1185.31,5,553.37,237
+1352,2024-12-27,United States,South,Dallas,Home Office,Furniture,Tables,1508.84,8,122.62,188
+1353,2024-11-14,United States,South,Chicago,Consumer,Technology,Laptops,1637.19,3,-115.63,545
+1354,2024-09-18,United States,East,Houston,Home Office,Technology,Laptops,615.32,9,1199.58,68
+1355,2024-10-13,United States,South,San Antonio,Home Office,Technology,Accessories,3302.98,8,-6.16,412
+1356,2024-06-27,United States,Central,Philadelphia,Home Office,Furniture,Bookcases,2368.55,10,1354.61,236
+1357,2024-06-20,United States,East,New York,Home Office,Office Supplies,Binders,1912.56,5,-23.29,382
+1358,2024-12-03,United States,Central,Dallas,Consumer,Furniture,Bookcases,3634.72,6,1368.0,605
+1359,2024-09-13,United States,South,Los Angeles,Home Office,Furniture,Tables,3650.64,3,681.76,1216
+1360,2024-08-23,United States,Central,San Jose,Consumer,Furniture,Chairs,483.23,1,102.59,483
+1361,2024-02-09,United States,South,Chicago,Corporate,Office Supplies,Storage,2578.37,1,649.34,2578
+1362,2024-06-09,United States,South,San Jose,Corporate,Office Supplies,Binders,3342.28,6,1421.11,557
+1363,2024-01-05,United States,Central,Los Angeles,Home Office,Office Supplies,Storage,562.75,3,249.59,187
+1364,2024-09-02,United States,South,Los Angeles,Home Office,Technology,Laptops,3751.95,9,286.08,416
+1365,2024-10-17,United States,West,San Antonio,Consumer,Technology,Accessories,3074.22,7,1205.88,439
+1366,2024-03-08,United States,West,Dallas,Home Office,Technology,Phones,3415.91,1,-186.29,3415
+1367,2024-06-10,United States,West,Dallas,Home Office,Office Supplies,Storage,2521.19,8,42.88,315
+1368,2024-12-04,United States,West,New York,Corporate,Office Supplies,Binders,4065.3,2,618.58,2032
+1369,2024-12-10,United States,South,Dallas,Home Office,Technology,Accessories,1927.42,4,220.77,481
+1370,2024-10-22,United States,Central,San Diego,Consumer,Furniture,Tables,3827.45,8,1493.15,478
+1371,2024-06-15,United States,Central,Los Angeles,Corporate,Technology,Laptops,3297.79,5,120.21,659
+1372,2024-03-26,United States,South,Phoenix,Corporate,Technology,Accessories,3085.01,1,972.92,3085
+1373,2024-10-04,United States,East,Phoenix,Home Office,Office Supplies,Storage,1602.34,1,793.1,1602
+1374,2024-06-24,United States,East,Los Angeles,Corporate,Technology,Phones,2277.8,1,364.19,2277
+1375,2024-01-15,United States,South,Chicago,Corporate,Technology,Accessories,950.11,4,403.2,237
+1376,2024-01-06,United States,West,San Antonio,Home Office,Office Supplies,Binders,1444.05,2,323.21,722
+1377,2024-09-03,United States,East,Philadelphia,Home Office,Technology,Accessories,4416.07,8,81.53,552
+1378,2024-01-21,United States,Central,Houston,Consumer,Technology,Phones,3533.49,9,877.06,392
+1379,2024-07-07,United States,West,Philadelphia,Corporate,Office Supplies,Binders,3877.98,10,946.0,387
+1380,2024-03-23,United States,Central,Los Angeles,Corporate,Office Supplies,Binders,3483.68,5,926.39,696
+1381,2024-12-13,United States,South,Houston,Home Office,Office Supplies,Binders,2132.39,1,985.99,2132
+1382,2024-09-25,United States,West,Los Angeles,Corporate,Technology,Accessories,1895.62,5,458.61,379
+1383,2024-05-31,United States,Central,Chicago,Corporate,Office Supplies,Paper,2052.76,1,791.14,2052
+1384,2024-12-16,United States,East,New York,Consumer,Office Supplies,Storage,1976.06,1,1167.43,1976
+1385,2024-05-25,United States,East,New York,Corporate,Office Supplies,Binders,295.77,10,1125.71,29
+1386,2024-08-02,United States,West,New York,Corporate,Technology,Accessories,1136.14,7,625.59,162
+1387,2024-01-29,United States,Central,Chicago,Home Office,Office Supplies,Storage,3721.38,3,3.05,1240
+1388,2024-01-28,United States,Central,Phoenix,Consumer,Technology,Laptops,2448.81,4,1185.87,612
+1389,2024-07-15,United States,West,Phoenix,Consumer,Technology,Accessories,4659.24,1,739.87,4659
+1390,2024-03-13,United States,East,Los Angeles,Corporate,Office Supplies,Storage,2935.87,9,-126.08,326
+1391,2024-09-28,United States,West,Dallas,Home Office,Furniture,Bookcases,1202.54,2,502.61,601
+1392,2024-06-06,United States,Central,San Diego,Home Office,Furniture,Tables,3854.72,8,290.93,481
+1393,2024-04-05,United States,East,San Antonio,Corporate,Office Supplies,Binders,1382.52,8,1036.08,172
+1394,2024-11-28,United States,Central,San Antonio,Consumer,Office Supplies,Binders,4378.4,5,-41.32,875
+1395,2024-10-28,United States,West,San Antonio,Corporate,Furniture,Bookcases,1568.77,5,16.49,313
+1396,2024-01-20,United States,East,San Antonio,Corporate,Technology,Accessories,4166.9,2,895.93,2083
+1397,2024-06-17,United States,South,Chicago,Home Office,Technology,Laptops,702.27,3,787.75,234
+1398,2024-04-08,United States,East,Dallas,Home Office,Technology,Laptops,1919.96,3,226.18,639
+1399,2024-11-22,United States,South,Philadelphia,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+1400,2024-04-06,United States,East,San Diego,Corporate,Office Supplies,Binders,1117.17,4,1018.54,279
+1401,2024-12-19,United States,West,Houston,Consumer,Office Supplies,Storage,1121.1,8,270.05,140
+1402,2024-02-13,United States,South,Houston,Corporate,Office Supplies,Binders,1185.31,5,553.37,237
+1403,2024-01-28,United States,East,San Jose,Corporate,Technology,Laptops,2643.71,2,-23.32,1321
+1404,2024-08-17,United States,Central,San Diego,Home Office,Office Supplies,Storage,1614.89,8,-83.91,201
+1405,2024-02-01,United States,Central,New York,Corporate,Office Supplies,Paper,4457.49,1,1405.03,4457
+1406,2024-04-30,United States,South,San Jose,Consumer,Furniture,Bookcases,4710.9,10,218.57,471
+1407,2024-08-24,United States,South,San Diego,Home Office,Office Supplies,Paper,327.31,9,308.88,36
+1408,2024-12-26,United States,East,San Antonio,Home Office,Furniture,Tables,553.67,9,117.83,61
+1409,2024-12-15,United States,South,Phoenix,Home Office,Furniture,Bookcases,812.95,5,348.42,162
+1410,2024-04-16,United States,South,New York,Corporate,Office Supplies,Paper,1210.8,1,941.78,1210
+1411,2024-11-29,United States,West,Philadelphia,Corporate,Technology,Accessories,1639.78,1,1343.49,1639
+1412,2024-09-20,United States,West,San Antonio,Home Office,Furniture,Bookcases,760.71,7,-197.34,108
+1413,2024-02-10,United States,South,Houston,Home Office,Office Supplies,Storage,702.39,8,-34.65,87
+1414,2024-05-27,United States,East,New York,Home Office,Office Supplies,Paper,3399.28,7,1322.79,485
+1415,2024-06-13,United States,South,Dallas,Corporate,Office Supplies,Storage,2238.69,4,669.0,559
+1416,2024-10-24,United States,South,San Antonio,Home Office,Office Supplies,Binders,1103.17,1,737.71,1103
+1417,2024-03-13,United States,East,San Jose,Corporate,Office Supplies,Storage,2935.87,9,-126.08,326
+1418,2024-03-19,United States,South,San Jose,Home Office,Furniture,Tables,3930.26,3,1057.41,1310
+1419,2024-03-08,United States,West,Chicago,Home Office,Technology,Phones,3415.91,1,-186.29,3415
+1420,2024-11-06,United States,East,San Diego,Consumer,Technology,Phones,4654.54,4,914.77,1163
+1421,2024-09-28,United States,East,Chicago,Home Office,Furniture,Bookcases,1654.57,1,-9.82,1654
+1422,2024-03-21,United States,Central,San Jose,Corporate,Technology,Accessories,3621.9,10,813.58,362
+1423,2024-04-22,United States,South,Chicago,Home Office,Technology,Phones,756.43,10,1194.77,75
+1424,2024-12-24,United States,West,San Diego,Corporate,Office Supplies,Paper,3294.65,2,-198.15,1647
+1425,2024-11-18,United States,East,San Diego,Corporate,Office Supplies,Binders,3920.48,6,615.46,653
+1426,2024-08-18,United States,Central,Chicago,Corporate,Furniture,Bookcases,2247.5,2,775.67,1123
+1427,2024-12-08,United States,South,San Antonio,Home Office,Technology,Accessories,866.97,8,1363.22,108
+1428,2024-10-23,United States,West,Los Angeles,Home Office,Technology,Laptops,304.21,8,89.87,38
+1429,2024-06-14,United States,West,San Diego,Consumer,Technology,Accessories,3675.14,7,1146.13,525
+1430,2024-08-06,United States,South,New York,Consumer,Furniture,Chairs,3538.15,10,870.1,353
+1431,2024-07-20,United States,South,Phoenix,Home Office,Office Supplies,Storage,2897.51,2,177.55,1448
+1432,2024-06-26,United States,Central,San Antonio,Corporate,Furniture,Chairs,3144.89,4,1493.19,786
+1433,2024-04-15,United States,East,Philadelphia,Home Office,Furniture,Chairs,1786.54,5,814.66,357
+1434,2024-05-30,United States,South,Phoenix,Consumer,Office Supplies,Binders,4918.09,2,117.86,2459
+1435,2024-05-13,United States,Central,Dallas,Corporate,Technology,Accessories,4263.51,8,-108.75,532
+1436,2024-07-26,United States,West,San Antonio,Consumer,Technology,Phones,3220.37,7,472.49,460
+1437,2024-10-23,United States,Central,Philadelphia,Home Office,Technology,Phones,700.49,5,355.42,140
+1438,2024-09-15,United States,South,Houston,Home Office,Technology,Laptops,2257.27,3,1064.21,752
+1439,2024-11-22,United States,South,Dallas,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+1440,2024-12-24,United States,West,Phoenix,Corporate,Office Supplies,Paper,3294.65,2,-198.15,1647
+1441,2024-11-19,United States,East,San Antonio,Consumer,Furniture,Bookcases,383.63,1,1261.38,383
+1442,2024-10-08,United States,South,San Antonio,Consumer,Technology,Laptops,319.8,1,526.93,319
+1443,2024-11-12,United States,South,Philadelphia,Consumer,Technology,Phones,2009.17,6,973.87,334
+1444,2024-09-20,United States,East,Dallas,Corporate,Furniture,Bookcases,251.14,5,746.22,50
+1445,2024-06-03,United States,South,San Antonio,Consumer,Technology,Laptops,741.9,1,317.42,741
+1446,2024-10-23,United States,Central,New York,Home Office,Technology,Phones,700.49,5,355.42,140
+1447,2024-07-25,United States,East,San Jose,Corporate,Office Supplies,Storage,1144.93,4,927.67,286
+1448,2024-12-08,United States,Central,Phoenix,Consumer,Technology,Phones,1364.79,3,941.87,454
+1449,2024-02-06,United States,East,Los Angeles,Consumer,Technology,Phones,3973.51,10,1073.23,397
+1450,2024-11-22,United States,South,Phoenix,Home Office,Technology,Phones,968.39,1,853.55,968
+1451,2024-03-21,United States,South,San Diego,Home Office,Technology,Accessories,3532.52,10,1472.55,353
+1452,2024-08-11,United States,South,New York,Home Office,Furniture,Chairs,439.3,5,1067.87,87
+1453,2024-08-04,United States,West,Los Angeles,Corporate,Technology,Phones,400.6,7,-48.14,57
+1454,2024-05-30,United States,West,New York,Consumer,Technology,Phones,3965.99,1,336.51,3965
+1455,2024-07-25,United States,East,Phoenix,Corporate,Furniture,Tables,916.42,9,-19.01,101
+1456,2024-08-10,United States,East,San Jose,Home Office,Office Supplies,Binders,3534.26,2,554.25,1767
+1457,2024-02-01,United States,South,Chicago,Corporate,Office Supplies,Binders,2160.05,2,633.46,1080
+1458,2024-10-07,United States,South,Los Angeles,Consumer,Furniture,Chairs,3892.05,4,311.96,973
+1459,2024-09-05,United States,East,Philadelphia,Consumer,Furniture,Tables,1034.43,8,753.17,129
+1460,2024-09-22,United States,South,San Diego,Home Office,Furniture,Tables,632.92,5,996.86,126
+1461,2024-02-10,United States,South,Los Angeles,Home Office,Office Supplies,Paper,1468.29,3,1276.04,489
+1462,2024-10-01,United States,East,San Diego,Home Office,Office Supplies,Storage,591.12,8,1205.92,73
+1463,2024-05-08,United States,East,Houston,Consumer,Office Supplies,Binders,3641.67,8,1417.62,455
+1464,2024-12-09,United States,Central,New York,Home Office,Technology,Phones,4686.44,2,835.52,2343
+1465,2024-10-26,United States,East,Philadelphia,Home Office,Technology,Accessories,1932.89,1,1402.66,1932
+1466,2024-08-30,United States,Central,Los Angeles,Corporate,Technology,Phones,859.39,5,1073.23,171
+1467,2024-10-22,United States,Central,Chicago,Consumer,Furniture,Tables,3827.45,8,1493.15,478
+1468,2024-11-23,United States,East,Philadelphia,Consumer,Technology,Accessories,3372.36,7,417.63,481
+1469,2024-09-30,United States,East,Houston,Home Office,Office Supplies,Paper,4973.67,2,911.06,2486
+1470,2024-12-11,United States,East,Chicago,Home Office,Office Supplies,Storage,4648.97,5,-150.78,929
+1471,2024-09-21,United States,Central,Los Angeles,Corporate,Furniture,Bookcases,1535.17,9,1259.45,170
+1472,2024-06-09,United States,South,Phoenix,Corporate,Office Supplies,Binders,3342.28,6,1421.11,557
+1473,2024-10-11,United States,East,Philadelphia,Home Office,Technology,Phones,4785.29,9,360.4,531
+1474,2024-03-04,United States,West,San Diego,Corporate,Technology,Phones,2309.76,7,143.94,329
+1475,2024-01-26,United States,West,Philadelphia,Consumer,Office Supplies,Paper,2380.14,1,-19.92,2380
+1476,2024-07-25,United States,East,Los Angeles,Corporate,Furniture,Tables,916.42,9,-19.01,101
+1477,2024-04-06,United States,Central,New York,Home Office,Office Supplies,Storage,2404.36,3,1428.13,801
+1478,2024-04-06,United States,West,Houston,Corporate,Technology,Accessories,144.67,4,1036.19,36
+1479,2024-02-01,United States,South,Houston,Home Office,Office Supplies,Binders,1729.55,2,222.72,864
+1480,2024-10-07,United States,Central,San Diego,Corporate,Office Supplies,Storage,4973.41,9,301.33,552
+1481,2024-02-09,United States,Central,Chicago,Consumer,Technology,Accessories,2535.1,1,104.89,2535
+1482,2024-11-10,United States,South,San Jose,Corporate,Technology,Laptops,196.65,5,1132.03,39
+1483,2024-02-21,United States,Central,Houston,Corporate,Technology,Laptops,3083.25,5,118.16,616
+1484,2024-12-30,United States,Central,Phoenix,Corporate,Office Supplies,Paper,4482.64,6,580.3,747
+1485,2024-12-29,United States,East,San Antonio,Consumer,Technology,Phones,4253.44,2,951.14,2126
+1486,2024-03-19,United States,South,Chicago,Home Office,Furniture,Tables,3930.26,3,1057.41,1310
+1487,2024-01-30,United States,South,Philadelphia,Home Office,Office Supplies,Binders,1631.95,3,1026.18,543
+1488,2024-11-28,United States,West,Dallas,Corporate,Office Supplies,Storage,1807.79,9,628.74,200
+1489,2024-10-22,United States,West,Los Angeles,Corporate,Furniture,Chairs,3936.79,2,19.99,1968
+1490,2024-01-09,United States,East,Houston,Home Office,Office Supplies,Paper,2780.64,1,-171.57,2780
+1491,2024-09-20,United States,West,Philadelphia,Home Office,Furniture,Bookcases,760.71,7,-197.34,108
+1492,2024-09-27,United States,West,New York,Home Office,Office Supplies,Paper,4894.69,1,1085.51,4894
+1493,2024-02-05,United States,West,Philadelphia,Home Office,Furniture,Bookcases,3437.78,5,1495.62,687
+1494,2024-05-12,United States,West,Dallas,Home Office,Technology,Accessories,1422.69,9,623.81,158
+1495,2024-02-19,United States,East,San Jose,Corporate,Furniture,Chairs,4729.66,10,510.83,472
+1496,2024-03-26,United States,Central,Los Angeles,Consumer,Office Supplies,Paper,3761.39,5,1045.99,752
+1497,2024-09-25,United States,Central,New York,Corporate,Technology,Laptops,759.31,2,1197.64,379
+1498,2024-11-18,United States,East,Los Angeles,Corporate,Office Supplies,Binders,3920.48,6,615.46,653
+1499,2024-03-02,United States,East,Philadelphia,Corporate,Technology,Accessories,3747.72,3,19.62,1249
+1500,2024-08-19,United States,West,Dallas,Corporate,Furniture,Tables,1727.71,8,477.84,215
+1501,2024-05-23,United States,Central,Philadelphia,Home Office,Technology,Accessories,100.25,4,-54.46,25
+1502,2024-11-24,United States,Central,Dallas,Consumer,Furniture,Bookcases,3667.41,10,448.63,366
+1503,2024-05-19,United States,South,New York,Home Office,Technology,Accessories,4260.82,7,903.04,608
+1504,2024-12-08,United States,Central,San Diego,Consumer,Technology,Phones,1364.79,3,941.87,454
+1505,2024-08-21,United States,Central,Houston,Consumer,Office Supplies,Paper,4904.83,4,772.06,1226
+1506,2024-09-09,United States,Central,Philadelphia,Consumer,Office Supplies,Binders,2477.66,2,-104.51,1238
+1507,2024-07-07,United States,East,San Jose,Corporate,Technology,Laptops,2891.8,7,1236.76,413
+1508,2024-09-21,United States,Central,Chicago,Corporate,Furniture,Bookcases,1535.17,9,1259.45,170
+1509,2024-03-26,United States,South,Phoenix,Corporate,Technology,Accessories,3085.01,1,972.92,3085
+1510,2024-01-09,United States,Central,San Antonio,Consumer,Technology,Accessories,1756.77,2,1111.55,878
+1511,2024-12-25,United States,West,Philadelphia,Corporate,Furniture,Bookcases,2091.51,6,678.06,348
+1512,2024-12-09,United States,West,Philadelphia,Corporate,Office Supplies,Storage,2184.92,6,859.36,364
+1513,2024-05-29,United States,Central,Houston,Home Office,Technology,Laptops,3240.99,5,1309.08,648
+1514,2024-10-20,United States,West,Los Angeles,Corporate,Office Supplies,Paper,1529.32,7,1334.72,218
+1515,2024-06-11,United States,West,Phoenix,Home Office,Technology,Laptops,4845.28,10,1137.89,484
+1516,2024-04-23,United States,West,San Diego,Corporate,Furniture,Tables,1901.89,8,1112.98,237
+1517,2024-01-13,United States,Central,New York,Consumer,Office Supplies,Binders,1154.89,2,950.39,577
+1518,2024-03-15,United States,Central,Phoenix,Consumer,Furniture,Chairs,3819.29,7,632.08,545
+1519,2024-03-15,United States,East,Chicago,Consumer,Technology,Accessories,2201.65,7,309.58,314
+1520,2024-08-17,United States,Central,Houston,Home Office,Office Supplies,Storage,1614.89,8,-83.91,201
+1521,2024-02-15,United States,West,Chicago,Corporate,Technology,Laptops,1155.47,5,514.8,231
+1522,2024-06-04,United States,Central,Phoenix,Home Office,Technology,Laptops,328.05,9,-73.88,36
+1523,2024-09-28,United States,Central,Chicago,Corporate,Office Supplies,Paper,317.61,3,33.52,105
+1524,2024-12-26,United States,East,Chicago,Home Office,Furniture,Tables,553.67,9,117.83,61
+1525,2024-09-13,United States,South,Dallas,Corporate,Office Supplies,Storage,3523.96,2,888.91,1761
+1526,2024-01-01,United States,South,New York,Corporate,Technology,Laptops,318.31,9,415.02,35
+1527,2024-01-15,United States,East,San Diego,Corporate,Office Supplies,Paper,3990.91,5,409.39,798
+1528,2024-12-09,United States,West,San Diego,Corporate,Office Supplies,Storage,2184.92,6,859.36,364
+1529,2024-09-02,United States,South,San Diego,Home Office,Technology,Laptops,3751.95,9,286.08,416
+1530,2024-01-05,United States,East,Dallas,Home Office,Technology,Phones,3928.2,8,970.29,491
+1531,2024-11-26,United States,South,Dallas,Corporate,Furniture,Chairs,1141.93,2,517.81,570
+1532,2024-07-07,United States,East,Los Angeles,Corporate,Technology,Laptops,2891.8,7,1236.76,413
+1533,2024-12-10,United States,Central,Los Angeles,Home Office,Office Supplies,Storage,1936.08,6,-15.81,322
+1534,2024-01-27,United States,Central,San Antonio,Consumer,Office Supplies,Storage,3268.21,1,1082.2,3268
+1535,2024-11-28,United States,Central,Phoenix,Consumer,Furniture,Bookcases,731.12,5,1359.57,146
+1536,2024-02-09,United States,Central,Los Angeles,Consumer,Furniture,Chairs,2563.06,9,1219.7,284
+1537,2024-08-20,United States,South,San Jose,Corporate,Office Supplies,Paper,443.05,10,-188.83,44
+1538,2024-12-19,United States,South,San Jose,Corporate,Technology,Phones,2263.29,6,845.25,377
+1539,2024-04-05,United States,East,Los Angeles,Corporate,Office Supplies,Binders,1382.52,8,1036.08,172
+1540,2024-02-12,United States,South,New York,Consumer,Office Supplies,Paper,2181.51,3,727.31,727
+1541,2024-08-03,United States,South,Dallas,Consumer,Office Supplies,Paper,441.6,6,187.97,73
+1542,2024-03-08,United States,East,San Diego,Consumer,Furniture,Chairs,563.38,10,620.55,56
+1543,2024-03-27,United States,South,San Jose,Home Office,Technology,Phones,2005.24,1,450.64,2005
+1544,2024-03-04,United States,South,Chicago,Corporate,Furniture,Chairs,4818.08,6,1144.83,803
+1545,2024-12-27,United States,South,San Antonio,Home Office,Technology,Laptops,97.87,2,1406.59,48
+1546,2024-08-18,United States,Central,Houston,Corporate,Furniture,Bookcases,2247.5,2,775.67,1123
+1547,2024-12-26,United States,East,San Diego,Consumer,Office Supplies,Storage,3715.68,7,546.24,530
+1548,2024-12-08,United States,South,Chicago,Consumer,Furniture,Bookcases,4749.76,9,-72.42,527
+1549,2024-12-13,United States,West,Dallas,Home Office,Office Supplies,Paper,530.96,1,325.19,530
+1550,2024-03-26,United States,Central,San Jose,Consumer,Office Supplies,Paper,3761.39,5,1045.99,752
+1551,2024-07-10,United States,East,Los Angeles,Corporate,Office Supplies,Binders,3796.4,9,123.98,421
+1552,2024-02-29,United States,West,San Diego,Corporate,Furniture,Tables,3482.51,9,460.39,386
+1553,2024-10-26,United States,Central,San Jose,Consumer,Furniture,Chairs,1686.29,3,-132.1,562
+1554,2024-12-14,United States,East,Dallas,Consumer,Technology,Laptops,4876.66,7,434.44,696
+1555,2024-01-11,United States,South,Houston,Consumer,Technology,Accessories,1787.9,10,138.23,178
+1556,2024-08-30,United States,East,San Antonio,Corporate,Technology,Phones,3935.14,8,631.46,491
+1557,2024-06-10,United States,West,Houston,Home Office,Office Supplies,Storage,2521.19,8,42.88,315
+1558,2024-07-22,United States,East,Chicago,Corporate,Technology,Accessories,4798.52,8,760.5,599
+1559,2024-02-01,United States,Central,New York,Corporate,Office Supplies,Paper,4457.49,1,1405.03,4457
+1560,2024-01-17,United States,Central,Los Angeles,Corporate,Technology,Laptops,479.65,4,431.69,119
+1561,2024-12-20,United States,South,Philadelphia,Home Office,Office Supplies,Storage,231.99,6,992.78,38
+1562,2024-05-14,United States,West,Philadelphia,Consumer,Furniture,Chairs,4616.77,7,661.24,659
+1563,2024-10-03,United States,West,San Diego,Consumer,Technology,Accessories,2237.21,6,500.75,372
+1564,2024-02-29,United States,West,New York,Corporate,Furniture,Tables,3482.51,9,460.39,386
+1565,2024-02-21,United States,South,Houston,Corporate,Furniture,Chairs,2294.38,6,76.51,382
+1566,2024-09-04,United States,South,Dallas,Consumer,Technology,Accessories,2311.09,3,452.1,770
+1567,2024-03-15,United States,East,San Antonio,Consumer,Technology,Accessories,2201.65,7,309.58,314
+1568,2024-04-05,United States,East,Los Angeles,Corporate,Office Supplies,Binders,1382.52,8,1036.08,172
+1569,2024-01-15,United States,South,San Jose,Corporate,Technology,Accessories,950.11,4,403.2,237
+1570,2024-02-21,United States,Central,San Diego,Corporate,Technology,Laptops,3083.25,5,118.16,616
+1571,2024-12-02,United States,South,San Antonio,Home Office,Office Supplies,Paper,3138.65,10,235.1,313
+1572,2024-04-07,United States,East,San Antonio,Home Office,Furniture,Chairs,4997.88,8,1354.55,624
+1573,2024-03-21,United States,East,Philadelphia,Home Office,Furniture,Chairs,453.83,8,925.3,56
+1574,2024-06-18,United States,Central,New York,Consumer,Technology,Phones,2559.3,9,893.64,284
+1575,2024-11-28,United States,South,Dallas,Consumer,Furniture,Tables,4899.97,9,1460.24,544
+1576,2024-04-19,United States,Central,Chicago,Consumer,Furniture,Bookcases,4669.63,2,1294.76,2334
+1577,2024-03-11,United States,Central,San Jose,Home Office,Office Supplies,Binders,3540.43,9,1346.26,393
+1578,2024-02-24,United States,Central,New York,Home Office,Office Supplies,Paper,2320.67,7,1300.8,331
+1579,2024-06-24,United States,West,San Antonio,Home Office,Office Supplies,Binders,2696.44,8,1341.1,337
+1580,2024-04-12,United States,West,Los Angeles,Home Office,Technology,Phones,4388.48,6,702.45,731
+1581,2024-09-26,United States,East,Houston,Home Office,Office Supplies,Storage,3368.76,9,415.11,374
+1582,2024-01-13,United States,Central,Chicago,Consumer,Office Supplies,Storage,4938.88,10,1196.69,493
+1583,2024-05-07,United States,East,Chicago,Corporate,Technology,Phones,1320.46,2,1024.7,660
+1584,2024-11-28,United States,South,Los Angeles,Consumer,Furniture,Tables,4899.97,9,1460.24,544
+1585,2024-09-22,United States,South,San Jose,Home Office,Furniture,Chairs,244.3,7,677.42,34
+1586,2024-03-23,United States,Central,San Antonio,Home Office,Furniture,Tables,1290.28,1,974.01,1290
+1587,2024-02-24,United States,East,Philadelphia,Consumer,Technology,Laptops,2487.49,7,-18.17,355
+1588,2024-10-22,United States,Central,San Antonio,Consumer,Furniture,Tables,3827.45,8,1493.15,478
+1589,2024-08-22,United States,Central,Dallas,Consumer,Office Supplies,Binders,3988.61,7,170.31,569
+1590,2024-11-06,United States,East,Los Angeles,Corporate,Furniture,Bookcases,4300.63,3,1315.2,1433
+1591,2024-08-28,United States,Central,New York,Home Office,Office Supplies,Storage,90.48,2,532.58,45
+1592,2024-11-01,United States,East,New York,Home Office,Furniture,Tables,718.67,5,-188.83,143
+1593,2024-07-02,United States,East,San Jose,Home Office,Office Supplies,Storage,3517.78,10,758.13,351
+1594,2024-05-05,United States,West,San Antonio,Corporate,Furniture,Bookcases,1928.3,9,173.35,214
+1595,2024-02-10,United States,South,New York,Home Office,Office Supplies,Storage,702.39,8,-34.65,87
+1596,2024-03-06,United States,West,San Jose,Consumer,Office Supplies,Paper,2191.46,1,1213.36,2191
+1597,2024-09-20,United States,East,San Diego,Corporate,Furniture,Tables,1246.6,2,254.7,623
+1598,2024-02-22,United States,East,Chicago,Corporate,Furniture,Tables,528.75,6,826.33,88
+1599,2024-09-05,United States,East,Dallas,Consumer,Technology,Laptops,4867.08,10,1158.83,486
+1600,2024-10-21,United States,South,Philadelphia,Corporate,Office Supplies,Binders,969.48,9,978.84,107
+1601,2024-02-07,United States,South,San Antonio,Corporate,Technology,Laptops,4436.38,10,130.54,443
+1602,2024-05-11,United States,South,New York,Corporate,Technology,Phones,3745.47,6,1167.2,624
+1603,2024-07-22,United States,South,Chicago,Corporate,Technology,Laptops,231.27,4,286.39,57
+1604,2024-09-09,United States,East,Phoenix,Corporate,Furniture,Chairs,2792.41,6,594.59,465
+1605,2024-03-21,United States,Central,Chicago,Corporate,Technology,Accessories,3621.9,10,813.58,362
+1606,2024-01-19,United States,West,Philadelphia,Corporate,Technology,Accessories,819.16,8,1316.5,102
+1607,2024-01-05,United States,Central,San Antonio,Home Office,Technology,Phones,3033.78,6,283.75,505
+1608,2024-12-03,United States,East,Philadelphia,Corporate,Office Supplies,Binders,2601.49,10,369.82,260
+1609,2024-09-20,United States,West,Houston,Home Office,Furniture,Bookcases,760.71,7,-197.34,108
+1610,2024-01-26,United States,West,Houston,Consumer,Office Supplies,Paper,2380.14,1,-19.92,2380
+1611,2024-04-08,United States,East,San Diego,Home Office,Technology,Laptops,1919.96,3,226.18,639
+1612,2024-05-07,United States,East,Chicago,Corporate,Technology,Phones,1320.46,2,1024.7,660
+1613,2024-03-26,United States,Central,Dallas,Consumer,Furniture,Chairs,2607.37,7,818.91,372
+1614,2024-04-18,United States,Central,Los Angeles,Home Office,Furniture,Bookcases,451.88,4,95.48,112
+1615,2024-11-22,United States,South,Dallas,Consumer,Office Supplies,Binders,4369.96,10,283.38,436
+1616,2024-10-22,United States,West,San Antonio,Corporate,Furniture,Chairs,3936.79,2,19.99,1968
+1617,2024-12-26,United States,Central,Los Angeles,Corporate,Furniture,Tables,2885.04,9,1475.33,320
+1618,2024-11-26,United States,East,Chicago,Consumer,Technology,Accessories,2499.69,2,209.84,1249
+1619,2024-01-12,United States,West,Dallas,Consumer,Furniture,Chairs,1864.63,1,437.83,1864
+1620,2024-10-20,United States,West,San Diego,Corporate,Office Supplies,Paper,1529.32,7,1334.72,218
+1621,2024-11-01,United States,East,Los Angeles,Home Office,Furniture,Tables,718.67,5,-188.83,143
+1622,2024-09-18,United States,Central,San Diego,Corporate,Technology,Phones,1149.36,10,18.02,114
+1623,2024-11-18,United States,East,New York,Corporate,Furniture,Bookcases,3634.17,10,1387.62,363
+1624,2024-01-16,United States,South,Los Angeles,Corporate,Technology,Phones,2801.97,9,224.75,311
+1625,2024-11-28,United States,Central,Dallas,Corporate,Technology,Laptops,4503.09,8,5.71,562
+1626,2024-09-20,United States,East,Dallas,Corporate,Furniture,Bookcases,251.14,5,746.22,50
+1627,2024-03-18,United States,East,Los Angeles,Corporate,Furniture,Chairs,1125.08,7,329.68,160
+1628,2024-11-24,United States,Central,New York,Consumer,Furniture,Bookcases,3667.41,10,448.63,366
+1629,2024-12-25,United States,South,Philadelphia,Home Office,Office Supplies,Binders,210.29,10,340.97,21
+1630,2024-03-24,United States,Central,Phoenix,Consumer,Office Supplies,Binders,2914.49,5,778.85,582
+1631,2024-04-12,United States,West,Philadelphia,Home Office,Technology,Phones,4388.48,6,702.45,731
+1632,2024-11-03,United States,East,Phoenix,Home Office,Technology,Laptops,3924.04,6,705.67,654
+1633,2024-08-24,United States,West,Phoenix,Consumer,Technology,Phones,1337.77,6,159.82,222
+1634,2024-10-28,United States,West,Houston,Corporate,Furniture,Bookcases,1568.77,5,16.49,313
+1635,2024-01-13,United States,Central,Chicago,Consumer,Office Supplies,Binders,1154.89,2,950.39,577
+1636,2024-06-19,United States,South,Phoenix,Home Office,Furniture,Chairs,4327.12,4,253.57,1081
+1637,2024-01-05,United States,East,Houston,Home Office,Technology,Phones,3928.2,8,970.29,491
+1638,2024-06-12,United States,West,San Antonio,Corporate,Office Supplies,Binders,2536.89,4,60.44,634
+1639,2024-08-06,United States,Central,San Antonio,Corporate,Office Supplies,Paper,2650.69,10,401.55,265
+1640,2024-10-16,United States,Central,Houston,Corporate,Technology,Accessories,1388.66,1,342.09,1388
+1641,2024-07-17,United States,Central,New York,Consumer,Furniture,Bookcases,921.7,10,340.61,92
+1642,2024-01-29,United States,West,San Jose,Consumer,Office Supplies,Paper,1590.06,9,485.75,176
+1643,2024-07-05,United States,South,New York,Consumer,Office Supplies,Paper,3513.09,6,1140.92,585
+1644,2024-10-11,United States,South,Chicago,Consumer,Office Supplies,Storage,989.99,4,1446.81,247
+1645,2024-03-15,United States,East,San Diego,Consumer,Technology,Accessories,2201.65,7,309.58,314
+1646,2024-05-18,United States,Central,Houston,Corporate,Office Supplies,Paper,1191.16,4,336.43,297
+1647,2024-03-11,United States,West,Dallas,Consumer,Office Supplies,Binders,1946.02,3,1000.91,648
+1648,2024-12-20,United States,West,San Jose,Home Office,Office Supplies,Binders,4085.46,2,458.59,2042
+1649,2024-09-07,United States,South,Dallas,Corporate,Office Supplies,Binders,211.95,6,169.36,35
+1650,2024-06-09,United States,Central,San Antonio,Home Office,Office Supplies,Binders,4940.72,6,1458.14,823
+1651,2024-02-05,United States,West,Chicago,Consumer,Technology,Phones,1483.5,8,850.14,185
+1652,2024-03-12,United States,East,San Antonio,Consumer,Technology,Phones,355.26,4,22.22,88
+1653,2024-08-14,United States,East,San Antonio,Consumer,Technology,Laptops,1371.93,3,1377.04,457
+1654,2024-11-18,United States,East,San Antonio,Corporate,Furniture,Bookcases,3634.17,10,1387.62,363
+1655,2024-01-29,United States,West,Los Angeles,Home Office,Office Supplies,Binders,4967.74,4,1186.84,1241
+1656,2024-09-13,United States,South,Chicago,Home Office,Furniture,Tables,3650.64,3,681.76,1216
+1657,2024-11-24,United States,South,San Diego,Home Office,Technology,Accessories,4906.69,9,362.95,545
+1658,2024-05-26,United States,South,Phoenix,Consumer,Furniture,Bookcases,657.06,2,568.47,328
+1659,2024-12-21,United States,Central,Los Angeles,Corporate,Office Supplies,Paper,4753.76,6,789.32,792
+1660,2024-01-21,United States,West,Chicago,Home Office,Office Supplies,Binders,1559.39,8,468.78,194
+1661,2024-10-05,United States,East,Los Angeles,Home Office,Technology,Accessories,4419.38,4,168.69,1104
+1662,2024-03-18,United States,South,Philadelphia,Home Office,Furniture,Bookcases,3448.5,4,-52.63,862
+1663,2024-06-25,United States,South,Houston,Home Office,Technology,Laptops,733.44,2,1071.28,366
+1664,2024-12-10,United States,Central,Chicago,Home Office,Furniture,Chairs,3321.58,10,772.88,332
+1665,2024-05-21,United States,West,Dallas,Home Office,Technology,Phones,3839.18,1,1176.11,3839
+1666,2024-04-09,United States,Central,San Antonio,Home Office,Technology,Accessories,4738.29,8,584.86,592
+1667,2024-12-19,United States,South,San Antonio,Corporate,Technology,Phones,2263.29,6,845.25,377
+1668,2024-02-06,United States,West,Dallas,Corporate,Technology,Laptops,2067.78,8,871.37,258
+1669,2024-08-02,United States,West,New York,Corporate,Technology,Accessories,1136.14,7,625.59,162
+1670,2024-12-17,United States,Central,San Antonio,Home Office,Furniture,Chairs,3499.55,1,165.54,3499
+1671,2024-09-24,United States,South,Dallas,Corporate,Office Supplies,Binders,4547.1,5,1262.28,909
+1672,2024-02-09,United States,Central,New York,Consumer,Technology,Accessories,2535.1,1,104.89,2535
+1673,2024-02-24,United States,Central,San Antonio,Home Office,Office Supplies,Paper,2320.67,7,1300.8,331
+1674,2024-08-20,United States,South,San Diego,Corporate,Office Supplies,Paper,443.05,10,-188.83,44
+1675,2024-11-09,United States,West,San Jose,Corporate,Office Supplies,Storage,1239.79,3,524.99,413
+1676,2024-01-29,United States,West,Dallas,Home Office,Office Supplies,Binders,4967.74,4,1186.84,1241
+1677,2024-01-08,United States,West,San Jose,Corporate,Furniture,Tables,275.3,1,740.71,275
+1678,2024-02-10,United States,South,Los Angeles,Home Office,Office Supplies,Storage,702.39,8,-34.65,87
+1679,2024-01-17,United States,West,Phoenix,Corporate,Office Supplies,Storage,127.51,4,797.96,31
+1680,2024-12-17,United States,Central,San Antonio,Home Office,Furniture,Chairs,3499.55,1,165.54,3499
+1681,2024-05-23,United States,East,San Antonio,Corporate,Furniture,Chairs,2670.69,10,1499.33,267
+1682,2024-07-30,United States,Central,Phoenix,Corporate,Office Supplies,Binders,351.74,10,1295.51,35
+1683,2024-01-31,United States,West,San Antonio,Corporate,Furniture,Bookcases,2107.33,8,146.84,263
+1684,2024-08-08,United States,East,San Diego,Home Office,Office Supplies,Storage,616.35,9,1025.43,68
+1685,2024-09-24,United States,South,New York,Consumer,Office Supplies,Storage,2101.49,3,763.21,700
+1686,2024-01-17,United States,West,Chicago,Corporate,Office Supplies,Storage,127.51,4,797.96,31
+1687,2024-06-10,United States,East,San Diego,Corporate,Technology,Accessories,3738.93,1,-25.51,3738
+1688,2024-09-18,United States,West,San Antonio,Corporate,Office Supplies,Paper,2774.21,1,1106.04,2774
+1689,2024-01-02,United States,South,San Diego,Corporate,Furniture,Chairs,3462.39,8,295.14,432
+1690,2024-12-29,United States,Central,Houston,Home Office,Office Supplies,Storage,2755.74,10,134.0,275
+1691,2024-01-11,United States,West,Los Angeles,Consumer,Furniture,Chairs,674.79,2,758.75,337
+1692,2024-08-10,United States,East,Los Angeles,Home Office,Office Supplies,Binders,3534.26,2,554.25,1767
+1693,2024-08-16,United States,Central,San Antonio,Corporate,Office Supplies,Storage,1695.04,4,1011.93,423
+1694,2024-03-21,United States,East,San Diego,Corporate,Office Supplies,Storage,4728.92,10,308.56,472
+1695,2024-06-09,United States,South,San Antonio,Home Office,Technology,Phones,2051.89,7,292.18,293
+1696,2024-03-18,United States,South,New York,Home Office,Furniture,Bookcases,3448.5,4,-52.63,862
+1697,2024-07-22,United States,East,San Diego,Corporate,Technology,Accessories,4798.52,8,760.5,599
+1698,2024-09-25,United States,Central,Houston,Consumer,Technology,Phones,605.54,1,1122.24,605
+1699,2024-09-28,United States,Central,Dallas,Corporate,Office Supplies,Paper,317.61,3,33.52,105
+1700,2024-09-15,United States,South,San Jose,Home Office,Technology,Laptops,2257.27,3,1064.21,752
+1701,2024-01-02,United States,Central,New York,Corporate,Office Supplies,Binders,4157.93,5,731.07,831
+1702,2024-04-29,United States,Central,Philadelphia,Consumer,Furniture,Bookcases,57.83,1,590.31,57
+1703,2024-01-13,United States,West,Chicago,Corporate,Furniture,Chairs,1674.9,2,1443.71,837
+1704,2024-07-02,United States,East,Dallas,Home Office,Office Supplies,Storage,3517.78,10,758.13,351
+1705,2024-11-15,United States,West,Philadelphia,Home Office,Furniture,Bookcases,2216.48,7,419.31,316
+1706,2024-08-21,United States,Central,Los Angeles,Consumer,Office Supplies,Paper,4904.83,4,772.06,1226
+1707,2024-03-11,United States,West,New York,Consumer,Technology,Accessories,1170.05,7,1099.72,167
+1708,2024-01-05,United States,Central,San Antonio,Home Office,Office Supplies,Storage,562.75,3,249.59,187
+1709,2024-09-22,United States,South,Philadelphia,Home Office,Furniture,Chairs,244.3,7,677.42,34
+1710,2024-09-09,United States,South,San Diego,Consumer,Office Supplies,Storage,3010.28,7,1048.71,430
+1711,2024-06-06,United States,Central,San Antonio,Home Office,Furniture,Tables,3854.72,8,290.93,481
+1712,2024-01-28,United States,East,Philadelphia,Corporate,Technology,Laptops,2643.71,2,-23.32,1321
+1713,2024-04-27,United States,Central,New York,Consumer,Office Supplies,Storage,2015.5,1,541.57,2015
+1714,2024-05-18,United States,Central,San Diego,Corporate,Office Supplies,Paper,1191.16,4,336.43,297
+1715,2024-10-21,United States,South,New York,Corporate,Office Supplies,Binders,969.48,9,978.84,107
+1716,2024-12-19,United States,East,Dallas,Corporate,Furniture,Chairs,2249.36,2,730.38,1124
+1717,2024-10-15,United States,South,San Diego,Corporate,Office Supplies,Binders,4830.3,7,-19.89,690
+1718,2024-02-26,United States,East,Chicago,Home Office,Office Supplies,Paper,3311.51,1,1219.83,3311
+1719,2024-03-31,United States,East,Philadelphia,Corporate,Furniture,Tables,3950.41,3,1392.23,1316
+1720,2024-06-24,United States,East,Chicago,Home Office,Technology,Phones,3248.33,1,221.16,3248
+1721,2024-06-24,United States,East,Chicago,Home Office,Technology,Phones,3248.33,1,221.16,3248
+1722,2024-11-19,United States,South,Philadelphia,Home Office,Office Supplies,Paper,3216.94,9,326.42,357
+1723,2024-05-30,United States,West,Houston,Corporate,Furniture,Chairs,3474.35,5,928.73,694
+1724,2024-11-26,United States,South,Dallas,Corporate,Furniture,Chairs,1141.93,2,517.81,570
+1725,2024-10-07,United States,East,San Diego,Corporate,Technology,Accessories,1470.22,7,1135.79,210
+1726,2024-07-25,United States,East,San Jose,Corporate,Furniture,Tables,916.42,9,-19.01,101
+1727,2024-06-19,United States,South,San Antonio,Home Office,Furniture,Chairs,4327.12,4,253.57,1081
+1728,2024-11-26,United States,East,Phoenix,Consumer,Furniture,Tables,2789.31,10,1026.01,278
+1729,2024-01-03,United States,Central,Houston,Consumer,Office Supplies,Binders,3450.91,10,1282.19,345
+1730,2024-02-22,United States,East,New York,Corporate,Furniture,Tables,528.75,6,826.33,88
+1731,2024-02-17,United States,Central,San Jose,Home Office,Furniture,Bookcases,4927.12,8,997.66,615
+1732,2024-05-08,United States,South,Houston,Consumer,Furniture,Bookcases,2606.04,6,1189.3,434
+1733,2024-06-14,United States,West,Los Angeles,Home Office,Office Supplies,Paper,3654.77,9,685.57,406
+1734,2024-03-07,United States,South,Phoenix,Corporate,Office Supplies,Storage,609.04,7,549.17,87
+1735,2024-11-26,United States,East,San Antonio,Consumer,Technology,Accessories,2499.69,2,209.84,1249
+1736,2024-07-10,United States,East,Houston,Corporate,Office Supplies,Binders,3796.4,9,123.98,421
+1737,2024-09-18,United States,Central,Chicago,Corporate,Technology,Phones,1149.36,10,18.02,114
+1738,2024-08-18,United States,Central,San Antonio,Corporate,Furniture,Bookcases,2247.5,2,775.67,1123
+1739,2024-05-14,United States,West,Dallas,Corporate,Office Supplies,Binders,3532.01,5,72.64,706
+1740,2024-01-07,United States,Central,Phoenix,Corporate,Technology,Accessories,1969.61,2,1032.23,984
+1741,2024-01-23,United States,East,Chicago,Corporate,Technology,Accessories,3867.04,5,74.69,773
+1742,2024-01-02,United States,Central,San Diego,Corporate,Office Supplies,Binders,4157.93,5,731.07,831
+1743,2024-08-24,United States,West,San Jose,Consumer,Technology,Phones,1337.77,6,159.82,222
+1744,2024-05-25,United States,West,San Diego,Home Office,Furniture,Chairs,3108.93,1,590.43,3108
+1745,2024-07-27,United States,Central,Phoenix,Home Office,Furniture,Tables,2356.33,1,151.62,2356
+1746,2024-05-25,United States,West,San Antonio,Consumer,Furniture,Bookcases,402.65,10,1316.81,40
+1747,2024-01-31,United States,West,San Diego,Corporate,Furniture,Bookcases,2107.33,8,146.84,263
+1748,2024-12-27,United States,South,Los Angeles,Home Office,Technology,Laptops,97.87,2,1406.59,48
+1749,2024-03-01,United States,West,Philadelphia,Corporate,Furniture,Tables,4666.63,5,665.08,933
+1750,2024-03-12,United States,South,San Antonio,Corporate,Technology,Laptops,3095.97,2,-167.69,1547
+1751,2024-09-09,United States,East,New York,Corporate,Furniture,Chairs,2792.41,6,594.59,465
+1752,2024-06-25,United States,Central,Chicago,Corporate,Office Supplies,Paper,3050.73,9,-3.4,338
+1753,2024-03-10,United States,Central,Los Angeles,Consumer,Technology,Phones,4746.68,6,1230.74,791
+1754,2024-12-27,United States,Central,San Diego,Home Office,Furniture,Tables,4305.05,2,968.55,2152
+1755,2024-10-06,United States,East,Phoenix,Corporate,Office Supplies,Binders,2933.42,3,530.64,977
+1756,2024-05-24,United States,East,San Diego,Home Office,Office Supplies,Storage,4119.44,6,674.33,686
+1757,2024-10-03,United States,Central,Chicago,Corporate,Technology,Laptops,3790.27,3,1143.85,1263
+1758,2024-05-01,United States,Central,New York,Home Office,Furniture,Bookcases,2452.8,9,24.93,272
+1759,2024-07-06,United States,South,Houston,Corporate,Technology,Laptops,273.95,1,769.48,273
+1760,2024-02-21,United States,South,New York,Corporate,Furniture,Chairs,2294.38,6,76.51,382
+1761,2024-03-23,United States,East,Chicago,Consumer,Technology,Laptops,2566.3,6,1161.45,427
+1762,2024-10-22,United States,Central,Chicago,Consumer,Furniture,Tables,3827.45,8,1493.15,478
+1763,2024-02-05,United States,West,Los Angeles,Corporate,Office Supplies,Binders,1513.58,5,720.73,302
+1764,2024-03-16,United States,West,San Jose,Corporate,Technology,Accessories,458.6,10,1067.04,45
+1765,2024-05-21,United States,West,San Jose,Home Office,Technology,Phones,3839.18,1,1176.11,3839
+1766,2024-05-14,United States,West,Phoenix,Corporate,Furniture,Bookcases,510.4,6,-70.75,85
+1767,2024-06-25,United States,Central,Philadelphia,Corporate,Office Supplies,Paper,3050.73,9,-3.4,338
+1768,2024-02-13,United States,East,San Jose,Home Office,Technology,Phones,319.96,10,1375.44,31
+1769,2024-12-08,United States,South,San Antonio,Consumer,Furniture,Bookcases,4749.76,9,-72.42,527
+1770,2024-12-07,United States,East,Dallas,Consumer,Furniture,Bookcases,3357.3,9,503.78,373
+1771,2024-06-30,United States,South,San Antonio,Corporate,Office Supplies,Paper,2361.77,1,944.72,2361
+1772,2024-08-24,United States,West,San Antonio,Consumer,Technology,Phones,1337.77,6,159.82,222
+1773,2024-08-02,United States,South,Phoenix,Consumer,Furniture,Chairs,598.75,8,814.46,74
+1774,2024-03-10,United States,South,San Diego,Consumer,Office Supplies,Binders,4962.81,3,992.43,1654
+1775,2024-12-29,United States,East,Houston,Consumer,Technology,Phones,4253.44,2,951.14,2126
+1776,2024-08-27,United States,Central,Chicago,Home Office,Technology,Accessories,2251.98,9,100.96,250
+1777,2024-12-08,United States,South,Dallas,Consumer,Furniture,Bookcases,4749.76,9,-72.42,527
+1778,2024-11-06,United States,East,San Antonio,Consumer,Technology,Phones,4654.54,4,914.77,1163
+1779,2024-07-30,United States,South,San Diego,Home Office,Furniture,Bookcases,2673.46,7,212.86,381
+1780,2024-10-22,United States,West,Phoenix,Home Office,Office Supplies,Paper,394.3,4,1114.22,98
+1781,2024-10-14,United States,West,Dallas,Home Office,Office Supplies,Binders,3266.93,9,513.18,362
+1782,2024-07-30,United States,South,Chicago,Consumer,Technology,Phones,1882.55,9,622.39,209
+1783,2024-01-22,United States,South,San Diego,Home Office,Technology,Accessories,1598.84,10,1396.54,159
+1784,2024-02-29,United States,West,Chicago,Corporate,Technology,Phones,1593.86,8,1133.26,199
+1785,2024-10-01,United States,East,San Jose,Home Office,Office Supplies,Storage,591.12,8,1205.92,73
+1786,2024-09-28,United States,Central,New York,Corporate,Office Supplies,Paper,317.61,3,33.52,105
+1787,2024-03-15,United States,Central,San Jose,Consumer,Technology,Accessories,1473.77,2,388.82,736
+1788,2024-05-13,United States,Central,Houston,Corporate,Technology,Accessories,4263.51,8,-108.75,532
+1789,2024-06-17,United States,South,Los Angeles,Home Office,Technology,Laptops,702.27,3,787.75,234
+1790,2024-08-04,United States,East,San Diego,Corporate,Furniture,Bookcases,1939.02,8,699.49,242
+1791,2024-01-20,United States,East,Chicago,Corporate,Technology,Accessories,4166.9,2,895.93,2083
+1792,2024-03-21,United States,East,Houston,Corporate,Office Supplies,Binders,3909.38,6,938.43,651
+1793,2024-08-31,United States,Central,Los Angeles,Corporate,Furniture,Bookcases,150.15,5,328.61,30
+1794,2024-06-30,United States,South,San Diego,Corporate,Office Supplies,Paper,2361.77,1,944.72,2361
+1795,2024-11-24,United States,Central,Philadelphia,Consumer,Furniture,Bookcases,3667.41,10,448.63,366
+1796,2024-12-08,United States,Central,Dallas,Consumer,Technology,Phones,1364.79,3,941.87,454
+1797,2024-05-27,United States,East,San Jose,Home Office,Office Supplies,Paper,3399.28,7,1322.79,485
+1798,2024-03-22,United States,East,Dallas,Consumer,Office Supplies,Storage,4250.91,8,-140.84,531
+1799,2024-02-05,United States,Central,Chicago,Consumer,Office Supplies,Paper,4255.4,8,-20.58,531
+1800,2024-12-07,United States,East,Chicago,Consumer,Furniture,Bookcases,3357.3,9,503.78,373
+1801,2024-08-21,United States,Central,Chicago,Consumer,Office Supplies,Paper,4904.83,4,772.06,1226
+1802,2024-02-18,United States,South,Philadelphia,Home Office,Office Supplies,Storage,3646.93,8,387.77,455
+1803,2024-04-12,United States,West,Philadelphia,Home Office,Technology,Phones,4388.48,6,702.45,731
+1804,2024-04-16,United States,South,Philadelphia,Corporate,Office Supplies,Paper,1210.8,1,941.78,1210
+1805,2024-04-30,United States,South,New York,Consumer,Office Supplies,Paper,1905.82,1,341.76,1905
+1806,2024-11-19,United States,East,San Antonio,Consumer,Furniture,Bookcases,383.63,1,1261.38,383
+1807,2024-10-26,United States,East,Dallas,Home Office,Office Supplies,Binders,4248.84,6,1377.68,708
+1808,2024-11-28,United States,Central,Dallas,Consumer,Office Supplies,Binders,4378.4,5,-41.32,875
+1809,2024-04-22,United States,West,Phoenix,Home Office,Furniture,Tables,2613.89,1,747.59,2613
+1810,2024-08-18,United States,Central,San Antonio,Corporate,Furniture,Bookcases,2247.5,2,775.67,1123
+1811,2024-02-06,United States,East,San Jose,Consumer,Technology,Phones,3973.51,10,1073.23,397
+1812,2024-05-11,United States,South,New York,Corporate,Technology,Phones,3745.47,6,1167.2,624
+1813,2024-09-09,United States,South,New York,Consumer,Office Supplies,Storage,3010.28,7,1048.71,430
+1814,2024-02-10,United States,Central,San Antonio,Home Office,Technology,Phones,1513.42,8,824.46,189
+1815,2024-09-09,United States,South,New York,Consumer,Office Supplies,Storage,3010.28,7,1048.71,430
+1816,2024-11-16,United States,South,San Antonio,Consumer,Technology,Laptops,530.09,4,90.41,132
+1817,2024-10-11,United States,South,San Jose,Consumer,Office Supplies,Storage,989.99,4,1446.81,247
+1818,2024-07-30,United States,South,San Diego,Consumer,Technology,Phones,1882.55,9,622.39,209
+1819,2024-01-06,United States,West,Houston,Home Office,Office Supplies,Binders,1444.05,2,323.21,722
+1820,2024-12-26,United States,East,San Diego,Home Office,Furniture,Tables,553.67,9,117.83,61
+1821,2024-07-30,United States,West,Dallas,Home Office,Furniture,Tables,3373.13,4,1088.22,843
+1822,2024-11-16,United States,East,Los Angeles,Home Office,Furniture,Tables,423.23,1,1244.3,423
+1823,2024-06-09,United States,West,Philadelphia,Consumer,Office Supplies,Storage,1088.08,5,967.24,217
+1824,2024-07-07,United States,South,Chicago,Consumer,Furniture,Tables,3675.69,9,1092.82,408
+1825,2024-12-03,United States,Central,Los Angeles,Consumer,Furniture,Bookcases,3634.72,6,1368.0,605
+1826,2024-01-12,United States,West,San Diego,Consumer,Furniture,Chairs,1864.63,1,437.83,1864
+1827,2024-02-05,United States,West,Houston,Corporate,Office Supplies,Binders,1513.58,5,720.73,302
+1828,2024-01-05,United States,Central,Los Angeles,Home Office,Technology,Phones,3033.78,6,283.75,505
+1829,2024-03-15,United States,East,San Antonio,Corporate,Furniture,Bookcases,2788.89,10,784.54,278
+1830,2024-11-09,United States,West,Houston,Corporate,Office Supplies,Storage,1239.79,3,524.99,413
+1831,2024-11-13,United States,West,New York,Home Office,Furniture,Bookcases,1510.77,7,1300.72,215
+1832,2024-12-09,United States,West,New York,Corporate,Furniture,Bookcases,1084.0,6,315.42,180
+1833,2024-12-01,United States,West,Los Angeles,Corporate,Technology,Phones,385.68,9,1412.62,42
+1834,2024-11-30,United States,South,San Diego,Corporate,Office Supplies,Storage,3439.25,7,1007.24,491
+1835,2024-06-06,United States,West,San Jose,Corporate,Furniture,Tables,3446.06,5,973.49,689
+1836,2024-01-16,United States,South,Houston,Corporate,Technology,Phones,2801.97,9,224.75,311
+1837,2024-05-08,United States,East,Houston,Consumer,Furniture,Bookcases,876.21,2,-37.56,438
+1838,2024-09-28,United States,West,Philadelphia,Home Office,Furniture,Bookcases,1202.54,2,502.61,601
+1839,2024-06-10,United States,East,San Diego,Home Office,Furniture,Chairs,4120.57,9,669.16,457
+1840,2024-08-30,United States,West,Dallas,Home Office,Office Supplies,Binders,1138.34,7,1154.51,162
+1841,2024-09-16,United States,Central,San Jose,Consumer,Office Supplies,Paper,4211.16,9,107.93,467
+1842,2024-06-25,United States,South,Philadelphia,Home Office,Technology,Laptops,733.44,2,1071.28,366
+1843,2024-09-23,United States,Central,Chicago,Corporate,Technology,Accessories,4445.47,3,382.65,1481
+1844,2024-03-10,United States,Central,Chicago,Consumer,Technology,Phones,4746.68,6,1230.74,791
+1845,2024-10-16,United States,Central,San Diego,Corporate,Technology,Accessories,1388.66,1,342.09,1388
+1846,2024-03-10,United States,Central,Chicago,Consumer,Technology,Phones,4746.68,6,1230.74,791
+1847,2024-12-04,United States,West,San Jose,Corporate,Office Supplies,Binders,4065.3,2,618.58,2032
+1848,2024-02-13,United States,South,Houston,Corporate,Office Supplies,Binders,1185.31,5,553.37,237
+1849,2024-08-23,United States,Central,Philadelphia,Home Office,Office Supplies,Paper,96.52,8,1332.06,12
+1850,2024-09-18,United States,West,Chicago,Corporate,Office Supplies,Paper,2774.21,1,1106.04,2774
+1851,2024-06-04,United States,West,Houston,Consumer,Office Supplies,Binders,1647.17,4,388.24,411
+1852,2024-10-12,United States,East,Los Angeles,Consumer,Technology,Phones,3969.33,10,883.81,396
+1853,2024-06-10,United States,East,Chicago,Consumer,Technology,Accessories,2318.51,10,1493.36,231
+1854,2024-12-19,United States,South,San Jose,Corporate,Technology,Phones,2263.29,6,845.25,377
+1855,2024-04-06,United States,East,Los Angeles,Corporate,Office Supplies,Binders,1117.17,4,1018.54,279
+1856,2024-05-30,United States,West,Philadelphia,Consumer,Technology,Phones,3965.99,1,336.51,3965
+1857,2024-08-23,United States,East,Chicago,Corporate,Furniture,Bookcases,440.06,5,1209.99,88
+1858,2024-12-01,United States,Central,San Antonio,Corporate,Technology,Laptops,3828.64,8,1443.06,478
+1859,2024-12-22,United States,Central,Philadelphia,Home Office,Furniture,Tables,1443.54,4,-36.94,360
+1860,2024-11-28,United States,South,Houston,Consumer,Furniture,Tables,4899.97,9,1460.24,544
+1861,2024-08-02,United States,West,Dallas,Corporate,Technology,Accessories,1136.14,7,625.59,162
+1862,2024-05-22,United States,East,Chicago,Consumer,Technology,Laptops,3505.79,6,272.38,584
+1863,2024-09-01,United States,East,San Antonio,Home Office,Office Supplies,Paper,1769.08,3,577.23,589
+1864,2024-08-14,United States,East,Los Angeles,Consumer,Technology,Laptops,1371.93,3,1377.04,457
+1865,2024-11-25,United States,Central,New York,Consumer,Furniture,Bookcases,793.69,3,415.78,264
+1866,2024-03-06,United States,Central,New York,Home Office,Furniture,Tables,4051.3,3,1409.77,1350
+1867,2024-09-06,United States,East,San Antonio,Corporate,Office Supplies,Paper,4496.49,4,344.53,1124
+1868,2024-03-27,United States,South,Los Angeles,Home Office,Technology,Phones,2005.24,1,450.64,2005
+1869,2024-04-06,United States,Central,Philadelphia,Home Office,Office Supplies,Storage,2404.36,3,1428.13,801
+1870,2024-06-27,United States,South,Phoenix,Corporate,Furniture,Tables,4654.72,2,1278.64,2327
+1871,2024-09-05,United States,Central,San Antonio,Home Office,Furniture,Bookcases,3823.16,1,-30.72,3823
+1872,2024-05-01,United States,Central,Philadelphia,Home Office,Furniture,Bookcases,2452.8,9,24.93,272
+1873,2024-12-17,United States,Central,San Antonio,Home Office,Furniture,Chairs,3499.55,1,165.54,3499
+1874,2024-07-07,United States,East,New York,Corporate,Technology,Laptops,2891.8,7,1236.76,413
+1875,2024-10-03,United States,West,San Jose,Home Office,Office Supplies,Storage,4308.42,2,103.41,2154
+1876,2024-09-18,United States,Central,New York,Corporate,Technology,Phones,1149.36,10,18.02,114
+1877,2024-04-21,United States,South,Houston,Corporate,Furniture,Chairs,349.23,10,1351.68,34
+1878,2024-03-19,United States,Central,Dallas,Consumer,Office Supplies,Storage,1584.04,9,1365.57,176
+1879,2024-08-14,United States,East,Los Angeles,Consumer,Technology,Laptops,1371.93,3,1377.04,457
+1880,2024-09-25,United States,Central,Phoenix,Corporate,Technology,Laptops,759.31,2,1197.64,379
+1881,2024-01-13,United States,Central,Dallas,Consumer,Office Supplies,Storage,4938.88,10,1196.69,493
+1882,2024-06-18,United States,Central,San Jose,Consumer,Furniture,Bookcases,4006.74,7,1312.13,572
+1883,2024-03-08,United States,East,New York,Consumer,Furniture,Chairs,563.38,10,620.55,56
+1884,2024-05-17,United States,East,Phoenix,Consumer,Furniture,Bookcases,2378.98,8,1357.32,297
+1885,2024-07-14,United States,Central,Dallas,Home Office,Furniture,Chairs,1514.57,5,-162.7,302
+1886,2024-10-04,United States,East,Phoenix,Corporate,Technology,Phones,4079.43,2,847.39,2039
+1887,2024-01-13,United States,Central,Los Angeles,Consumer,Office Supplies,Binders,1154.89,2,950.39,577
+1888,2024-01-15,United States,South,Chicago,Corporate,Technology,Accessories,950.11,4,403.2,237
+1889,2024-02-20,United States,West,New York,Consumer,Furniture,Tables,1116.56,5,610.12,223
+1890,2024-03-15,United States,East,San Antonio,Corporate,Furniture,Bookcases,2788.89,10,784.54,278
+1891,2024-01-03,United States,East,New York,Home Office,Furniture,Tables,4679.78,10,620.98,467
+1892,2024-05-08,United States,South,San Jose,Corporate,Technology,Laptops,1036.12,7,1250.67,148
+1893,2024-10-22,United States,West,San Jose,Corporate,Furniture,Chairs,3936.79,2,19.99,1968
+1894,2024-12-14,United States,East,Los Angeles,Consumer,Technology,Laptops,4876.66,7,434.44,696
+1895,2024-11-09,United States,Central,New York,Corporate,Furniture,Bookcases,3259.86,9,1174.97,362
+1896,2024-12-27,United States,South,Philadelphia,Home Office,Furniture,Tables,1508.84,8,122.62,188
+1897,2024-05-05,United States,West,San Antonio,Corporate,Furniture,Bookcases,1928.3,9,173.35,214
+1898,2024-03-11,United States,Central,Dallas,Corporate,Furniture,Chairs,2620.7,3,830.64,873
+1899,2024-12-24,United States,Central,Los Angeles,Corporate,Furniture,Tables,4278.91,5,566.24,855
+1900,2024-10-22,United States,West,San Diego,Consumer,Technology,Phones,3300.84,4,1240.37,825
+1901,2024-10-14,United States,Central,Houston,Home Office,Furniture,Chairs,2943.7,10,478.98,294
+1902,2024-06-09,United States,South,Dallas,Corporate,Office Supplies,Binders,3342.28,6,1421.11,557
+1903,2024-04-13,United States,West,San Diego,Home Office,Furniture,Chairs,1812.34,2,3.79,906
+1904,2024-10-24,United States,South,Chicago,Home Office,Office Supplies,Binders,1103.17,1,737.71,1103
+1905,2024-03-19,United States,West,Houston,Corporate,Technology,Accessories,1188.59,10,1216.72,118
+1906,2024-08-28,United States,Central,San Diego,Consumer,Technology,Phones,1884.99,7,-122.28,269
+1907,2024-12-03,United States,Central,Chicago,Consumer,Furniture,Bookcases,3634.72,6,1368.0,605
+1908,2024-02-19,United States,West,Chicago,Consumer,Furniture,Chairs,1000.06,9,229.11,111
+1909,2024-09-25,United States,Central,San Antonio,Consumer,Technology,Phones,605.54,1,1122.24,605
+1910,2024-06-14,United States,East,San Diego,Consumer,Office Supplies,Storage,3444.89,6,473.28,574
+1911,2024-01-03,United States,East,Philadelphia,Home Office,Furniture,Tables,4679.78,10,620.98,467
+1912,2024-09-17,United States,East,Phoenix,Consumer,Furniture,Chairs,4300.51,1,215.74,4300
+1913,2024-11-25,United States,Central,New York,Consumer,Furniture,Bookcases,793.69,3,415.78,264
+1914,2024-05-18,United States,Central,Chicago,Corporate,Office Supplies,Paper,1191.16,4,336.43,297
+1915,2024-12-17,United States,Central,San Antonio,Home Office,Furniture,Tables,478.2,8,448.4,59
+1916,2024-08-26,United States,Central,Dallas,Corporate,Technology,Accessories,1344.73,9,1300.78,149
+1917,2024-05-26,United States,South,New York,Consumer,Furniture,Bookcases,657.06,2,568.47,328
+1918,2024-08-31,United States,Central,Chicago,Consumer,Office Supplies,Storage,4624.59,5,1328.83,924
+1919,2024-01-28,United States,Central,Phoenix,Consumer,Technology,Laptops,2448.81,4,1185.87,612
+1920,2024-11-23,United States,East,Chicago,Corporate,Office Supplies,Binders,746.18,2,204.59,373
+1921,2024-08-23,United States,Central,New York,Home Office,Office Supplies,Paper,96.52,8,1332.06,12
+1922,2024-05-08,United States,East,Philadelphia,Consumer,Office Supplies,Binders,3641.67,8,1417.62,455
+1923,2024-02-24,United States,East,Dallas,Consumer,Technology,Laptops,2487.49,7,-18.17,355
+1924,2024-07-10,United States,East,Phoenix,Corporate,Office Supplies,Binders,3796.4,9,123.98,421
+1925,2024-06-06,United States,East,San Antonio,Corporate,Technology,Laptops,1309.56,1,1067.87,1309
+1926,2024-03-15,United States,East,Dallas,Corporate,Furniture,Bookcases,2788.89,10,784.54,278
+1927,2024-12-15,United States,Central,San Jose,Corporate,Furniture,Chairs,4583.87,2,455.99,2291
+1928,2024-05-08,United States,West,Chicago,Home Office,Furniture,Tables,3143.92,10,848.34,314
+1929,2024-01-19,United States,West,Chicago,Corporate,Technology,Accessories,819.16,8,1316.5,102
+1930,2024-12-19,United States,South,Philadelphia,Corporate,Technology,Phones,2263.29,6,845.25,377
+1931,2024-10-06,United States,Central,Chicago,Home Office,Office Supplies,Paper,3871.35,5,837.13,774
+1932,2024-02-10,United States,South,Phoenix,Home Office,Office Supplies,Storage,702.39,8,-34.65,87
+1933,2024-07-10,United States,South,New York,Home Office,Office Supplies,Storage,2768.71,8,1087.5,346
+1934,2024-03-15,United States,South,San Diego,Consumer,Technology,Laptops,4624.86,4,139.46,1156
+1935,2024-10-07,United States,Central,San Jose,Corporate,Office Supplies,Storage,4973.41,9,301.33,552
+1936,2024-02-22,United States,East,Houston,Corporate,Furniture,Tables,528.75,6,826.33,88
+1937,2024-10-02,United States,Central,Los Angeles,Consumer,Technology,Phones,3914.66,10,1062.28,391
+1938,2024-08-24,United States,West,Philadelphia,Consumer,Technology,Phones,1337.77,6,159.82,222
+1939,2024-03-19,United States,Central,Chicago,Consumer,Office Supplies,Storage,1584.04,9,1365.57,176
+1940,2024-09-06,United States,East,Philadelphia,Corporate,Office Supplies,Paper,4496.49,4,344.53,1124
+1941,2024-02-05,United States,West,San Jose,Home Office,Furniture,Bookcases,3437.78,5,1495.62,687
+1942,2024-04-29,United States,East,Dallas,Home Office,Technology,Accessories,1073.53,6,459.76,178
+1943,2024-08-12,United States,South,San Antonio,Home Office,Furniture,Chairs,1658.23,8,1308.9,207
+1944,2024-03-21,United States,South,Phoenix,Home Office,Technology,Accessories,3532.52,10,1472.55,353
+1945,2024-05-22,United States,South,Chicago,Consumer,Furniture,Chairs,3764.86,10,837.56,376
+1946,2024-03-04,United States,South,Dallas,Corporate,Furniture,Chairs,4818.08,6,1144.83,803
+1947,2024-06-06,United States,East,San Jose,Corporate,Technology,Laptops,1309.56,1,1067.87,1309
+1948,2024-08-20,United States,West,San Diego,Home Office,Technology,Phones,2106.35,10,-101.85,210
+1949,2024-01-20,United States,East,Houston,Consumer,Office Supplies,Storage,2437.09,3,1333.37,812
+1950,2024-12-08,United States,South,New York,Consumer,Furniture,Bookcases,4749.76,9,-72.42,527
+1951,2024-07-05,United States,South,Chicago,Consumer,Office Supplies,Paper,3513.09,6,1140.92,585
+1952,2024-06-27,United States,Central,Dallas,Home Office,Furniture,Bookcases,2368.55,10,1354.61,236
+1953,2024-08-23,United States,East,Los Angeles,Corporate,Technology,Laptops,625.53,2,450.54,312
+1954,2024-02-09,United States,Central,Los Angeles,Consumer,Technology,Accessories,2535.1,1,104.89,2535
+1955,2024-11-28,United States,Central,Houston,Corporate,Technology,Laptops,4503.09,8,5.71,562
+1956,2024-03-26,United States,East,San Jose,Home Office,Furniture,Chairs,374.09,4,1270.42,93
+1957,2024-12-13,United States,West,Philadelphia,Home Office,Office Supplies,Paper,530.96,1,325.19,530
+1958,2024-09-26,United States,West,Los Angeles,Consumer,Furniture,Chairs,224.02,6,1262.63,37
+1959,2024-04-12,United States,West,San Jose,Home Office,Technology,Phones,4388.48,6,702.45,731
+1960,2024-06-18,United States,Central,San Diego,Consumer,Furniture,Bookcases,4006.74,7,1312.13,572
+1961,2024-09-16,United States,Central,San Jose,Consumer,Office Supplies,Paper,4211.16,9,107.93,467
+1962,2024-01-20,United States,East,New York,Consumer,Office Supplies,Storage,2437.09,3,1333.37,812
+1963,2024-10-18,United States,East,San Diego,Home Office,Technology,Accessories,4802.54,2,1410.9,2401
+1964,2024-12-08,United States,Central,Philadelphia,Consumer,Technology,Phones,1364.79,3,941.87,454
+1965,2024-07-16,United States,Central,Los Angeles,Corporate,Office Supplies,Storage,3632.48,10,1284.58,363
+1966,2024-09-01,United States,East,Houston,Home Office,Office Supplies,Paper,1769.08,3,577.23,589
+1967,2024-01-09,United States,South,Houston,Home Office,Technology,Accessories,635.61,1,890.42,635
+1968,2024-09-10,United States,Central,San Diego,Corporate,Technology,Phones,4150.3,6,730.43,691
+1969,2024-08-14,United States,South,Houston,Corporate,Technology,Laptops,1117.07,9,-6.51,124
+1970,2024-06-09,United States,West,San Antonio,Consumer,Office Supplies,Storage,1088.08,5,967.24,217
+1971,2024-05-06,United States,West,Philadelphia,Corporate,Furniture,Chairs,2691.76,1,1098.88,2691
+1972,2024-01-30,United States,South,San Antonio,Home Office,Office Supplies,Binders,1631.95,3,1026.18,543
+1973,2024-08-04,United States,East,San Diego,Corporate,Furniture,Bookcases,1939.02,8,699.49,242
+1974,2024-07-30,United States,South,Chicago,Consumer,Technology,Phones,1882.55,9,622.39,209
+1975,2024-01-06,United States,East,Houston,Home Office,Furniture,Tables,4086.13,3,384.6,1362
+1976,2024-06-06,United States,West,Phoenix,Corporate,Furniture,Tables,3446.06,5,973.49,689
+1977,2024-04-08,United States,West,Los Angeles,Consumer,Furniture,Chairs,2145.71,7,143.26,306
+1978,2024-03-22,United States,East,New York,Consumer,Office Supplies,Storage,4250.91,8,-140.84,531
+1979,2024-07-15,United States,West,New York,Consumer,Technology,Accessories,4659.24,1,739.87,4659
+1980,2024-05-04,United States,West,Dallas,Home Office,Furniture,Tables,1065.77,9,152.17,118
+1981,2024-01-03,United States,East,Phoenix,Home Office,Furniture,Tables,4679.78,10,620.98,467
+1982,2024-03-27,United States,South,Houston,Home Office,Technology,Phones,2005.24,1,450.64,2005
+1983,2024-11-01,United States,Central,Dallas,Consumer,Office Supplies,Storage,4171.51,5,186.72,834
+1984,2024-06-16,United States,South,Phoenix,Home Office,Furniture,Bookcases,3189.76,2,327.29,1594
+1985,2024-06-06,United States,West,Houston,Corporate,Furniture,Tables,3446.06,5,973.49,689
+1986,2024-06-06,United States,South,San Diego,Consumer,Technology,Accessories,495.74,7,659.26,70
+1987,2024-09-25,United States,West,Chicago,Corporate,Technology,Accessories,1895.62,5,458.61,379
+1988,2024-08-25,United States,East,Philadelphia,Corporate,Technology,Phones,1851.13,1,926.55,1851
+1989,2024-12-05,United States,Central,San Diego,Home Office,Office Supplies,Binders,3047.89,3,512.0,1015
+1990,2024-04-06,United States,West,San Diego,Corporate,Technology,Accessories,144.67,4,1036.19,36
+1991,2024-05-30,United States,Central,San Jose,Consumer,Furniture,Bookcases,4024.56,5,1289.39,804
+1992,2024-08-14,United States,East,Houston,Consumer,Technology,Laptops,1371.93,3,1377.04,457
+1993,2024-03-30,United States,East,Phoenix,Home Office,Office Supplies,Paper,4338.92,3,-174.74,1446
+1994,2024-02-10,United States,Central,Dallas,Home Office,Technology,Phones,1513.42,8,824.46,189
+1995,2024-08-02,United States,South,Houston,Consumer,Furniture,Chairs,598.75,8,814.46,74
+1996,2024-02-26,United States,East,Chicago,Home Office,Office Supplies,Paper,3311.51,1,1219.83,3311
+1997,2024-08-04,United States,East,San Diego,Corporate,Furniture,Bookcases,1939.02,8,699.49,242
+1998,2024-05-04,United States,West,Phoenix,Home Office,Furniture,Tables,1065.77,9,152.17,118
+1999,2024-02-21,United States,Central,New York,Corporate,Technology,Laptops,3083.25,5,118.16,616
