@@ -38,7 +38,8 @@ The goal of this project is to answer key business questions such as:
   - Quantity  
   - Category  
   - Sub-Category  
-  - Segment  
+  - Segment
+  - Region
 
 ---
 
