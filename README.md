@@ -7,7 +7,7 @@ The goal of this project is to answer key business questions such as:
 - How sales and profit change over time
 - Which product categories and sub-categories perform best
 - How customer segments contribute to sales and quantity
-- Overall performance metrics like **AOV (Average Order Value)** and total profit
+- Overall performance metrics like **AOV (Average Order Value)**
 
 ---
 
@@ -104,6 +104,21 @@ The goal of this project is to answer key business questions such as:
 
 ---
 
+## Business Recommendations
+
+- **Adopt a balanced category strategy:**  
+  All product categories contribute almost equally to overall sales. This indicates a well-diversified portfolio, and the business should continue focusing on all categories rather than prioritizing a single one.
+
+- **Strengthen high-profit sub-categories:**  
+  *Binders* are the most profitable sub-category, followed by *Phones* and *Bookcases*. These sub-categories should be prioritized through better inventory planning, targeted promotions, and potential bundling strategies to maximize profitability.
+
+- **Improve low-performing sub-categories:**  
+  *Laptops* are identified as the least profitable sub-category. Further analysis is recommended to identify underlying issues such as pricing strategy, discounting, or cost structure, and to take corrective actions accordingly.
+
+- **Boost sales during low-performing months:**  
+  Sales performance in **April** and **July** is comparatively lower. Focused marketing campaigns, seasonal offers, or promotional strategies during these months could help improve overall sales performance.
+
+
 ## ❓ Questions a Data Analyst Asks Before Analysis
 
 - What is the objective of the analysis?
@@ -131,7 +146,7 @@ The goal of this project is to answer key business questions such as:
 ## 📊 Dashboard & Results
 The final insights are presented using **Power BI dashboards**, making the analysis interactive and easy to understand for business stakeholders.
 
----
+
 
 ## 🚀 Conclusion
 This project demonstrates the complete **data analysis lifecycle**—from raw data to actionable insights—using **Python for data analysis** and **Power BI for visualization**. The findings help in understanding sales performance, customer behavior, and profitability trends.
